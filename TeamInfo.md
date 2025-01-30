@@ -4,10 +4,10 @@
 
 | Name                | Email                       | Role       |
 |---------------------|-----------------------------|------------|
-| Kundan Mergu        | jbacino2@illinois.edu         | Captain    |
-| Vashishth Goswami   | jackief3@illinois.edu         | Member     |
-| Karthik Bagavathy   | mwojt3@illinois.edu           | Member     |
-| Harshita Thota      | pptas2@illinois.edu        | Member     |
+| Joey Bacino        | jbacino2@illinois.edu         | Captain    |
+| Jackie Fang   | jackief3@illinois.edu         | Member     |
+| Max Wojtowicz   | mwojt3@illinois.edu           | Member     |
+| Patrick Ptasznik      | pptas2@illinois.edu        | Member     |
 
 ## Project Information
 
