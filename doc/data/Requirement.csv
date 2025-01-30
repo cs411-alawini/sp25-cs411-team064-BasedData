@@ -1,0 +1,5083 @@
+RequirementID,MajorID,Credits,CourseID
+1,Accountancy,3,ACCY201
+2,Accountancy,3,ACCY202
+3,Accountancy,3,BUS101
+4,Accountancy,3,BUS201
+5,Accountancy,3,BUS301
+6,Accountancy,3,BUS401
+7,Accountancy,3,BADM210
+8,Accountancy,3,BADM211
+9,Accountancy,3,BADM275
+10,Accountancy,3,BADM300
+11,Accountancy,3,BADM310
+12,Accountancy,3,BADM320
+13,Accountancy,3,BADM449
+14,Accountancy,3,CMN101
+15,Accountancy,3,CS105
+16,Accountancy,3,ECON102
+17,Accountancy,3,ECON103
+18,Accountancy,3,FIN221
+19,Accountancy,3,MATH115
+20,Accountancy,3,MATH220
+21,Accountancy,3,MATH221
+22,Accountancy,3,MATH231
+23,Accountancy,3,MATH234
+24,Accountancy,3,STAT100
+25,Accountancy,3,ACCY301
+26,Accountancy,3,ACCY302
+27,Accountancy,3,ACCY303
+28,Accountancy,3,ACCY304
+29,Accountancy,3,ACCY312
+30,Accountancy,3,ACCY405
+31,Accountancy,3,ACCY410
+32,Accountancy,3,ACCY451
+33,Accountancy + Data Science,3,ACCY201
+34,Accountancy + Data Science,3,ACCY202
+35,Accountancy + Data Science,3,BADM275
+36,Accountancy + Data Science,3,BADM300
+37,Accountancy + Data Science,3,BADM310
+38,Accountancy + Data Science,3,BADM320
+39,Accountancy + Data Science,3,BADM449
+40,Accountancy + Data Science,3,BUS101
+41,Accountancy + Data Science,3,BUS201
+42,Accountancy + Data Science,3,BUS401
+43,Accountancy + Data Science,3,CMN101
+44,Accountancy + Data Science,3,ECON102
+45,Accountancy + Data Science,3,ECON103
+46,Accountancy + Data Science,3,FIN221
+47,Accountancy + Data Science,3,ACCY301
+48,Accountancy + Data Science,3,ACCY302
+49,Accountancy + Data Science,3,ACCY303
+50,Accountancy + Data Science,3,ACCY304
+51,Accountancy + Data Science,3,ACCY312
+52,Accountancy + Data Science,3,ACCY405
+53,Accountancy + Data Science,3,ACCY410
+54,Accountancy + Data Science,3,MATH220
+55,Accountancy + Data Science,3,MATH221
+56,Accountancy + Data Science,3,MATH234
+57,Accountancy + Data Science,3,MATH227
+58,Accountancy + Data Science,3,MATH257
+59,Accountancy + Data Science,4,STAT107
+60,Accountancy + Data Science,4,STAT207
+61,Accountancy + Data Science,4,CS307
+62,Accountancy + Data Science,4,CS277
+63,Accountancy + Data Science,3,IS467
+64,Accountancy + Data Science,3,IS477
+65,Advertising,3,ADV250
+66,Advertising,3,ADV281
+67,Advertising,3,ADV284
+68,Advertising,3,ADV360
+69,Advertising,3,ADV390
+70,Advertising,3,ADV492
+71,Advertising,3,ADV498
+72,Advertising,3,BADM320
+73,Advertising,3,ECON102
+74,Advertising,3,ECON103
+75,Advertising,3,STAT100
+76,Advertising,3,ANTH103
+77,Advertising,4,PSYC100
+78,Advertising,4,SOC100
+79,Aerospace Engineering,2,AE100
+80,Aerospace Engineering,1,ENG100
+81,Aerospace Engineering,3,CHEM102
+82,Aerospace Engineering,1,CHEM103
+83,Aerospace Engineering,4,MATH221
+84,Aerospace Engineering,3,MATH231
+85,Aerospace Engineering,4,MATH241
+86,Aerospace Engineering,3,MATH257
+87,Aerospace Engineering,3,MATH285
+88,Aerospace Engineering,4,PHYS211
+89,Aerospace Engineering,4,PHYS212
+90,Aerospace Engineering,2,AE140
+91,Aerospace Engineering,3,AE202
+92,Aerospace Engineering,3,AE311
+93,Aerospace Engineering,3,AE312
+94,Aerospace Engineering,3,AE321
+95,Aerospace Engineering,3,AE323
+96,Aerospace Engineering,3,AE352
+97,Aerospace Engineering,3,AE353
+98,Aerospace Engineering,3,AE370
+99,Aerospace Engineering,3,AE433
+100,Aerospace Engineering,3,AE442
+101,Aerospace Engineering,3,AE443
+102,Aerospace Engineering,2,AE460
+103,Aerospace Engineering,2,AE461
+104,Aerospace Engineering,2,AE483
+105,Aerospace Engineering,3,CS101
+106,Aerospace Engineering,3,ECE205
+107,Aerospace Engineering,3,ME200
+108,Aerospace Engineering,3,MSE280
+109,Aerospace Engineering,2,TAM210
+110,Aerospace Engineering,3,TAM212
+111,Aerospace Engineering,3,AE402
+112,Aerospace Engineering,3,AE403
+113,Aerospace Engineering,3,AE410
+114,Aerospace Engineering,4,AE412
+115,Aerospace Engineering,3,AE416
+116,Aerospace Engineering,3,AE419
+117,Aerospace Engineering,3,AE420
+118,Aerospace Engineering,3,AE428
+119,Aerospace Engineering,3,AE435
+120,Aerospace Engineering,3,AE451
+121,Aerospace Engineering,3,AE454
+122,Aerospace Engineering,4,AE456
+123,Aerospace Engineering,3,AE468
+124,Aerospace Engineering,4,AE482
+125,Aerospace Engineering,3,AE484
+126,Aerospace Engineering,3,AE485
+127,Aerospace Engineering,1,AE497
+128,Aerospace Engineering,1,AE498
+129,Aerospace Engineering,1,ENG491
+130,Aerospace Engineering,3,ASTR404
+131,Aerospace Engineering,3,ASTR405
+132,Aerospace Engineering,3,ASTR406
+133,Aerospace Engineering,4,ASTR414
+134,Aerospace Engineering,3,ATMS301
+135,Aerospace Engineering,3,ATMS302
+136,Aerospace Engineering,4,ATMS303
+137,Aerospace Engineering,3,ATMS304
+138,Aerospace Engineering,3,ATMS305
+139,Aerospace Engineering,3,ATMS306
+140,Aerospace Engineering,4,ATMS313
+141,Aerospace Engineering,4,ATMS406
+142,Aerospace Engineering,4,ATMS410
+143,Aerospace Engineering,3,CEE310
+144,Aerospace Engineering,3,CEE330
+145,Aerospace Engineering,3,CEE360
+146,Aerospace Engineering,3,CEE380
+147,Aerospace Engineering,3,CEE407
+148,Aerospace Engineering,3,CEE412
+149,Aerospace Engineering,3,CEE451
+150,Aerospace Engineering,3,CEE471
+151,Aerospace Engineering,3,CHEM232
+152,Aerospace Engineering,2,CHEM233
+153,Aerospace Engineering,4,CHEM236
+154,Aerospace Engineering,4,CS225
+155,Aerospace Engineering,3,CS420
+156,Aerospace Engineering,4,CS461
+157,Aerospace Engineering,4,CS465
+158,Aerospace Engineering,2,CSE412
+159,Aerospace Engineering,4,ECE210
+160,Aerospace Engineering,4,ECE220
+161,Aerospace Engineering,3,ECE310
+162,Aerospace Engineering,1,ECE311
+163,Aerospace Engineering,3,ECE329
+164,Aerospace Engineering,3,ECE330
+165,Aerospace Engineering,3,ECE342
+166,Aerospace Engineering,1,ECE343
+167,Aerospace Engineering,3,ECE385
+168,Aerospace Engineering,3,ECE473
+169,Aerospace Engineering,4,ECE486
+170,Aerospace Engineering,1,ENG491
+171,Aerospace Engineering,3,MSE401
+172,Aerospace Engineering,3,MSE440
+173,Aerospace Engineering,3,MSE443
+174,Aerospace Engineering,1,MSE498
+175,Aerospace Engineering,3,SE310
+176,Aerospace Engineering,4,SE420
+177,Aerospace Engineering,3,SE423
+178,Aerospace Engineering,3,IE310
+179,Aerospace Engineering,3,MATH347
+180,Aerospace Engineering,3,MATH402
+181,Aerospace Engineering,3,MATH413
+182,Aerospace Engineering,3,MATH416
+183,Aerospace Engineering,3,MATH442
+184,Aerospace Engineering,3,MATH446
+185,Aerospace Engineering,3,MATH461
+186,Aerospace Engineering,3,MATH482
+187,Aerospace Engineering,3,MATH484
+188,Aerospace Engineering,3,MATH489
+189,Aerospace Engineering,4,ME320
+190,Aerospace Engineering,3,ME360
+191,Aerospace Engineering,3,ME370
+192,Aerospace Engineering,3,ME400
+193,Aerospace Engineering,3,ME401
+194,Aerospace Engineering,4,ME498
+195,Aerospace Engineering,3,MSE450
+196,Aerospace Engineering,3,MSE453
+197,Aerospace Engineering,3,MSE457
+198,Aerospace Engineering,2,NPRE201
+199,Aerospace Engineering,3,NPRE402
+200,Aerospace Engineering,3,NPRE470
+201,Aerospace Engineering,3,NPRE475
+202,Aerospace Engineering,1,NPRE498
+203,Aerospace Engineering,3,PHYS325
+204,Aerospace Engineering,3,PHYS326
+205,Aerospace Engineering,3,PHYS435
+206,Aerospace Engineering,3,PHYS485
+207,Aerospace Engineering,4,PHYS486
+208,Aerospace Engineering,3,STAT428
+209,Aerospace Engineering,4,STAT448
+210,Aerospace Engineering,4,TAM324
+211,Aerospace Engineering,4,TAM451
+212,Aerospace Engineering,3,TAM456
+213,Aerospace Engineering,3,TAM470
+214,Aerospace Engineering,1,TE401
+215,Aerospace Engineering,4,TMGT461
+216,Agricultural & Biological Engineering,2,ABE127
+217,Agricultural & Biological Engineering,1,ENG100
+218,Agricultural & Biological Engineering,3,CHEM102
+219,Agricultural & Biological Engineering,1,CHEM103
+220,Agricultural & Biological Engineering,3,CHEM104
+221,Agricultural & Biological Engineering,1,CHEM105
+222,Agricultural & Biological Engineering,4,MATH221
+223,Agricultural & Biological Engineering,3,MATH231
+224,Agricultural & Biological Engineering,4,MATH241
+225,Agricultural & Biological Engineering,3,MATH257
+226,Agricultural & Biological Engineering,3,MATH285
+227,Agricultural & Biological Engineering,4,PHYS211
+228,Agricultural & Biological Engineering,4,PHYS212
+229,Agricultural & Biological Engineering,3,ABE128
+230,Agricultural & Biological Engineering,3,ABE227
+231,Agricultural & Biological Engineering,3,ABE228
+232,Agricultural & Biological Engineering,3,ABE340
+233,Agricultural & Biological Engineering,2,ABE430
+234,Agricultural & Biological Engineering,4,ABE469
+235,Agricultural & Biological Engineering,3,CS101
+236,Agricultural & Biological Engineering,3,ECE205
+237,Agricultural & Biological Engineering,3,SE101
+238,Agricultural & Biological Engineering,3,IE300
+239,Agricultural & Biological Engineering,3,TAM211
+240,Agricultural & Biological Engineering,3,TAM212
+241,Agricultural & Consumer Economics,4,RHET105
+242,Agricultural & Consumer Economics,4,CMN101
+243,Agricultural & Consumer Economics,3,MATH124
+244,Agricultural & Consumer Economics,3,MATH231
+245,Agricultural & Consumer Economics,3,MATH220
+246,Agricultural & Consumer Economics,3,MATH221
+247,Agricultural & Consumer Economics,3,MATH234
+248,Agricultural & Consumer Economics,3,ACE262
+249,Agricultural & Consumer Economics,3,ACE264
+250,Agricultural & Consumer Economics,2,ACES101
+251,Agricultural & Consumer Economics,4,ACE100
+252,Agricultural & Consumer Economics,3,ACE161
+253,Agricultural & Consumer Economics,3,ACE300
+254,Agricultural & Consumer Economics,1,ACE341
+255,Agricultural & Consumer Economics,3,ACCY201
+256,Agricultural & Consumer Economics,3,ECON103
+257,Agricultural & Consumer Economics,3,ACE435
+258,Agricultural & Consumer Economics,3,ACE436
+259,Agricultural & Consumer Economics,3,ACE451
+260,Agricultural & Consumer Economics,3,ACE452
+261,Agricultural & Consumer Economics,3,ACE455
+262,Agronomy,2,RHET105
+263,Agronomy,2,CMN101
+264,Agronomy,2,CMN111
+265,Agronomy,2,CMN112
+267,Agronomy,3,MATH220
+268,Agronomy,3,CPSC241
+269,Agronomy,2,CHEM102
+270,Agronomy,2,CHEM103
+271,Agronomy,2,CHEM104
+272,Agronomy,2,CHEM105
+273,Agronomy,3,ACE100
+274,Agronomy,3,ACES101
+275,Agronomy,4,IB103
+276,Agronomy,4,IB150
+277,Agronomy,4,NRES201
+278,Agronomy,2,CPSC102
+279,Agronomy,4,CPSC112
+280,Agronomy,4,CPSC212
+281,Agronomy,3,CPSC393
+282,Agronomy,3,CPSC395
+283,Agronomy,1,CPSC498
+284,Agronomy,3,CPSC336
+285,Agronomy,4,CPSC352
+286,Agronomy,4,CPSC382
+287,Agronomy,3,CPSC418
+288,Architectural Studies,1,FAA101
+289,Architectural Studies,2,ARCH101
+290,Architectural Studies,5,MATH220
+291,Architectural Studies,3,MATH231
+292,Architectural Studies,3,ARCH171
+293,Architectural Studies,3,ARCH172
+294,Architectural Studies,4,ARCH273
+295,Architectural Studies,3,ARCH274
+296,Architectural Studies,3,ARCH321
+297,Architectural Studies,3,ARCH418
+298,Architectural Studies,3,ARCH468
+299,Architectural Studies,3,GGIS204
+300,Architectural Studies,3,GGIS210
+301,Architectural Studies,3,GGIS483
+302,Architectural Studies,3,UP101
+303,Architectural Studies,3,ARCH210
+304,Architectural Studies,3,ARCH222
+305,Architectural Studies,3,ARCH314
+306,Architectural Studies,3,ARCH402
+307,Architectural Studies,3,ARCH403
+308,Architectural Studies,3,ARCH407
+309,Architectural Studies,3,ARCH409
+310,Architectural Studies,3,ARCH410
+311,Architectural Studies,3,ARCH411
+312,Architectural Studies,3,ARCH412
+313,Architectural Studies,3,ARCH414
+314,Architectural Studies,3,ARCH415
+315,Architectural Studies,3,ARCH314
+316,Architectural Studies,3,ARCH402
+317,Architectural Studies,3,ARCH403
+318,Architectural Studies,3,ARCH409
+319,Architectural Studies,3,ARCH416
+320,Architectural Studies,3,ARCH417
+321,Architectural Studies,4,ARCH231
+322,Architectural Studies,4,ARCH232
+323,Architectural Studies,4,ARCH433
+324,Architectural Studies,5,ARCH434
+325,Architectural Studies,4,ARCH435
+326,Architectural Studies,6,ARCH371
+327,Architectural Studies,6,ARCH372
+328,Architectural Studies,6,ARCH473
+329,Architectural Studies,6,ARCH474
+330,Athletic Training,4,PSYC100
+331,Athletic Training,3,HK150
+335,Athletic Training,3,HK140
+336,Athletic Training,3,HK150
+337,Athletic Training,3,HK201
+339,Athletic Training,3,HK340
+340,Athletic Training,3,HK140
+341,Athletic Training,3,HK150
+342,Athletic Training,3,HK340
+344,Athletic Training,3,FSHN120
+345,Biochemistry,2,CHEM202
+346,Biochemistry,2,CHEM203
+347,Biochemistry,2,CHEM204
+348,Biochemistry,2,CHEM205
+349,Biochemistry,2,CHEM102
+350,Biochemistry,2,CHEM103
+351,Biochemistry,2,CHEM104
+352,Biochemistry,2,CHEM105
+353,Biochemistry,2,CHEM236
+354,Biochemistry,2,CHEM237
+355,Biochemistry,2,CHEM436
+356,Biochemistry,2,CHEM232
+357,Biochemistry,2,CHEM233
+358,Biochemistry,2,CHEM332
+359,Biochemistry,3,MCB150
+360,Biochemistry,3,MCB250
+361,Biochemistry,3,MCB251
+362,Biochemistry,3,MCB252
+363,Biochemistry,3,MCB253
+364,Biochemistry,3,MCB354
+365,Biochemistry,3,CHEM440
+366,Biochemistry,3,BIOC446
+367,Biochemistry,3,CHEM442
+368,Biochemistry,3,CHEM444
+369,Biochemistry,3,STAT212
+370,Biochemistry,3,MATH220
+371,Biochemistry,3,MATH231
+372,Biochemistry,3,MATH241
+373,Biochemistry,2,PHYS211
+374,Biochemistry,2,PHYS212
+375,Biochemistry,2,PHYS213
+376,Biochemistry,2,PHYS101
+377,Biochemistry,2,PHYS102
+378,Biochemistry,3,BIOC455
+379,Biochemistry,3,BIOC460
+380,Biochemistry,3,BIOC406
+381,Biochemistry,3,BIOP401
+382,Bioengineering,1,ENG100
+383,Bioengineering,1,BIOE100
+384,Bioengineering,1,BIOE120
+385,Bioengineering,3,CHEM102
+386,Bioengineering,1,CHEM103
+387,Bioengineering,3,CHEM104
+388,Bioengineering,1,CHEM105
+389,Bioengineering,4,MATH221
+390,Bioengineering,3,MATH231
+391,Bioengineering,4,MATH241
+392,Bioengineering,3,MATH285
+393,Bioengineering,4,PHYS211
+394,Bioengineering,4,PHYS212
+395,Bioengineering,3,BIOE201
+396,Bioengineering,2,BIOE202
+397,Bioengineering,3,BIOE205
+398,Bioengineering,3,BIOE206
+399,Bioengineering,3,BIOE210
+400,Bioengineering,3,BIOE302
+401,Bioengineering,2,BIOE303
+402,Bioengineering,3,BIOE310
+403,Bioengineering,3,BIOE360
+404,Bioengineering,4,BIOE400
+405,Bioengineering,3,BIOE414
+406,Bioengineering,2,BIOE415
+407,Bioengineering,3,BIOE420
+408,Bioengineering,3,BIOE476
+409,Bioengineering,4,CHEM232
+410,Bioengineering,3,CS101
+411,Bioengineering,4,MCB150
+412,Bioengineering,3,TAM211
+413,Bioengineering,3,TAM212
+414,Bioengineering,3,TAM251
+415,Bioengineering,3,BIOE450
+416,Bioengineering,4,BIOE461
+417,Bioengineering,3,BIOE498
+418,Bioengineering,3,BIOE498
+419,Bioengineering,4,ME330
+420,Bioengineering,3,ME481
+421,Bioengineering,3,ME482
+422,Bioengineering,4,ME483
+423,Bioengineering,3,NPRE461
+424,Bioengineering,3,SE402
+425,Bioengineering,3,SE423
+426,Bioengineering,4,TAM445
+427,Bioengineering,4,TMGT461
+428,Bioengineering,3,SE101
+429,Bioengineering,3,BIOE306
+430,Bioengineering,3,BIOE416
+431,Bioengineering,3,BIOE424
+432,Bioengineering,3,BIOE430
+433,Bioengineering,3,BIOE432
+434,Bioengineering,3,BIOE434
+435,Bioengineering,3,BIOE450
+436,Bioengineering,3,BIOE460
+437,Bioengineering,4,BIOE461
+438,Bioengineering,3,BIOE487
+439,Bioengineering,3,BIOE498
+440,Bioengineering,3,CHBE471
+441,Bioengineering,3,CHBE472
+442,Bioengineering,3,IE330
+443,Bioengineering,1,MSE404
+444,Bioengineering,3,MSE470
+445,Bioengineering,3,MSE474
+446,Bioengineering,4,ME483
+447,Bioengineering,4,TMGT461
+448,Bioengineering,3,MCB450
+449,Bioengineering,3,ABE446
+450,Bioengineering,3,BIOE306
+451,Bioengineering,3,BIOE424
+452,Bioengineering,3,BIOE430
+453,Bioengineering,3,BIOE432
+454,Bioengineering,3,BIOE434
+455,Bioengineering,3,BIOE450
+456,Bioengineering,3,BIOE460
+457,Bioengineering,3,BIOE479
+458,Bioengineering,3,BIOE498
+459,Bioengineering,3,BIOE498
+460,Bioengineering,3,BIOE498
+461,Bioengineering,3,CHBE472
+462,Bioengineering,4,ECE481
+463,Bioengineering,3,MSE403
+464,Bioengineering,1,MSE404
+465,Bioengineering,3,MSE450
+466,Bioengineering,3,MSE457
+467,Bioengineering,3,MSE470
+468,Bioengineering,3,MSE473
+469,Bioengineering,3,MSE474
+470,Bioengineering,3,MSE480
+471,Bioengineering,4,TMGT461
+472,Bioengineering,3,CS128
+473,Bioengineering,4,CS225
+474,Bioengineering,3,BIOE430
+475,Bioengineering,3,BIOE432
+476,Bioengineering,3,BIOE483
+477,Bioengineering,3,BIOE484
+478,Bioengineering,4,BIOE485
+479,Bioengineering,3,BIOE486
+480,Bioengineering,3,BIOE498
+481,Bioengineering,3,CS411
+482,Bioengineering,3,CS412
+483,Bioengineering,3,CS440
+484,Bioengineering,3,CS446
+485,Bioengineering,4,CS465
+486,Bioengineering,3,CS466
+487,Bioengineering,3,CS498
+488,Bioengineering,3,ECE490
+489,Bioengineering,3,ECE498
+490,Bioengineering,3,IE310
+491,Bioengineering,3,IE370
+492,Bioengineering,3,NPRE461
+493,Bioengineering,3,SE423
+494,Bioengineering,4,TMGT461
+495,Bioengineering,3,BIOE424
+496,Bioengineering,3,BIOE432
+497,Bioengineering,3,BIOE434
+498,Bioengineering,3,BIOE450
+499,Bioengineering,3,BIOE484
+500,Bioengineering,3,BIOE486
+501,Bioengineering,3,BIOE498
+502,Bioengineering,3,BIOE498
+503,Bioengineering,3,BIOE498
+504,Bioengineering,4,ECE210
+505,Bioengineering,3,ECE310
+506,Bioengineering,1,ECE311
+507,Bioengineering,3,ECE329
+508,Bioengineering,3,ECE365
+509,Bioengineering,3,ECE380
+510,Bioengineering,3,ECE416
+511,Bioengineering,4,ECE417
+512,Bioengineering,4,ECE418
+513,Bioengineering,3,ECE437
+514,Bioengineering,3,ECE365
+515,Bioengineering,4,ECE460
+516,Bioengineering,3,ECE467
+517,Bioengineering,3,ECE472
+518,Bioengineering,3,ECE473
+519,Bioengineering,3,ECE480
+520,Bioengineering,4,ME487
+521,Bioengineering,3,NPRE461
+522,Bioengineering,3,SE423
+523,Bioengineering,4,TMGT461
+524,Bioengineering,4,CHEM442
+525,Business + Data Science,3,ACCY201
+526,Business + Data Science,3,ACCY202
+527,Business + Data Science,3,BADM275
+528,Business + Data Science,3,BADM300
+529,Business + Data Science,3,BADM310
+530,Business + Data Science,3,BADM320
+531,Business + Data Science,3,BADM449
+532,Business + Data Science,3,BUS101
+533,Business + Data Science,3,BUS201
+534,Business + Data Science,3,BUS401
+535,Business + Data Science,3,CMN101
+536,Business + Data Science,3,ECON102
+537,Business + Data Science,3,ECON103
+538,Business + Data Science,3,FIN221
+539,Business + Data Science,4,STAT107
+540,Business + Data Science,4,STAT207
+541,Business + Data Science,4,CS307
+542,Business + Data Science,4,CS277
+543,Business + Data Science,3,IS467
+544,Business + Data Science,3,IS477
+545,Business + Data Science,3,MATH220
+546,Business + Data Science,3,MATH221
+547,Business + Data Science,3,MATH234
+548,Business + Data Science,3,MATH227
+549,Business + Data Science,3,MATH257
+550,Business + Data Science,3,BADM350
+551,Business + Data Science,3,BADM351
+552,Business + Data Science,3,BADM352
+553,Business + Data Science,3,BADM353
+554,Business + Data Science,3,BADM380
+555,Business + Data Science,3,BADM381
+556,Business + Data Science,3,BADM382
+557,Business + Data Science,3,BADM383
+558,Business + Data Science,3,BADM311
+559,Business + Data Science,3,BADM312
+560,Business + Data Science,3,BADM313
+561,Business + Data Science,3,BADM314
+562,Business + Data Science,3,BADM374
+563,Business + Data Science,3,BADM375
+564,Business + Data Science,3,BADM377
+565,Business + Data Science,3,BADM379
+566,Chemical Engineering,1,CHBE121
+567,Chemical Engineering,1,ENG100
+568,Chemical Engineering,2,CHEM202
+569,Chemical Engineering,2,CHEM203
+570,Chemical Engineering,2,CHEM204
+571,Chemical Engineering,2,CHEM205
+572,Chemical Engineering,2,CHEM102
+573,Chemical Engineering,2,CHEM103
+574,Chemical Engineering,2,CHEM104
+575,Chemical Engineering,2,CHEM105
+576,Chemical Engineering,2,CHEM222
+577,Chemical Engineering,2,CHEM223
+578,Chemical Engineering,4,MATH221
+579,Chemical Engineering,3,MATH231
+580,Chemical Engineering,4,MATH241
+581,Chemical Engineering,3,MATH257
+582,Chemical Engineering,3,MATH285
+583,Chemical Engineering,4,PHYS211
+584,Chemical Engineering,4,PHYS212
+585,Chemical Engineering,2,PHYS214
+586,Chemical Engineering,3,CHBE221
+587,Chemical Engineering,4,CHBE321
+588,Chemical Engineering,4,CHBE421
+589,Chemical Engineering,4,CHBE422
+590,Chemical Engineering,3,CHBE424
+591,Chemical Engineering,4,CHBE430
+592,Chemical Engineering,4,CHBE431
+593,Chemical Engineering,3,CHBE440
+594,Chemical Engineering,4,CHEM236
+595,Chemical Engineering,2,CHEM237
+596,Chemical Engineering,2,CHEM315
+597,Chemical Engineering,2,CHEM420
+598,Chemical Engineering,4,CHEM442
+599,Chemical Engineering,3,CS101
+600,Chemical Engineering,3,CHBE411
+601,Chemical Engineering,3,CHEM436
+602,Chemical Engineering,3,ABE436
+603,Chemical Engineering,3,ABE483
+604,Chemical Engineering,3,ABE488
+605,Chemical Engineering,3,ATMS420
+606,Chemical Engineering,3,BIOE476
+607,Chemical Engineering,3,CEE320
+608,Chemical Engineering,3,CEE330
+609,Chemical Engineering,3,CEE350
+610,Chemical Engineering,3,CEE421
+611,Chemical Engineering,3,CEE422
+612,Chemical Engineering,3,CEE432
+613,Chemical Engineering,3,CEE437
+614,Chemical Engineering,3,CEE440
+615,Chemical Engineering,3,CEE442
+616,Chemical Engineering,3,CEE443
+617,Chemical Engineering,3,CEE450
+618,Chemical Engineering,3,CEE452
+619,Chemical Engineering,3,CHBE297
+620,Chemical Engineering,3,CHBE397
+621,Chemical Engineering,3,CS357
+622,Chemical Engineering,3,CS411
+623,Chemical Engineering,3,CS427
+624,Chemical Engineering,3,CS440
+625,Chemical Engineering,3,CS446
+626,Chemical Engineering,3,CS450
+627,Chemical Engineering,3,CS498
+628,Chemical Engineering,3,ECE304
+629,Chemical Engineering,3,ECE313
+630,Chemical Engineering,3,ECE333
+631,Chemical Engineering,3,ECE380
+632,Chemical Engineering,3,ECE416
+633,Chemical Engineering,3,ECE444
+634,Chemical Engineering,3,ECE481
+635,Chemical Engineering,3,ECE490
+636,Chemical Engineering,3,ME400
+637,Chemical Engineering,3,ME471
+638,Chemical Engineering,3,ME482
+639,Chemical Engineering,3,ME483
+640,Chemical Engineering,3,ME487
+641,Chemical Engineering,3,MSE304
+642,Chemical Engineering,3,MSE307
+643,Chemical Engineering,3,MSE308
+644,Chemical Engineering,3,MSE401
+645,Chemical Engineering,3,MSE402
+646,Chemical Engineering,3,MSE403
+647,Chemical Engineering,3,MSE406
+648,Chemical Engineering,3,MSE420
+649,Chemical Engineering,3,MSE441
+650,Chemical Engineering,3,MSE450
+651,Chemical Engineering,3,MSE457
+652,Chemical Engineering,3,MSE458
+653,Chemical Engineering,3,MSE460
+654,Chemical Engineering,3,MSE470
+655,Chemical Engineering,3,MSE473
+656,Chemical Engineering,3,MSE474
+657,Chemical Engineering,3,MSE480
+658,Chemical Engineering,3,MSE487
+659,Chemical Engineering,3,MSE489
+660,Chemical Engineering,3,NPRE201
+661,Chemical Engineering,3,NPRE402
+662,Chemical Engineering,3,NPRE412
+663,Chemical Engineering,3,NPRE441
+664,Chemical Engineering,3,NPRE442
+665,Chemical Engineering,3,NPRE457
+666,Chemical Engineering,3,NPRE461
+667,Chemical Engineering,3,NPRE470
+668,Chemical Engineering,3,NPRE475
+669,Chemical Engineering,3,NPRE480
+670,Chemical Engineering,3,SE411
+671,Chemical Engineering,3,TAM211
+672,Chemical Engineering,3,TAM251
+673,Chemical Engineering,3,TAM461
+674,Chemical Engineering,3,ABE425
+675,Chemical Engineering,3,ABE430
+676,Chemical Engineering,3,ABE497
+677,Chemical Engineering,3,ABE498
+678,Chemical Engineering,3,ANSC445
+679,Chemical Engineering,3,ANSC450
+680,Chemical Engineering,3,ATMS421
+681,Chemical Engineering,3,BADM461
+682,Chemical Engineering,3,BIOC446
+683,Chemical Engineering,3,CEE407
+684,Chemical Engineering,3,CEE497
+685,Chemical Engineering,3,CEE498
+686,Chemical Engineering,3,CHEM436
+687,Chemical Engineering,3,CHEM437
+688,Chemical Engineering,3,CHEM444
+689,Chemical Engineering,3,CHEM445
+690,Chemical Engineering,3,CHEM483
+691,Chemical Engineering,3,CHEM497
+692,Chemical Engineering,3,CPSC414
+693,Chemical Engineering,3,CPSC415
+694,Chemical Engineering,3,CPSC418
+695,Chemical Engineering,3,CPSC419
+696,Chemical Engineering,3,CPSC453
+697,Chemical Engineering,3,FSHN414
+698,Chemical Engineering,3,FSHN418
+699,Chemical Engineering,3,FSHN426
+700,Chemical Engineering,3,FSHN428
+701,Chemical Engineering,3,FSHN460
+702,Chemical Engineering,3,FSHN465
+703,Chemical Engineering,3,FSHN471
+704,Chemical Engineering,3,FSHN480
+705,Chemical Engineering,3,FSHN481
+706,Chemical Engineering,3,FSHN483
+707,Chemical Engineering,3,GEOL450
+708,Chemical Engineering,3,GEOL451
+709,Chemical Engineering,3,GEOL454
+710,Chemical Engineering,3,GEOL470
+711,Chemical Engineering,3,IB451
+712,Chemical Engineering,3,IS467
+713,Chemical Engineering,3,MATH402
+714,Chemical Engineering,3,MATH413
+715,Chemical Engineering,3,MATH417
+716,Chemical Engineering,3,MATH442
+717,Chemical Engineering,3,MATH446
+718,Chemical Engineering,3,MATH461
+719,Chemical Engineering,3,MATH487
+720,Chemical Engineering,3,MCB408
+721,Chemical Engineering,3,MCB424
+722,Chemical Engineering,3,MCB436
+723,Chemical Engineering,3,MCB450
+724,Chemical Engineering,3,MCB462
+725,Chemical Engineering,3,MSE497
+726,Chemical Engineering,3,MSE498
+727,Chemical Engineering,3,NPRE483
+728,Chemical Engineering,3,NPRE498
+729,Chemical Engineering,3,NRES488
+730,Chemical Engineering,3,PHYS435
+731,Chemical Engineering,3,PHYS470
+732,Chemical Engineering,3,SE400
+733,Chemical Engineering,3,STAT400
+734,Chemical Engineering,3,STAT410
+735,Chemical Engineering,3,STAT420
+736,Chemical Engineering,3,STAT430
+737,Chemical Engineering,3,STAT440
+738,Chemical Engineering,3,UP406
+739,Chemical Engineering,3,UP430
+740,Chemistry,1,LAS101
+741,Chemistry,2,LAS100
+742,Chemistry,2,LAS101
+743,Chemistry,1,LAS102
+744,Chemistry,3,CHEM150
+745,Chemistry,3,CHEM202
+746,Chemistry,3,CHEM203
+747,Chemistry,3,CHEM204
+748,Chemistry,3,CHEM205
+749,Chemistry,3,CHEM236
+750,Chemistry,3,CHEM237
+751,Chemistry,3,CHEM312
+752,Chemistry,3,CHEM315
+753,Chemistry,3,CHEM420
+754,Chemistry,3,CHEM436
+755,Chemistry,3,CHEM442
+756,Chemistry,3,CHEM444
+757,Chemistry,3,CHEM445
+758,Chemistry,3,CHEM317
+759,Chemistry,3,CHEM437
+760,Chemistry,3,CHEM447
+761,Chemistry,3,CHEM483
+762,Chemistry,3,BIOC455
+763,Chemistry,3,MATH220
+764,Chemistry,3,MATH225
+765,Chemistry,3,MATH231
+766,Chemistry,3,MATH241
+767,Chemistry,3,MATH285
+768,Chemistry,3,PHYS211
+769,Chemistry,3,PHYS212
+770,Chemistry,3,PHYS214
+771,Civil Engineering,4,CEE190
+772,Civil Engineering,3,CEE495
+773,Civil Engineering,1,ENG100
+774,Civil Engineering,3,ECON102
+775,Civil Engineering,3,CHEM102
+776,Civil Engineering,1,CHEM103
+777,Civil Engineering,3,CHEM104
+778,Civil Engineering,1,CHEM105
+779,Civil Engineering,4,MATH221
+780,Civil Engineering,3,MATH231
+781,Civil Engineering,4,MATH241
+782,Civil Engineering,3,MATH257
+783,Civil Engineering,3,MATH285
+784,Civil Engineering,4,PHYS211
+785,Civil Engineering,4,PHYS212
+786,Civil Engineering,2,PHYS213
+787,Civil Engineering,3,CEE201
+788,Civil Engineering,3,CEE202
+789,Civil Engineering,3,CS101
+790,Civil Engineering,3,SE101
+791,Civil Engineering,3,TAM211
+792,Civil Engineering,3,TAM212
+793,Civil Engineering,3,TAM251
+794,Civil Engineering,4,TAM335
+795,Civil Engineering,3,ATMS120
+796,Civil Engineering,4,ATMS303
+797,Civil Engineering,3,ECE205
+798,Civil Engineering,3,FIN221
+799,Civil Engineering,4,GEOL107
+800,Civil Engineering,3,GEOL118
+801,Civil Engineering,4,GEOL333
+802,Civil Engineering,4,GEOL380
+803,Civil Engineering,3,ME200
+804,Civil Engineering,3,NPRE201
+805,Civil Engineering,3,SE400
+806,Civil Engineering,3,STAT420
+807,Civil Engineering,3,UP205
+808,Civil Engineering,4,CEE300
+809,Civil Engineering,3,CEE320
+810,Civil Engineering,3,CEE360
+811,Civil Engineering,3,CEE380
+812,Civil Engineering,3,CEE310
+813,Civil Engineering,3,CEE330
+814,Civil Engineering,3,CEE340
+815,Civil Engineering,3,CEE350
+816,Civil Engineering,3,CEE420
+817,Civil Engineering,3,CEE421
+818,Civil Engineering,3,CEE422
+819,Civil Engineering,4,CEE401
+820,Civil Engineering,3,CEE461
+821,Civil Engineering,4,CEE498
+822,Civil Engineering,3,CEE498
+823,Civil Engineering,4,GEOL107
+824,Civil Engineering,3,MSE201
+825,Civil Engineering,4,CEE300
+826,Civil Engineering,3,CEE310
+827,Civil Engineering,3,CEE360
+828,Civil Engineering,3,CEE320
+829,Civil Engineering,3,CEE330
+830,Civil Engineering,3,CEE340
+831,Civil Engineering,3,CEE350
+832,Civil Engineering,3,CEE380
+833,Civil Engineering,4,CEE401
+834,Civil Engineering,3,CEE405
+835,Civil Engineering,3,CEE406
+836,Civil Engineering,3,CEE460
+837,Civil Engineering,3,CEE461
+838,Civil Engineering,3,CEE469
+839,Civil Engineering,4,CEE483
+840,Civil Engineering,3,ME430
+841,Civil Engineering,3,MSE401
+842,Civil Engineering,3,MSE402
+843,Civil Engineering,3,MSE406
+844,Civil Engineering,3,MSE450
+845,Civil Engineering,3,TAM428
+846,Civil Engineering,3,CHEM232
+847,Civil Engineering,3,CS357
+848,Civil Engineering,4,GEOL107
+849,Civil Engineering,3,MCB300
+850,Civil Engineering,3,ME200
+851,Civil Engineering,3,MSE401
+852,Civil Engineering,3,STAT420
+853,Civil Engineering,3,CEE330
+854,Civil Engineering,4,CEE300
+855,Civil Engineering,3,CEE310
+856,Civil Engineering,3,CEE320
+857,Civil Engineering,3,CEE340
+858,Civil Engineering,3,CEE350
+859,Civil Engineering,3,CEE360
+860,Civil Engineering,3,CEE380
+861,Civil Engineering,3,CEE437
+862,Civil Engineering,4,CEE440
+863,Civil Engineering,4,CEE441
+864,Civil Engineering,3,CEE434
+865,Civil Engineering,3,CEE435
+866,Civil Engineering,3,CEE438
+867,Civil Engineering,4,CEE442
+868,Civil Engineering,4,CEE443
+869,Civil Engineering,4,CEE444
+870,Civil Engineering,4,CEE447
+871,Civil Engineering,3,CEE449
+872,Civil Engineering,3,CEE452
+873,Civil Engineering,4,CEE453
+874,Civil Engineering,3,CEE457
+875,Civil Engineering,4,CEE493
+876,Civil Engineering,4,GEOL107
+877,Civil Engineering,3,CEE360
+878,Civil Engineering,3,CEE380
+879,Civil Engineering,4,CEE300
+880,Civil Engineering,3,CEE310
+881,Civil Engineering,3,CEE320
+882,Civil Engineering,3,CEE330
+883,Civil Engineering,3,CEE340
+884,Civil Engineering,3,CEE350
+885,Civil Engineering,4,CEE483
+886,Civil Engineering,4,CEE484
+887,Civil Engineering,3,CEE457
+888,Civil Engineering,3,CEE460
+889,Civil Engineering,3,CEE461
+890,Civil Engineering,3,CEE463
+891,Civil Engineering,3,CEE498
+892,Civil Engineering,3,CS357
+893,Civil Engineering,3,ECE205
+894,Civil Engineering,4,GEOL107
+895,Civil Engineering,3,GEOL118
+896,Civil Engineering,3,ME200
+897,Civil Engineering,4,CEE300
+898,Civil Engineering,3,CEE360
+899,Civil Engineering,3,CEE380
+900,Civil Engineering,3,CEE310
+901,Civil Engineering,3,CEE320
+902,Civil Engineering,3,CEE330
+903,Civil Engineering,3,CEE340
+904,Civil Engineering,3,CEE350
+905,Civil Engineering,3,CEE460
+906,Civil Engineering,3,CEE461
+907,Civil Engineering,3,CEE465
+908,Civil Engineering,4,CEE470
+909,Civil Engineering,3,CS357
+910,Civil Engineering,3,ECE205
+911,Civil Engineering,4,GEOL107
+912,Civil Engineering,3,ME200
+913,Civil Engineering,3,ME340
+914,Civil Engineering,3,MSE401
+915,Civil Engineering,4,SE320
+916,Civil Engineering,3,STAT420
+917,Civil Engineering,4,CEE300
+918,Civil Engineering,3,CEE310
+919,Civil Engineering,3,CEE320
+920,Civil Engineering,3,CEE330
+921,Civil Engineering,3,CEE340
+922,Civil Engineering,3,CEE350
+923,Civil Engineering,3,CEE360
+924,Civil Engineering,3,CEE380
+925,Civil Engineering,3,CEE405
+926,Civil Engineering,3,CEE406
+927,Civil Engineering,3,CEE407
+928,Civil Engineering,3,CEE407
+929,Civil Engineering,4,CEE415
+930,Civil Engineering,3,CEE416
+931,Civil Engineering,3,CEE418
+932,Civil Engineering,3,CEE408
+933,Civil Engineering,3,CEE409
+934,Civil Engineering,3,CEE410
+935,Civil Engineering,3,CEE411
+936,Civil Engineering,4,CEE401
+937,Civil Engineering,3,CEE405
+938,Civil Engineering,3,CEE406
+939,Civil Engineering,3,CEE407
+940,Civil Engineering,3,CEE408
+941,Civil Engineering,3,CEE409
+942,Civil Engineering,3,CEE410
+943,Civil Engineering,3,CEE411
+944,Civil Engineering,3,CEE412
+945,Civil Engineering,4,CEE415
+946,Civil Engineering,3,CEE416
+947,Civil Engineering,4,CEE417
+948,Civil Engineering,3,CEE418
+949,Civil Engineering,3,CS357
+950,Civil Engineering,4,GEOL107
+951,Civil Engineering,3,ME200
+952,Civil Engineering,3,CEE350
+953,Civil Engineering,4,CEE300
+954,Civil Engineering,3,CEE310
+955,Civil Engineering,3,CEE320
+956,Civil Engineering,3,CEE330
+957,Civil Engineering,3,CEE340
+958,Civil Engineering,3,CEE360
+959,Civil Engineering,3,CEE380
+960,Civil Engineering,3,CEE452
+961,Civil Engineering,4,CEE453
+962,Civil Engineering,3,CEE432
+963,Civil Engineering,3,CEE433
+964,Civil Engineering,3,CEE434
+965,Civil Engineering,3,CEE437
+966,Civil Engineering,3,CEE450
+967,Civil Engineering,3,CEE451
+968,Civil Engineering,3,CEE452
+969,Civil Engineering,4,CEE453
+970,Civil Engineering,3,CEE457
+971,Civil Engineering,4,CEE458
+972,Civil Engineering,4,CEE459
+973,Civil Engineering,3,ME200
+974,Civil Engineering,4,CHBE321
+975,Civil Engineering,3,CEE340
+976,Civil Engineering,4,CEE300
+977,Civil Engineering,3,CEE310
+978,Civil Engineering,3,CEE320
+979,Civil Engineering,3,CEE330
+980,Civil Engineering,3,CEE350
+981,Civil Engineering,3,CEE360
+982,Civil Engineering,3,CEE380
+983,Civil Engineering,4,CEE493
+984,Civil Engineering,3,ABE436
+985,Civil Engineering,3,CEE433
+986,Civil Engineering,3,CEE435
+987,Civil Engineering,3,CEE434
+988,Civil Engineering,3,CEE437
+989,Civil Engineering,4,CEE441
+990,Civil Engineering,3,CEE449
+991,Civil Engineering,3,CEE450
+992,Civil Engineering,3,CEE452
+993,Civil Engineering,4,CEE453
+994,Civil Engineering,3,CEE457
+995,Civil Engineering,4,CEE459
+996,Civil Engineering,4,CEE473
+997,Civil Engineering,4,CEE492
+998,Civil Engineering,4,CEE498
+999,Civil Engineering,1,ENG471
+1000,Civil Engineering,3,ME400
+1001,Civil Engineering,3,NPRE402
+1002,Civil Engineering,3,NPRE475
+1003,Civil Engineering,3,FIN230
+1004,Civil Engineering,3,GEOL118
+1005,Civil Engineering,3,LAW301
+1006,Civil Engineering,3,NRES287
+1007,Civil Engineering,3,STAT420
+1008,Civil Engineering,3,CEE340
+1009,Civil Engineering,4,CEE300
+1010,Civil Engineering,3,CEE310
+1011,Civil Engineering,3,CEE320
+1012,Civil Engineering,3,CEE330
+1013,Civil Engineering,3,CEE350
+1014,Civil Engineering,3,CEE360
+1015,Civil Engineering,3,CEE380
+1016,Civil Engineering,3,CEE491
+1017,Civil Engineering,3,CEE406
+1018,Civil Engineering,3,CEE416
+1019,Civil Engineering,4,CEE417
+1020,Civil Engineering,3,CEE437
+1021,Civil Engineering,4,CEE440
+1022,Civil Engineering,3,CEE449
+1023,Civil Engineering,3,CEE460
+1024,Civil Engineering,3,CEE461
+1025,Civil Engineering,3,CEE465
+1026,Civil Engineering,3,CEE472
+1027,Civil Engineering,4,CEE473
+1028,Civil Engineering,3,IE410
+1029,Civil Engineering,3,NPRE442
+1030,Civil Engineering,3,SE450
+1031,Civil Engineering,3,STAT425
+1032,Civil Engineering,3,STAT429
+1033,Civil Engineering,3,STAT430
+1034,Civil Engineering,4,UP438
+1035,Civil Engineering,3,ATMS120
+1036,Civil Engineering,3,CS357
+1037,Civil Engineering,3,ENSU300
+1038,Civil Engineering,3,ESE140
+1039,Civil Engineering,3,ESE320
+1040,Civil Engineering,3,ESE482
+1041,Civil Engineering,3,FIN221
+1042,Civil Engineering,4,GGIS103
+1043,Civil Engineering,3,NPRE201
+1044,Civil Engineering,3,NRES439
+1045,Civil Engineering,4,SE320
+1046,Civil Engineering,3,STAT420
+1047,Civil Engineering,4,UP406
+1048,Civil Engineering,3,CEE340
+1049,Civil Engineering,4,CEE300
+1050,Civil Engineering,3,CEE310
+1051,Civil Engineering,3,CEE320
+1052,Civil Engineering,3,CEE330
+1053,Civil Engineering,3,CEE350
+1054,Civil Engineering,3,CEE360
+1055,Civil Engineering,3,CEE380
+1056,Civil Engineering,3,CEE491
+1057,Civil Engineering,3,ABE436
+1058,Civil Engineering,4,CEE401
+1059,Civil Engineering,3,CEE406
+1060,Civil Engineering,3,CEE408
+1061,Civil Engineering,3,CEE409
+1062,Civil Engineering,3,CEE416
+1063,Civil Engineering,4,CEE417
+1064,Civil Engineering,3,CEE418
+1065,Civil Engineering,3,CEE421
+1066,Civil Engineering,3,CEE434
+1067,Civil Engineering,4,CEE453
+1068,Civil Engineering,4,CEE458
+1069,Civil Engineering,3,CEE465
+1070,Civil Engineering,4,CEE493
+1071,Civil Engineering,3,CEE498
+1072,Civil Engineering,3,MSE489
+1073,Civil Engineering,4,UP466
+1074,Civil Engineering,2,UP480
+1075,Civil Engineering,3,CEE421
+1076,Civil Engineering,3,CEE420
+1077,Civil Engineering,3,CEE422
+1078,Civil Engineering,4,CEE401
+1079,Civil Engineering,3,CEE405
+1080,Civil Engineering,3,CEE406
+1081,Civil Engineering,3,CEE434
+1082,Civil Engineering,3,CEE435
+1083,Civil Engineering,3,CEE437
+1084,Civil Engineering,3,CEE438
+1085,Civil Engineering,4,CEE441
+1086,Civil Engineering,4,CEE442
+1087,Civil Engineering,4,CEE443
+1088,Civil Engineering,4,CEE444
+1089,Civil Engineering,4,CEE447
+1090,Civil Engineering,3,CEE449
+1091,Civil Engineering,3,CEE484
+1092,Civil Engineering,4,CEE483
+1093,Civil Engineering,3,CEE498
+1094,Civil Engineering,3,CEE460
+1095,Civil Engineering,3,CEE461
+1096,Civil Engineering,3,CEE405
+1097,Civil Engineering,3,CEE406
+1098,Civil Engineering,3,CEE407
+1099,Civil Engineering,3,CEE407
+1100,Civil Engineering,4,CEE415
+1101,Civil Engineering,3,CEE416
+1102,Civil Engineering,3,CEE418
+1103,Civil Engineering,3,CEE408
+1104,Civil Engineering,3,CEE409
+1105,Civil Engineering,3,CEE410
+1106,Civil Engineering,3,CEE411
+1107,Civil Engineering,3,CEE412
+1108,Civil Engineering,3,CEE432
+1109,Civil Engineering,3,CEE433
+1110,Civil Engineering,3,CEE450
+1111,Civil Engineering,3,CEE451
+1112,Civil Engineering,3,CEE452
+1113,Civil Engineering,4,CEE453
+1114,Civil Engineering,3,CEE457
+1115,Civil Engineering,4,CEE458
+1116,Civil Engineering,4,CEE459
+1117,Civil Engineering,4,CEE493
+1118,Civil Engineering,3,ABE436
+1119,Civil Engineering,3,CEE433
+1120,Civil Engineering,3,CEE434
+1121,Civil Engineering,3,CEE435
+1122,Civil Engineering,3,CEE437
+1123,Civil Engineering,4,CEE441
+1124,Civil Engineering,3,CEE449
+1125,Civil Engineering,3,CEE450
+1126,Civil Engineering,3,CEE452
+1127,Civil Engineering,4,CEE453
+1128,Civil Engineering,3,CEE457
+1129,Civil Engineering,4,CEE459
+1130,Civil Engineering,4,CEE473
+1131,Civil Engineering,4,CEE492
+1132,Civil Engineering,3,CEE498
+1133,Civil Engineering,3,ME400
+1134,Civil Engineering,3,NPRE402
+1135,Civil Engineering,3,NPRE475
+1136,Civil Engineering,3,CEE491
+1137,Civil Engineering,3,CEE406
+1138,Civil Engineering,3,CEE416
+1139,Civil Engineering,4,CEE417
+1140,Civil Engineering,3,CEE437
+1141,Civil Engineering,4,CEE440
+1142,Civil Engineering,3,CEE449
+1143,Civil Engineering,3,CEE460
+1144,Civil Engineering,3,CEE461
+1145,Civil Engineering,3,CEE465
+1146,Civil Engineering,3,CEE472
+1147,Civil Engineering,4,CEE473
+1148,Civil Engineering,3,IE410
+1149,Civil Engineering,3,NPRE442
+1150,Civil Engineering,3,SE450
+1151,Civil Engineering,3,STAT425
+1152,Civil Engineering,3,STAT429
+1153,Civil Engineering,3,STAT430
+1154,Civil Engineering,4,UP438
+1155,Civil Engineering,3,CEE491
+1156,Civil Engineering,3,ABE436
+1157,Civil Engineering,4,CEE401
+1158,Civil Engineering,3,CEE406
+1159,Civil Engineering,3,CEE408
+1160,Civil Engineering,3,CEE409
+1161,Civil Engineering,3,CEE416
+1162,Civil Engineering,4,CEE417
+1163,Civil Engineering,3,CEE418
+1164,Civil Engineering,3,CEE421
+1165,Civil Engineering,3,CEE434
+1166,Civil Engineering,4,CEE453
+1167,Civil Engineering,4,CEE458
+1168,Civil Engineering,3,CEE465
+1169,Civil Engineering,4,CEE493
+1170,Civil Engineering,3,CEE498
+1171,Civil Engineering,3,MSE489
+1172,Civil Engineering,4,UP466
+1173,Civil Engineering,2,UP480
+1174,Civil Engineering,3,ACE451
+1175,Civil Engineering,4,ATMS421
+1176,Civil Engineering,3,CEE438
+1177,Civil Engineering,4,CEE441
+1178,Civil Engineering,4,CEE447
+1179,Civil Engineering,3,CEE450
+1180,Civil Engineering,3,ECON420
+1181,Civil Engineering,3,CEE408
+1182,Civil Engineering,4,CEE417
+1183,Civil Engineering,3,CEE437
+1184,Civil Engineering,3,CEE449
+1185,Civil Engineering,3,CEE465
+1186,Civil Engineering,3,ATMS302
+1187,Civil Engineering,4,ATMS410
+1188,Civil Engineering,4,ATMS411
+1189,Civil Engineering,4,ATMS421
+1190,Civil Engineering,4,CEE441
+1191,Civil Engineering,4,CEE447
+1192,Civil Engineering,4,CHBE321
+1193,Civil Engineering,4,CHBE421
+1194,Civil Engineering,4,CHBE422
+1195,Civil Engineering,3,CHBE424
+1196,Civil Engineering,3,CHEM232
+1197,Civil Engineering,2,CHEM315
+1198,Civil Engineering,4,CHEM332
+1199,Civil Engineering,2,CHEM420
+1200,Civil Engineering,4,CHEM440
+1201,Civil Engineering,4,CEE444
+1202,Civil Engineering,3,MCB301
+1203,Civil Engineering,3,MCB431
+1204,Civil Engineering,3,MCB450
+1205,Civil Engineering,4,CHEM332
+1206,Civil Engineering,3,ENVS480
+1207,Civil Engineering,3,MCB450
+1208,Civil Engineering,4,GEOL107
+1209,Civil Engineering,3,CHEM232
+1210,Civil Engineering,3,ME200
+1211,Civil Engineering,4,STAT420
+1212,Civil Engineering,4,CEE300
+1213,Civil Engineering,3,CEE310
+1214,Civil Engineering,3,CEE320
+1215,Civil Engineering,3,CEE330
+1216,Civil Engineering,3,CEE340
+1217,Civil Engineering,3,CEE350
+1218,Civil Engineering,3,CEE360
+1219,Civil Engineering,3,CEE380
+1220,Civil Engineering,3,CEE420
+1221,Civil Engineering,3,CEE421
+1222,Civil Engineering,3,CEE422
+1223,Civil Engineering,3,CEE437
+1224,Civil Engineering,4,CEE440
+1225,Civil Engineering,4,CEE441
+1226,Civil Engineering,4,CEE483
+1227,Civil Engineering,3,CEE484
+1228,Civil Engineering,4,CEE401
+1229,Civil Engineering,3,CEE460
+1230,Civil Engineering,3,CEE461
+1231,Civil Engineering,3,CEE405
+1232,Civil Engineering,3,CEE406
+1233,Civil Engineering,3,CEE407
+1234,Civil Engineering,3,CEE408
+1235,Civil Engineering,3,CEE409
+1236,Civil Engineering,3,CEE410
+1237,Civil Engineering,3,CEE411
+1238,Civil Engineering,3,CEE412
+1239,Civil Engineering,4,CEE415
+1240,Civil Engineering,3,CEE416
+1241,Civil Engineering,4,CEE417
+1242,Civil Engineering,3,CEE418
+1243,Civil Engineering,3,CEE451
+1244,Civil Engineering,4,CEE453
+1245,Computer Engineering,1,ENG100
+1246,Computer Engineering,4,MATH221
+1247,Computer Engineering,3,MATH231
+1248,Computer Engineering,4,MATH241
+1249,Computer Engineering,3,MATH257
+1250,Computer Engineering,3,MATH285
+1251,Computer Engineering,4,PHYS211
+1252,Computer Engineering,4,PHYS212
+1253,Computer Engineering,2,PHYS213
+1254,Computer Engineering,2,PHYS214
+1255,Computer Engineering,3,ECE110
+1256,Computer Engineering,4,ECE120
+1257,Computer Engineering,4,ECE210
+1258,Computer Engineering,4,ECE220
+1259,Computer Engineering,3,CS173
+1260,Computer Engineering,4,CS225
+1261,Computer Engineering,3,ECE313
+1262,Computer Engineering,4,ECE374
+1263,Computer Engineering,3,ECE385
+1264,Computer Engineering,4,ECE391
+1265,Computer Engineering,3,AE202
+1266,Computer Engineering,3,AE302
+1267,Computer Engineering,3,AE311
+1268,Computer Engineering,3,AE312
+1269,Computer Engineering,3,AE321
+1270,Computer Engineering,3,AE352
+1271,Computer Engineering,3,AE353
+1272,Computer Engineering,3,AE402
+1273,Computer Engineering,3,AE403
+1274,Computer Engineering,3,AE410
+1275,Computer Engineering,4,AE412
+1276,Computer Engineering,3,AE416
+1277,Computer Engineering,3,AE419
+1278,Computer Engineering,3,AE420
+1279,Computer Engineering,3,AE428
+1280,Computer Engineering,3,AE433
+1281,Computer Engineering,3,AE434
+1282,Computer Engineering,3,AE435
+1283,Computer Engineering,3,AE451
+1284,Computer Engineering,2,AE460
+1285,Computer Engineering,3,ASTR210
+1286,Computer Engineering,3,ASTR310
+1287,Computer Engineering,3,ASTR330
+1288,Computer Engineering,3,ASTR350
+1289,Computer Engineering,3,ASTR404
+1290,Computer Engineering,3,ASTR405
+1291,Computer Engineering,3,ASTR406
+1292,Computer Engineering,4,ASTR414
+1293,Computer Engineering,3,ATMS201
+1294,Computer Engineering,3,ATMS301
+1295,Computer Engineering,3,ATMS302
+1296,Computer Engineering,4,ATMS303
+1297,Computer Engineering,3,ATMS304
+1298,Computer Engineering,3,ATMS305
+1299,Computer Engineering,3,ATMS404
+1300,Computer Engineering,4,ATMS405
+1301,Computer Engineering,4,ATMS406
+1302,Computer Engineering,4,ATMS410
+1303,Computer Engineering,4,ATMS411
+1304,Computer Engineering,4,ATMS420
+1305,Computer Engineering,4,ATMS421
+1306,Computer Engineering,3,ATMS447
+1307,Computer Engineering,4,ATMS449
+1308,Computer Engineering,3,BIOC406
+1309,Computer Engineering,3,BIOC446
+1310,Computer Engineering,4,BIOC455
+1311,Computer Engineering,3,BIOE201
+1312,Computer Engineering,2,BIOE202
+1313,Computer Engineering,3,BIOE302
+1314,Computer Engineering,3,BIOE414
+1315,Computer Engineering,2,BIOE415
+1316,Computer Engineering,4,BIOE461
+1317,Computer Engineering,3,BIOE467
+1318,Computer Engineering,3,BIOE476
+1319,Computer Engineering,3,BIOE480
+1320,Computer Engineering,4,BIOE485
+1321,Computer Engineering,3,CHBE221
+1322,Computer Engineering,4,CHBE321
+1323,Computer Engineering,4,CHBE421
+1324,Computer Engineering,4,CHBE422
+1325,Computer Engineering,3,CHBE424
+1326,Computer Engineering,4,CHBE430
+1327,Computer Engineering,4,CHBE431
+1328,Computer Engineering,3,CHBE440
+1329,Computer Engineering,3,CHBE451
+1330,Computer Engineering,3,CHBE452
+1331,Computer Engineering,2,CHBE453
+1332,Computer Engineering,3,CHBE456
+1333,Computer Engineering,3,CHBE471
+1334,Computer Engineering,3,CHBE472
+1335,Computer Engineering,3,CHBE473
+1336,Computer Engineering,3,CHBE474
+1337,Computer Engineering,3,CHEM102
+1338,Computer Engineering,1,CHEM103
+1339,Computer Engineering,3,CHEM104
+1340,Computer Engineering,1,CHEM105
+1341,Computer Engineering,3,CEE310
+1342,Computer Engineering,3,CEE330
+1343,Computer Engineering,3,CEE408
+1344,Computer Engineering,3,CEE410
+1345,Computer Engineering,3,CEE416
+1346,Computer Engineering,4,CEE447
+1347,Computer Engineering,3,CEE491
+1348,Computer Engineering,3,CPSC265
+1349,Computer Engineering,3,CS101
+1350,Computer Engineering,3,CS242
+1351,Computer Engineering,3,CS357
+1352,Computer Engineering,3,CS410
+1353,Computer Engineering,3,CS411
+1354,Computer Engineering,3,CS412
+1355,Computer Engineering,3,CS413
+1356,Computer Engineering,3,CS414
+1357,Computer Engineering,3,CS416
+1358,Computer Engineering,3,CS418
+1359,Computer Engineering,3,CS419
+1360,Computer Engineering,3,CS420
+1361,Computer Engineering,3,CS421
+1362,Computer Engineering,3,CS422
+1363,Computer Engineering,3,CS423
+1364,Computer Engineering,3,CS424
+1365,Computer Engineering,3,CS425
+1366,Computer Engineering,3,CS426
+1367,Computer Engineering,3,CS427
+1368,Computer Engineering,3,CS428
+1369,Computer Engineering,3,CS429
+1370,Computer Engineering,3,CS431
+1371,Computer Engineering,3,CS433
+1372,Computer Engineering,3,CS435
+1373,Computer Engineering,3,CS436
+1374,Computer Engineering,3,CS438
+1375,Computer Engineering,3,CS439
+1376,Computer Engineering,3,CS440
+1377,Computer Engineering,3,CS445
+1378,Computer Engineering,3,CS446
+1379,Computer Engineering,3,CS447
+1380,Computer Engineering,3,CS450
+1381,Computer Engineering,3,CS460
+1382,Computer Engineering,4,CS461
+1383,Computer Engineering,3,CS463
+1384,Computer Engineering,4,CS465
+1385,Computer Engineering,3,CS466
+1386,Computer Engineering,3,CS467
+1387,Computer Engineering,4,CS473
+1388,Computer Engineering,3,CS475
+1389,Computer Engineering,3,CS476
+1390,Computer Engineering,3,CS477
+1391,Computer Engineering,3,CS481
+1392,Computer Engineering,3,CS484
+1393,Computer Engineering,1,CS398
+1394,Computer Engineering,1,CS498
+1395,Computer Engineering,1,ECE297
+1396,Computer Engineering,3,ECE304
+1397,Computer Engineering,3,ECE307
+1398,Computer Engineering,3,ECE310
+1399,Computer Engineering,1,ECE311
+1400,Computer Engineering,1,ECE314
+1401,Computer Engineering,3,ECE329
+1402,Computer Engineering,3,ECE330
+1403,Computer Engineering,3,ECE333
+1404,Computer Engineering,3,ECE340
+1405,Computer Engineering,3,ECE342
+1406,Computer Engineering,1,ECE343
+1407,Computer Engineering,3,ECE350
+1408,Computer Engineering,3,ECE365
+1409,Computer Engineering,3,ECE380
+1410,Computer Engineering,2,ECE395
+1411,Computer Engineering,1,ECE396
+1412,Computer Engineering,4,ECE397
+1413,Computer Engineering,3,ECE402
+1414,Computer Engineering,3,ECE403
+1415,Computer Engineering,3,ECE407
+1416,Computer Engineering,4,ECE408
+1417,Computer Engineering,4,ECE411
+1418,Computer Engineering,3,ECE414
+1419,Computer Engineering,2,ECE415
+1420,Computer Engineering,3,ECE416
+1421,Computer Engineering,4,ECE417
+1422,Computer Engineering,4,ECE418
+1423,Computer Engineering,3,ECE419
+1424,Computer Engineering,2,ECE420
+1425,Computer Engineering,4,ECE422
+1426,Computer Engineering,3,ECE424
+1427,Computer Engineering,3,ECE425
+1428,Computer Engineering,3,ECE428
+1429,Computer Engineering,4,ECE431
+1430,Computer Engineering,3,ECE435
+1431,Computer Engineering,3,ECE437
+1432,Computer Engineering,3,ECE438
+1433,Computer Engineering,3,ECE439
+1434,Computer Engineering,3,ECE441
+1435,Computer Engineering,3,ECE442
+1436,Computer Engineering,4,ECE443
+1437,Computer Engineering,4,ECE444
+1438,Computer Engineering,4,ECE445
+1439,Computer Engineering,4,ECE446
+1440,Computer Engineering,3,ECE447
+1441,Computer Engineering,3,ECE448
+1442,Computer Engineering,3,ECE451
+1443,Computer Engineering,3,ECE452
+1444,Computer Engineering,4,ECE453
+1445,Computer Engineering,3,ECE454
+1446,Computer Engineering,3,ECE455
+1447,Computer Engineering,4,ECE456
+1448,Computer Engineering,3,ECE457
+1449,Computer Engineering,3,ECE458
+1450,Computer Engineering,3,ECE459
+1451,Computer Engineering,4,ECE460
+1452,Computer Engineering,3,ECE461
+1453,Computer Engineering,3,ECE462
+1454,Computer Engineering,2,ECE463
+1455,Computer Engineering,3,ECE464
+1456,Computer Engineering,3,ECE465
+1457,Computer Engineering,1,ECE466
+1458,Computer Engineering,3,ECE467
+1459,Computer Engineering,3,ECE468
+1460,Computer Engineering,2,ECE469
+1461,Computer Engineering,4,ECE470
+1462,Computer Engineering,3,ECE472
+1463,Computer Engineering,3,ECE473
+1464,Computer Engineering,3,ECE476
+1465,Computer Engineering,3,ECE478
+1466,Computer Engineering,3,ECE480
+1467,Computer Engineering,4,ECE481
+1468,Computer Engineering,3,ECE482
+1469,Computer Engineering,3,ECE483
+1470,Computer Engineering,4,ECE486
+1471,Computer Engineering,3,ECE487
+1472,Computer Engineering,3,ECE488
+1473,Computer Engineering,4,ECE489
+1474,Computer Engineering,3,ECE490
+1475,Computer Engineering,3,ECE491
+1476,Computer Engineering,3,ECE492
+1477,Computer Engineering,3,ECE493
+1478,Computer Engineering,3,ECE495
+1479,Computer Engineering,2,ECE496
+1480,Computer Engineering,2,ECE499
+1481,Computer Engineering,1,ECE298
+1482,Computer Engineering,4,ECE398
+1483,Computer Engineering,4,ECE498
+1484,Computer Engineering,1,ENG491
+1485,Computer Engineering,4,GEOL107
+1486,Computer Engineering,4,GEOL208
+1487,Computer Engineering,4,GEOL333
+1488,Computer Engineering,4,GEOL380
+1489,Computer Engineering,4,GEOL411
+1490,Computer Engineering,6,GEOL417
+1491,Computer Engineering,4,GEOL432
+1492,Computer Engineering,4,GEOL436
+1493,Computer Engineering,4,GEOL440
+1494,Computer Engineering,3,GEOL450
+1495,Computer Engineering,4,GEOL452
+1496,Computer Engineering,3,GEOL460
+1497,Computer Engineering,3,IE310
+1498,Computer Engineering,3,IE330
+1499,Computer Engineering,3,IE360
+1500,Computer Engineering,3,IE361
+1501,Computer Engineering,3,IE400
+1502,Computer Engineering,3,IE410
+1503,Computer Engineering,3,IE411
+1504,Computer Engineering,3,IE412
+1505,Computer Engineering,3,IE413
+1506,Computer Engineering,3,IE420
+1507,Computer Engineering,3,IE430
+1508,Computer Engineering,3,IE431
+1509,Computer Engineering,4,IB150
+1510,Computer Engineering,3,IB202
+1511,Computer Engineering,4,IB203
+1512,Computer Engineering,3,IB204
+1513,Computer Engineering,4,IB302
+1514,Computer Engineering,3,IB348
+1515,Computer Engineering,4,IB368
+1516,Computer Engineering,3,IB401
+1517,Computer Engineering,3,IB405
+1518,Computer Engineering,3,IB420
+1519,Computer Engineering,3,IB421
+1520,Computer Engineering,3,IB426
+1521,Computer Engineering,3,IB431
+1522,Computer Engineering,3,IB432
+1523,Computer Engineering,3,IB440
+1524,Computer Engineering,3,IB444
+1525,Computer Engineering,4,IB451
+1526,Computer Engineering,3,IB452
+1527,Computer Engineering,3,IB453
+1528,Computer Engineering,4,IB461
+1529,Computer Engineering,4,IB462
+1530,Computer Engineering,4,IB463
+1531,Computer Engineering,4,IB464
+1532,Computer Engineering,4,IB467
+1533,Computer Engineering,4,IB468
+1534,Computer Engineering,4,IB471
+1535,Computer Engineering,4,IB481
+1536,Computer Engineering,3,IB482
+1537,Computer Engineering,4,LING300
+1538,Computer Engineering,3,LING406
+1539,Computer Engineering,3,LING407
+1540,Computer Engineering,3,LING427
+1541,Computer Engineering,3,MSE280
+1542,Computer Engineering,3,MATH347
+1543,Computer Engineering,3,MATH357
+1544,Computer Engineering,3,MATH402
+1545,Computer Engineering,3,MATH403
+1546,Computer Engineering,3,MATH412
+1547,Computer Engineering,3,MATH413
+1548,Computer Engineering,3,MATH414
+1549,Computer Engineering,3,MATH417
+1550,Computer Engineering,3,MATH418
+1551,Computer Engineering,3,MATH423
+1552,Computer Engineering,3,MATH424
+1553,Computer Engineering,3,MATH425
+1554,Computer Engineering,3,MATH427
+1555,Computer Engineering,3,MATH428
+1556,Computer Engineering,3,MATH432
+1557,Computer Engineering,3,MATH442
+1558,Computer Engineering,3,MATH444
+1559,Computer Engineering,3,MATH446
+1560,Computer Engineering,3,MATH447
+1561,Computer Engineering,3,MATH448
+1562,Computer Engineering,3,MATH450
+1563,Computer Engineering,3,MATH453
+1564,Computer Engineering,4,MATH473
+1565,Computer Engineering,3,MATH475
+1566,Computer Engineering,3,MATH481
+1567,Computer Engineering,3,MATH482
+1568,Computer Engineering,3,MATH484
+1569,Computer Engineering,3,MATH487
+1570,Computer Engineering,3,MATH489
+1571,Computer Engineering,4,MCB150
+1572,Computer Engineering,3,MCB250
+1573,Computer Engineering,2,MCB251
+1574,Computer Engineering,3,MCB252
+1575,Computer Engineering,2,MCB253
+1576,Computer Engineering,3,MCB300
+1577,Computer Engineering,3,MCB301
+1578,Computer Engineering,3,MCB314
+1579,Computer Engineering,4,MCB316
+1580,Computer Engineering,3,MCB354
+1581,Computer Engineering,3,MCB400
+1582,Computer Engineering,3,MCB401
+1583,Computer Engineering,3,MCB402
+1584,Computer Engineering,3,MCB406
+1585,Computer Engineering,3,MCB408
+1586,Computer Engineering,3,MCB410
+1587,Computer Engineering,3,MCB413
+1588,Computer Engineering,3,MCB419
+1589,Computer Engineering,3,MCB421
+1590,Computer Engineering,3,MCB424
+1591,Computer Engineering,3,MCB426
+1592,Computer Engineering,3,MCB430
+1593,Computer Engineering,3,MCB431
+1594,Computer Engineering,3,MCB433
+1595,Computer Engineering,3,MCB435
+1596,Computer Engineering,3,MCB446
+1597,Computer Engineering,3,MCB480
+1598,Computer Engineering,3,ME200
+1599,Computer Engineering,4,ME310
+1600,Computer Engineering,4,ME320
+1601,Computer Engineering,4,ME330
+1602,Computer Engineering,3,ME340
+1603,Computer Engineering,3,ME370
+1604,Computer Engineering,3,ME371
+1605,Computer Engineering,3,ME400
+1606,Computer Engineering,3,ME401
+1607,Computer Engineering,3,ME402
+1608,Computer Engineering,3,ME403
+1609,Computer Engineering,4,ME404
+1610,Computer Engineering,3,ME410
+1611,Computer Engineering,4,ME411
+1612,Computer Engineering,2,ME412
+1613,Computer Engineering,4,ME420
+1614,Computer Engineering,3,ME430
+1615,Computer Engineering,3,ME431
+1616,Computer Engineering,3,ME440
+1617,Computer Engineering,4,ME445
+1618,Computer Engineering,3,ME451
+1619,Computer Engineering,3,ME452
+1620,Computer Engineering,4,ME460
+1621,Computer Engineering,3,ME461
+1622,Computer Engineering,3,ME471
+1623,Computer Engineering,3,ME472
+1624,Computer Engineering,4,ME487
+1625,Computer Engineering,3,MUS407
+1626,Computer Engineering,2,MUS409
+1627,Computer Engineering,3,NEUR453
+1628,Computer Engineering,2,NPRE201
+1629,Computer Engineering,3,NPRE247
+1630,Computer Engineering,3,NPRE330
+1631,Computer Engineering,3,NPRE402
+1632,Computer Engineering,3,NPRE412
+1633,Computer Engineering,3,NPRE421
+1634,Computer Engineering,2,NPRE423
+1635,Computer Engineering,3,NPRE429
+1636,Computer Engineering,2,NPRE432
+1637,Computer Engineering,3,NPRE435
+1638,Computer Engineering,4,NPRE441
+1639,Computer Engineering,3,NPRE442
+1640,Computer Engineering,4,NPRE448
+1641,Computer Engineering,3,NPRE451
+1642,Computer Engineering,4,NPRE455
+1643,Computer Engineering,3,NPRE457
+1644,Computer Engineering,4,NPRE458
+1645,Computer Engineering,3,NPRE470
+1646,Computer Engineering,3,NPRE475
+1647,Computer Engineering,2,PHYS225
+1648,Computer Engineering,3,PHYS325
+1649,Computer Engineering,3,PHYS326
+1650,Computer Engineering,3,PHYS401
+1651,Computer Engineering,3,PHYS402
+1652,Computer Engineering,4,PHYS403
+1653,Computer Engineering,4,PHYS406
+1654,Computer Engineering,3,PHYS419
+1655,Computer Engineering,2,PHYS420
+1656,Computer Engineering,4,PHYS427
+1657,Computer Engineering,4,PHYS460
+1658,Computer Engineering,3,PHYS466
+1659,Computer Engineering,4,PHYS470
+1660,Computer Engineering,3,PHYS485
+1661,Computer Engineering,4,PHYS486
+1662,Computer Engineering,4,PHYS487
+1663,Computer Engineering,3,PSYC204
+1664,Computer Engineering,3,SHS200
+1665,Computer Engineering,3,SHS240
+1666,Computer Engineering,4,SHS300
+1667,Computer Engineering,4,SHS301
+1668,Computer Engineering,3,SHS320
+1669,Computer Engineering,4,SHS450
+1670,Computer Engineering,3,SHS470
+1671,Computer Engineering,3,STAT420
+1672,Computer Engineering,3,STAT424
+1673,Computer Engineering,3,STAT425
+1674,Computer Engineering,3,STAT428
+1675,Computer Engineering,3,STAT429
+1676,Computer Engineering,3,STAT440
+1677,Computer Engineering,3,SE411
+1678,Computer Engineering,4,SE420
+1679,Computer Engineering,3,SE423
+1680,Computer Engineering,3,SE424
+1681,Computer Engineering,3,TAM211
+1682,Computer Engineering,3,TAM212
+1683,Computer Engineering,3,TAM251
+1684,Computer Engineering,4,TAM324
+1685,Computer Engineering,4,TAM335
+1686,Computer Engineering,4,TAM412
+1687,Computer Engineering,4,TAM435
+1688,Computer Engineering,4,TAM445
+1689,Computer Engineering,4,TAM451
+1690,Computer Engineering,3,ECE310
+1691,Computer Engineering,3,ECE330
+1692,Computer Engineering,3,ECE329
+1693,Computer Engineering,3,ECE340
+1694,Computer Engineering,3,ECE461
+1695,Computer Engineering,4,ECE486
+1696,Computer Engineering,3,CS357
+1697,Computer Engineering,3,CS411
+1698,Computer Engineering,3,CS412
+1699,Computer Engineering,3,CS414
+1700,Computer Engineering,3,CS418
+1701,Computer Engineering,3,CS419
+1702,Computer Engineering,3,CS420
+1703,Computer Engineering,3,CS421
+1704,Computer Engineering,3,CS423
+1705,Computer Engineering,3,CS424
+1706,Computer Engineering,3,CS425
+1707,Computer Engineering,3,CS426
+1708,Computer Engineering,3,CS431
+1709,Computer Engineering,3,CS434
+1710,Computer Engineering,3,CS436
+1711,Computer Engineering,3,CS437
+1712,Computer Engineering,3,CS438
+1713,Computer Engineering,3,CS440
+1714,Computer Engineering,3,CS441
+1715,Computer Engineering,3,CS444
+1716,Computer Engineering,3,CS446
+1717,Computer Engineering,3,CS450
+1718,Computer Engineering,4,CS461
+1719,Computer Engineering,3,CS475
+1720,Computer Engineering,3,CS476
+1721,Computer Engineering,3,CS477
+1722,Computer Engineering,4,CS483
+1723,Computer Engineering,4,ECE408
+1724,Computer Engineering,4,ECE411
+1725,Computer Engineering,3,ECE419
+1726,Computer Engineering,4,ECE422
+1727,Computer Engineering,3,ECE424
+1728,Computer Engineering,3,ECE425
+1729,Computer Engineering,3,ECE428
+1730,Computer Engineering,3,ECE435
+1731,Computer Engineering,3,ECE438
+1732,Computer Engineering,3,ECE439
+1733,Computer Engineering,3,ECE448
+1734,Computer Engineering,3,ECE462
+1735,Computer Engineering,4,ECE470
+1736,Computer Engineering,3,ECE478
+1737,Computer Engineering,4,ECE479
+1738,Computer Engineering,4,ECE484
+1739,Computer Engineering,3,ECE491
+1740,Computer Engineering,3,ECE492
+1741,Computer Engineering,4,ECE411
+1742,Computer Engineering,4,ECE445
+1743,Computer Engineering,2,ECE496
+1744,Computer Engineering,2,ECE499
+1745,Computer Science + Advertising,3,CS124
+1746,Computer Science + Advertising,3,CS128
+1747,Computer Science + Advertising,3,CS173
+1748,Computer Science + Advertising,1,CS222
+1749,Computer Science + Advertising,4,CS225
+1750,Computer Science + Advertising,3,CS340
+1751,Computer Science + Advertising,4,CS374
+1752,Computer Science + Advertising,3,CS421
+1753,Computer Science + Advertising,5,MATH220
+1754,Computer Science + Advertising,3,MATH231
+1755,Computer Science + Advertising,2,MATH225
+1756,Computer Science + Advertising,3,CS361
+1757,Computer Science + Advertising,3,ANTH103
+1758,Computer Science + Advertising,3,PSYC100
+1759,Computer Science + Advertising,3,SOC100
+1760,Computer Science + Advertising,3,ECON102
+1761,Computer Science + Advertising,3,ECON103
+1762,Computer Science + Advertising,3,BADM320
+1763,Computer Science + Advertising,3,ADV250
+1764,Computer Science + Advertising,3,ADV281
+1765,Computer Science + Advertising,3,ADV284
+1766,Computer Science + Advertising,3,ADV360
+1767,Computer Science + Advertising,3,ADV390
+1768,Computer Science + Advertising,3,ADV461
+1769,Computer Science + Advertising,3,ADV492
+1770,Computer Science + Animal Sciences,2,RHET105
+1771,Computer Science + Animal Sciences,2,CMN101
+1772,Computer Science + Animal Sciences,2,CMN111
+1773,Computer Science + Animal Sciences,2,CMN112
+1774,Computer Science + Animal Sciences,2,CHEM102
+1775,Computer Science + Animal Sciences,2,CHEM103
+1776,Computer Science + Animal Sciences,2,CHEM104
+1777,Computer Science + Animal Sciences,2,CHEM105
+1778,Computer Science + Animal Sciences,3,ECON102
+1779,Computer Science + Animal Sciences,3,CS361
+1780,Computer Science + Animal Sciences,3,MATH220
+1781,Computer Science + Animal Sciences,3,MATH225
+1782,Computer Science + Animal Sciences,3,MATH231
+1783,Computer Science + Animal Sciences,3,CS100
+1784,Computer Science + Animal Sciences,3,CS124
+1785,Computer Science + Animal Sciences,3,CS128
+1786,Computer Science + Animal Sciences,3,CS173
+1787,Computer Science + Animal Sciences,3,CS225
+1788,Computer Science + Animal Sciences,3,CS222
+1789,Computer Science + Animal Sciences,3,CS374
+1790,Computer Science + Animal Sciences,3,CS357
+1791,Computer Science + Animal Sciences,2,CS233
+1793,Computer Science + Animal Sciences,3,ANSC100
+1794,Computer Science + Animal Sciences,3,ANSC221
+1795,Computer Science + Animal Sciences,3,ANSC222
+1796,Computer Science + Animal Sciences,3,ANSC223
+1797,Computer Science + Animal Sciences,3,ANSC224
+1798,Computer Science + Animal Sciences,3,ANSC398
+1799,Computer Science + Animal Sciences,3,ANSC498
+1800,Computer Science + Animal Sciences,3,ANSC201
+1801,Computer Science + Animal Sciences,3,ANSC204
+1802,Computer Science + Animal Sciences,3,ANSC205
+1803,Computer Science + Animal Sciences,3,ANSC206
+1804,Computer Science + Animal Sciences,3,ANSC211
+1805,Computer Science + Animal Sciences,3,ANSC250
+1806,Computer Science + Animal Sciences,3,ANSC301
+1807,Computer Science + Animal Sciences,3,ANSC305
+1808,Computer Science + Animal Sciences,3,ANSC307
+1809,Computer Science + Animal Sciences,3,ANSC309
+1810,Computer Science + Animal Sciences,3,ANSC310
+1811,Computer Science + Animal Sciences,3,ANSC312
+1812,Computer Science + Animal Sciences,3,ANSC313
+1813,Computer Science + Animal Sciences,3,ANSC314
+1814,Computer Science + Animal Sciences,3,ANSC322
+1815,Computer Science + Animal Sciences,3,ANSC370
+1816,Computer Science + Animal Sciences,3,ANSC400
+1817,Computer Science + Animal Sciences,3,ANSC401
+1818,Computer Science + Animal Sciences,3,ANSC402
+1819,Computer Science + Animal Sciences,3,ANSC403
+1820,Computer Science + Animal Sciences,3,ANSC404
+1821,Computer Science + Animal Sciences,3,ANSC407
+1822,Computer Science + Animal Sciences,3,ANSC424
+1823,Computer Science + Animal Sciences,3,ANSC435
+1824,Computer Science + Animal Sciences,3,ANSC471
+1825,Computer Science + Animal Sciences,3,ANSC251
+1826,Computer Science + Animal Sciences,3,ANSC306
+1827,Computer Science + Animal Sciences,3,ANSC350
+1828,Computer Science + Animal Sciences,3,ANSC363
+1829,Computer Science + Animal Sciences,3,ANSC366
+1830,Computer Science + Animal Sciences,3,ANSC406
+1831,Computer Science + Animal Sciences,3,ANSC409
+1832,Computer Science + Animal Sciences,3,ANSC420
+1833,Computer Science + Animal Sciences,3,ANSC421
+1834,Computer Science + Animal Sciences,3,ANSC422
+1835,Computer Science + Animal Sciences,3,ANSC431
+1836,Computer Science + Animal Sciences,3,ANSC438
+1837,Computer Science + Animal Sciences,3,ANSC440
+1838,Computer Science + Animal Sciences,3,ANSC441
+1839,Computer Science + Animal Sciences,3,ANSC444
+1840,Computer Science + Animal Sciences,3,ANSC445
+1841,Computer Science + Animal Sciences,3,ANSC446
+1842,Computer Science + Animal Sciences,3,ANSC449
+1843,Computer Science + Animal Sciences,3,ANSC450
+1844,Computer Science + Animal Sciences,3,ANSC451
+1845,Computer Science + Animal Sciences,3,ANSC452
+1846,Computer Science + Animal Sciences,3,ANSC467
+1847,Computer Science + Animal Sciences,3,ANSC509
+1848,Computer Science + Animal Sciences,3,ANSC520
+1849,Computer Science + Animal Sciences,3,ANSC521
+1850,Computer Science + Animal Sciences,3,ANSC522
+1851,Computer Science + Animal Sciences,3,ANSC523
+1852,Computer Science + Animal Sciences,3,ANSC524
+1853,Computer Science + Animal Sciences,3,ANSC525
+1854,Computer Science + Animal Sciences,3,ANSC526
+1855,Computer Science + Animal Sciences,3,ANSC533
+1856,Computer Science + Animal Sciences,3,ANSC541
+1857,Computer Science + Animal Sciences,3,ANSC542
+1858,Computer Science + Animal Sciences,3,ANSC543
+1859,Computer Science + Animal Sciences,3,ANSC545
+1860,Computer Science + Astronomy,1,CS100
+1861,Computer Science + Astronomy,3,CS124
+1862,Computer Science + Astronomy,3,CS128
+1863,Computer Science + Astronomy,3,CS173
+1864,Computer Science + Astronomy,4,CS225
+1865,Computer Science + Astronomy,1,CS222
+1866,Computer Science + Astronomy,2,CS233
+1867,Computer Science + Astronomy,2,CS341
+1868,Computer Science + Astronomy,3,CS340
+1869,Computer Science + Astronomy,3,STAT200
+1870,Computer Science + Astronomy,3,STAT212
+1871,Computer Science + Astronomy,3,CS361
+1872,Computer Science + Astronomy,4,CS374
+1873,Computer Science + Astronomy,3,CS421
+1874,Computer Science + Astronomy,4,MATH221
+1875,Computer Science + Astronomy,2,MATH225
+1876,Computer Science + Astronomy,3,MATH231
+1877,Computer Science + Astronomy,4,PHYS211
+1878,Computer Science + Astronomy,4,PHYS212
+1879,Computer Science + Astronomy,4,MATH241
+1880,Computer Science + Astronomy,3,ASTR210
+1881,Computer Science + Astronomy,3,ASTR310
+1882,Computer Science + Astronomy,3,ASTR404
+1883,Computer Science + Astronomy,3,ASTR405
+1884,Computer Science + Astronomy,3,ASTR406
+1885,Computer Science + Astronomy,3,ASTR414
+1886,Computer Science + Bioengineering,1,ENG100
+1887,Computer Science + Bioengineering,1,BIOE100
+1888,Computer Science + Bioengineering,1,BIOE120
+1889,Computer Science + Bioengineering,4,MATH221
+1890,Computer Science + Bioengineering,3,MATH231
+1891,Computer Science + Bioengineering,4,MATH241
+1892,Computer Science + Bioengineering,3,MATH257
+1893,Computer Science + Bioengineering,3,MATH285
+1894,Computer Science + Bioengineering,4,PHYS211
+1895,Computer Science + Bioengineering,4,PHYS212
+1896,Computer Science + Bioengineering,2,CHEM102
+1897,Computer Science + Bioengineering,2,CHEM103
+1898,Computer Science + Bioengineering,3,MCB150
+1899,Computer Science + Bioengineering,3,BIOE310
+1900,Computer Science + Bioengineering,3,CS124
+1901,Computer Science + Bioengineering,3,CS128
+1902,Computer Science + Bioengineering,3,CS173
+1903,Computer Science + Bioengineering,1,CS222
+1904,Computer Science + Bioengineering,4,CS225
+1905,Computer Science + Bioengineering,2,CS233
+1906,Computer Science + Bioengineering,2,CS341
+1907,Computer Science + Bioengineering,3,CS340
+1908,Computer Science + Bioengineering,4,CS374
+1909,Computer Science + Bioengineering,3,CS357
+1910,Computer Science + Bioengineering,3,BIOE205
+1911,Computer Science + Bioengineering,3,BIOE206
+1912,Computer Science + Bioengineering,4,BIOE404
+1913,Computer Science + Bioengineering,2,BIOE303
+1914,Computer Science + Bioengineering,3,BIOE360
+1915,Computer Science + Bioengineering,3,BIOE414
+1916,Computer Science + Bioengineering,2,BIOE415
+1917,Computer Science + Bioengineering,3,BIOE430
+1918,Computer Science + Bioengineering,4,BIOE461
+1919,Computer Science + Bioengineering,3,BIOE467
+1920,Computer Science + Bioengineering,3,BIOE476
+1921,Computer Science + Bioengineering,3,BIOE479
+1922,Computer Science + Bioengineering,3,BIOE483
+1923,Computer Science + Bioengineering,3,BIOE484
+1924,Computer Science + Bioengineering,4,BIOE485
+1925,Computer Science + Bioengineering,3,BIOE486
+1926,Computer Science + Bioengineering,3,BIOE487
+1927,Computer Science + Bioengineering,3,BIOE488
+1928,Computer Science + Bioengineering,3,BIOE489
+1929,Computer Science + Bioengineering,1,BIOE498
+1930,Computer Science + Crop Sciences,2,RHET105
+1931,Computer Science + Crop Sciences,2,CMN101
+1932,Computer Science + Crop Sciences,2,CMN111
+1933,Computer Science + Crop Sciences,2,CMN112
+1934,Computer Science + Crop Sciences,2,ACES101
+1935,Computer Science + Crop Sciences,1,CS100
+1936,Computer Science + Crop Sciences,3,CS124
+1937,Computer Science + Crop Sciences,3,CS128
+1938,Computer Science + Crop Sciences,3,CS173
+1939,Computer Science + Crop Sciences,1,CS222
+1940,Computer Science + Crop Sciences,4,CS225
+1941,Computer Science + Crop Sciences,4,CS374
+1942,Computer Science + Crop Sciences,3,CS421
+1943,Computer Science + Crop Sciences,2,CS233
+1944,Computer Science + Crop Sciences,2,CS341
+1945,Computer Science + Crop Sciences,3,CS340
+1946,Computer Science + Crop Sciences,3,CS361
+1947,Computer Science + Crop Sciences,4,MATH220
+1948,Computer Science + Crop Sciences,2,MATH225
+1949,Computer Science + Crop Sciences,3,MATH231
+1950,Computer Science + Crop Sciences,2,CPSC102
+1951,Computer Science + Crop Sciences,4,CPSC112
+1952,Computer Science + Crop Sciences,4,CPSC212
+1953,Computer Science + Crop Sciences,3,CPSC393
+1954,Computer Science + Crop Sciences,1,CPSC498
+1955,Computer Science + Crop Sciences,4,CPSC440
+1956,Computer Science + Crop Sciences,3,CPSC444
+1959,Computer Science + Music,1,FAA101
+1960,Computer Science + Music,3,MUS100
+1961,Computer Science + Music,2,MUS101
+1962,Computer Science + Music,2,MUS102
+1963,Computer Science + Music,2,MUS201
+1964,Computer Science + Music,2,MUS202
+1965,Computer Science + Music,2,MUS107
+1966,Computer Science + Music,2,MUS108
+1967,Computer Science + Music,2,MUS207
+1968,Computer Science + Music,2,MUS208
+1969,Computer Science + Music,3,MUS110
+1970,Computer Science + Music,3,MUS313
+1971,Computer Science + Music,3,MUS314
+1972,Computer Science + Music,2,MUS172
+1973,Computer Science + Music,2,MUS173
+1974,Computer Science + Music,2,MUS105
+1975,Computer Science + Music,2,MUS205
+1976,Computer Science + Music,3,MUS209
+1977,Computer Science + Music,3,MUS305
+1978,Computer Science + Music,3,MUS407
+1979,Computer Science + Music,1,MUS299
+1980,Computer Science + Music,3,CS124
+1981,Computer Science + Music,3,CS128
+1982,Computer Science + Music,3,CS173
+1983,Computer Science + Music,1,CS222
+1984,Computer Science + Music,4,CS225
+1985,Computer Science + Music,4,CS233
+1986,Computer Science + Music,4,CS341
+1987,Computer Science + Music,3,CS361
+1988,Computer Science + Music,4,CS374
+1989,Computer Science + Music,3,CS421
+1990,Computer Science + Music,3,CS448
+1991,Computer Science + Music,3,ECE402
+1992,Computer Science + Music,4,MATH220
+1993,Computer Science + Music,3,MATH231
+1994,Computer Science + Music,2,MATH225
+1995,Computer Science + Physics,1,ENG100
+1996,Computer Science + Physics,3,PHYS110
+1997,Computer Science + Physics,4,MATH221
+1998,Computer Science + Physics,3,MATH231
+1999,Computer Science + Physics,4,MATH241
+2000,Computer Science + Physics,3,MATH257
+2001,Computer Science + Physics,3,MATH285
+2002,Computer Science + Physics,4,PHYS211
+2003,Computer Science + Physics,4,PHYS212
+2004,Computer Science + Physics,2,PHYS213
+2005,Computer Science + Physics,2,PHYS214
+2006,Computer Science + Physics,3,CS361
+2007,Computer Science + Physics,3,CS124
+2008,Computer Science + Physics,3,CS128
+2009,Computer Science + Physics,3,CS173
+2010,Computer Science + Physics,1,CS222
+2011,Computer Science + Physics,4,CS225
+2012,Computer Science + Physics,2,CS233
+2013,Computer Science + Physics,2,CS341
+2014,Computer Science + Physics,3,CS340
+2015,Computer Science + Physics,4,CS374
+2016,Computer Science + Physics,3,CS357
+2017,Computer Science + Physics,2,PHYS225
+2018,Computer Science + Physics,2,PHYS246
+2019,Computer Science + Physics,3,PHYS325
+2020,Computer Science + Physics,3,PHYS435
+2021,Computer Science + Physics,3,PHYS486
+2022,Computer Science + Physics,3,PHYS446
+2023,Computer Science,1,ENG100
+2024,Computer Science,2,CS210
+2025,Computer Science,4,MATH221
+2026,Computer Science,3,MATH231
+2027,Computer Science,4,MATH241
+2028,Computer Science,3,MATH257
+2029,Computer Science,4,PHYS211
+2030,Computer Science,4,PHYS212
+2031,Computer Science,3,CS124
+2032,Computer Science,3,CS128
+2033,Computer Science,3,CS173
+2034,Computer Science,1,CS222
+2035,Computer Science,4,CS225
+2036,Computer Science,4,CS233
+2037,Computer Science,4,CS341
+2038,Computer Science,3,CS357
+2039,Computer Science,3,CS361
+2040,Computer Science,4,CS374
+2041,Computer Science,3,CS421
+2042,Computer Science,3,CS417
+2043,Computer Science,3,CS427
+2044,Computer Science,3,CS428
+2045,Computer Science,3,CS429
+2046,Computer Science,3,CS437
+2047,Computer Science,4,CS465
+2048,Computer Science,3,CS467
+2049,Computer Science,3,CS493
+2050,Computer Science,3,CS494
+2051,Computer Science,1,CS497
+2052,Computer Science,3,CS407
+2053,Computer Science,3,CS409
+2054,Computer Science,3,CS422
+2055,Computer Science,3,CS426
+2056,Computer Science,3,CS427
+2057,Computer Science,3,CS428
+2058,Computer Science,3,CS429
+2059,Computer Science,3,CS474
+2060,Computer Science,3,CS476
+2061,Computer Science,3,CS477
+2062,Computer Science,3,CS492
+2063,Computer Science,3,CS493
+2064,Computer Science,3,CS494
+2065,Computer Science,4,CS521
+2066,Computer Science,4,CS522
+2067,Computer Science,4,CS524
+2068,Computer Science,4,CS526
+2069,Computer Science,4,CS527
+2070,Computer Science,2,CS576
+2071,Computer Science,3,CS407
+2072,Computer Science,3,CS413
+2073,Computer Science,4,CS473
+2074,Computer Science,3,CS474
+2075,Computer Science,3,CS475
+2076,Computer Science,3,CS476
+2077,Computer Science,3,CS477
+2078,Computer Science,3,CS481
+2079,Computer Science,3,CS482
+2080,Computer Science,4,CS571
+2081,Computer Science,4,CS572
+2082,Computer Science,4,CS574
+2083,Computer Science,4,CS575
+2084,Computer Science,2,CS576
+2085,Computer Science,4,CS579
+2086,Computer Science,4,CS580
+2087,Computer Science,4,CS581
+2088,Computer Science,4,CS583
+2089,Computer Science,4,CS584
+2090,Computer Science,4,CS586
+2091,Computer Science,3,CS410
+2092,Computer Science,3,CS411
+2093,Computer Science,3,CS412
+2094,Computer Science,3,CS414
+2095,Computer Science,3,CS416
+2096,Computer Science,3,CS440
+2097,Computer Science,3,CS441
+2098,Computer Science,3,CS442
+2099,Computer Science,3,CS444
+2100,Computer Science,3,CS445
+2101,Computer Science,3,CS446
+2102,Computer Science,3,CS447
+2103,Computer Science,3,CS448
+2104,Computer Science,3,CS464
+2105,Computer Science,3,CS466
+2106,Computer Science,3,CS467
+2107,Computer Science,3,CS469
+2108,Computer Science,3,CS470
+2109,Computer Science,4,CS510
+2110,Computer Science,4,CS511
+2111,Computer Science,4,CS512
+2112,Computer Science,4,CS514
+2113,Computer Science,4,CS540
+2114,Computer Science,4,CS542
+2115,Computer Science,4,CS543
+2116,Computer Science,4,CS544
+2117,Computer Science,4,CS545
+2118,Computer Science,4,CS546
+2119,Computer Science,4,CS562
+2120,Computer Science,4,CS567
+2121,Computer Science,2,CS576
+2122,Computer Science,4,CS582
+2123,Computer Science,3,CS409
+2124,Computer Science,3,CS416
+2125,Computer Science,3,CS417
+2126,Computer Science,3,CS441
+2127,Computer Science,3,CS442
+2128,Computer Science,3,CS460
+2129,Computer Science,4,CS461
+2130,Computer Science,3,CS463
+2131,Computer Science,3,CS464
+2132,Computer Science,4,CS465
+2133,Computer Science,3,CS467
+2134,Computer Science,3,CS468
+2135,Computer Science,3,CS469
+2136,Computer Science,3,CS470
+2137,Computer Science,4,CS500
+2138,Computer Science,4,CS514
+2139,Computer Science,4,CS562
+2140,Computer Science,4,CS563
+2141,Computer Science,4,CS565
+2142,Computer Science,4,CS567
+2143,Computer Science,3,CS409
+2144,Computer Science,3,CS414
+2145,Computer Science,3,CS416
+2146,Computer Science,3,CS417
+2147,Computer Science,3,CS418
+2148,Computer Science,3,CS419
+2149,Computer Science,3,CS445
+2150,Computer Science,3,CS448
+2151,Computer Science,4,CS465
+2152,Computer Science,3,CS467
+2153,Computer Science,3,CS468
+2154,Computer Science,3,CS469
+2155,Computer Science,4,CS519
+2156,Computer Science,4,CS545
+2157,Computer Science,4,CS565
+2158,Computer Science,4,CS567
+2159,Computer Science,3,CS419
+2160,Computer Science,3,CS435
+2161,Computer Science,3,CS450
+2162,Computer Science,3,CS466
+2163,Computer Science,3,CS482
+2164,Computer Science,4,CS483
+2165,Computer Science,3,CS484
+2166,Computer Science,4,CS519
+2167,Computer Science,4,CS554
+2168,Computer Science,4,CS555
+2169,Computer Science,4,CS556
+2170,Computer Science,4,CS558
+2171,Computer Science,3,CS407
+2172,Computer Science,3,CS423
+2173,Computer Science,3,CS424
+2174,Computer Science,3,CS425
+2175,Computer Science,3,CS431
+2176,Computer Science,3,CS435
+2177,Computer Science,3,CS436
+2178,Computer Science,3,CS437
+2179,Computer Science,3,CS438
+2180,Computer Science,3,CS439
+2181,Computer Science,3,CS460
+2182,Computer Science,4,CS461
+2183,Computer Science,3,CS463
+2184,Computer Science,4,CS483
+2185,Computer Science,3,CS484
+2186,Computer Science,4,CS523
+2187,Computer Science,4,CS524
+2188,Computer Science,4,CS525
+2189,Computer Science,4,CS537
+2190,Computer Science,4,CS538
+2191,Computer Science,4,CS562
+2192,Computer Science,4,CS563
+2193,Computer Science,3,CS423
+2194,Computer Science,3,CS424
+2195,Computer Science,3,CS426
+2196,Computer Science,3,CS431
+2197,Computer Science,3,CS433
+2198,Computer Science,3,CS437
+2199,Computer Science,3,CS484
+2200,Computer Science,4,CS523
+2201,Computer Science,4,CS526
+2202,Computer Science,4,CS533
+2203,Computer Science,4,CS534
+2204,Computer Science,4,CS536
+2205,Computer Science,4,CS541
+2206,Computer Science,4,CS584
+2207,Computer Science,4,CS588
+2208,Dance,3,DANC100
+2209,Dance,3,DANC340
+2210,Dance,3,HK140
+2211,Dance,3,HK150
+2212,Dance,1,DANC150
+2213,Dance,6,DANC160
+2214,Dance,4,DANC260
+2215,Dance,1,DANC245
+2216,Dance,2,DANC259
+2217,Dance,2,DANC262
+2218,Dance,2,DANC362
+2219,Dance,2,DANC232
+2220,Dance,3,DANC131
+2221,Dance,3,DANC231
+2222,Dance,3,DANC330
+2223,Dance,3,DANC331
+2224,Dance,3,DANC431
+2225,Dance,3,DANC100
+2226,Dance,1,DANC162
+2227,Dance,3,DANC475
+2228,Dance,1,DANC375
+2229,Dance,2,DANC496
+2230,Dance,2,DANC497
+2231,Dance,3,MCB244
+2232,Dance,3,MCB245
+2233,Dance,3,MCB246
+2234,Dance,3,MCB247
+2235,Dietetics and Nutrition,2,RHET105
+2236,Dietetics and Nutrition,2,CMN101
+2237,Dietetics and Nutrition,2,CMN111
+2238,Dietetics and Nutrition,2,CMN112
+2239,Dietetics and Nutrition,3,MATH220
+2240,Dietetics and Nutrition,3,MATH221
+2241,Dietetics and Nutrition,3,MATH234
+2242,Dietetics and Nutrition,3,ACE262
+2243,Dietetics and Nutrition,3,CPSC241
+2244,Dietetics and Nutrition,3,ECON202
+2245,Dietetics and Nutrition,3,PSYC235
+2246,Dietetics and Nutrition,3,STAT100
+2247,Dietetics and Nutrition,2,CHEM102
+2248,Dietetics and Nutrition,2,CHEM103
+2249,Dietetics and Nutrition,2,CHEM104
+2250,Dietetics and Nutrition,2,CHEM105
+2251,Dietetics and Nutrition,3,MCB100
+2252,Dietetics and Nutrition,2,MCB101
+2253,Dietetics and Nutrition,3,CHEM232
+2254,Dietetics and Nutrition,2,CHEM233
+2255,Dietetics and Nutrition,3,MCB244
+2256,Dietetics and Nutrition,3,MCB246
+2257,Dietetics and Nutrition,3,HDFS105
+2258,Dietetics and Nutrition,3,ANTH101
+2259,Dietetics and Nutrition,3,ANTH102
+2260,Dietetics and Nutrition,3,ANTH103
+2261,Dietetics and Nutrition,3,ANTH209
+2262,Dietetics and Nutrition,3,HDFS220
+2263,Dietetics and Nutrition,3,PSYC100
+2264,Dietetics and Nutrition,3,SOC100
+2265,Dietetics and Nutrition,2,ACES101
+2266,Dietetics and Nutrition,3,FSHN101
+2267,Dietetics and Nutrition,1,FSHN150
+2268,Dietetics and Nutrition,4,ACE100
+2269,Dietetics and Nutrition,4,FSHN220
+2270,Dietetics and Nutrition,3,FSHN232
+2271,Dietetics and Nutrition,1,FSHN249
+2272,Dietetics and Nutrition,3,FSHN322
+2273,Dietetics and Nutrition,3,FSHN329
+2274,Dietetics and Nutrition,4,FSHN340
+2275,Dietetics and Nutrition,3,FSHN345
+2276,Dietetics and Nutrition,3,FSHN420
+2277,Dietetics and Nutrition,3,FSHN426
+2278,Dietetics and Nutrition,3,FSHN427
+2279,Dietetics and Nutrition,3,FSHN428
+2280,Dietetics and Nutrition,3,FSHN429
+2281,Dietetics and Nutrition,2,FSHN450
+2282,Dietetics and Nutrition,2,FSHN459
+2283,Dietetics and Nutrition,3,BIOC455
+2288,Early Childhood Education,1,EDUC101
+2289,Early Childhood Education,3,PSYC100
+2290,Early Childhood Education,2,ART201
+2291,Early Childhood Education,3,CI415
+2292,Early Childhood Education,5,CI420
+2293,Early Childhood Education,3,CI421
+2294,Early Childhood Education,3,CI422
+2295,Early Childhood Education,3,CI424
+2296,Early Childhood Education,3,CI443
+2297,Early Childhood Education,3,CI445
+2298,Early Childhood Education,3,CI465
+2299,Early Childhood Education,3,CI466
+2300,Early Childhood Education,4,EDPR420
+2301,Early Childhood Education,1,EDPR432
+2302,Early Childhood Education,3,EDUC201
+2303,Early Childhood Education,3,EDUC202
+2304,Early Childhood Education,3,EPSY201
+2305,Early Childhood Education,3,EPSY401
+2306,Early Childhood Education,4,HDFS301
+2307,Early Childhood Education,2,MUS345
+2308,Early Childhood Education,3,SPED414
+2309,Early Childhood Education,2,SPED450
+2310,Early Childhood Education,3,SPED465
+2311,Electrical Engineering,1,ENG100
+2312,Electrical Engineering,3,CHEM102
+2313,Electrical Engineering,1,CHEM103
+2314,Electrical Engineering,4,MATH221
+2315,Electrical Engineering,3,MATH231
+2316,Electrical Engineering,4,MATH241
+2317,Electrical Engineering,3,MATH257
+2318,Electrical Engineering,3,MATH285
+2319,Electrical Engineering,4,PHYS211
+2320,Electrical Engineering,4,PHYS212
+2321,Electrical Engineering,2,PHYS213
+2322,Electrical Engineering,2,PHYS214
+2323,Electrical Engineering,3,ECE110
+2324,Electrical Engineering,4,ECE120
+2325,Electrical Engineering,4,ECE220
+2326,Electrical Engineering,4,ECE210
+2327,Electrical Engineering,3,ECE313
+2328,Electrical Engineering,3,ECE329
+2329,Electrical Engineering,3,ECE340
+2330,Electrical Engineering,3,ECE385
+2331,Electrical Engineering,4,ECE445
+2332,Electrical Engineering,3,AE202
+2333,Electrical Engineering,3,AE302
+2334,Electrical Engineering,3,AE311
+2335,Electrical Engineering,3,AE312
+2336,Electrical Engineering,3,AE321
+2337,Electrical Engineering,3,AE352
+2338,Electrical Engineering,3,AE353
+2339,Electrical Engineering,3,AE402
+2340,Electrical Engineering,3,AE403
+2341,Electrical Engineering,3,AE410
+2342,Electrical Engineering,4,AE412
+2343,Electrical Engineering,3,AE416
+2344,Electrical Engineering,3,AE419
+2345,Electrical Engineering,3,AE420
+2346,Electrical Engineering,3,AE428
+2347,Electrical Engineering,3,AE433
+2348,Electrical Engineering,3,AE434
+2349,Electrical Engineering,3,AE435
+2350,Electrical Engineering,3,AE451
+2351,Electrical Engineering,2,AE460
+2352,Electrical Engineering,3,ASTR210
+2353,Electrical Engineering,3,ASTR310
+2354,Electrical Engineering,3,ASTR330
+2355,Electrical Engineering,3,ASTR350
+2356,Electrical Engineering,3,ASTR404
+2357,Electrical Engineering,3,ASTR405
+2358,Electrical Engineering,3,ASTR406
+2359,Electrical Engineering,4,ASTR414
+2360,Electrical Engineering,3,ATMS201
+2361,Electrical Engineering,3,ATMS301
+2362,Electrical Engineering,3,ATMS302
+2363,Electrical Engineering,4,ATMS303
+2364,Electrical Engineering,3,ATMS304
+2365,Electrical Engineering,3,ATMS305
+2366,Electrical Engineering,3,ATMS404
+2367,Electrical Engineering,4,ATMS405
+2368,Electrical Engineering,4,ATMS406
+2369,Electrical Engineering,4,ATMS410
+2370,Electrical Engineering,4,ATMS411
+2371,Electrical Engineering,4,ATMS420
+2372,Electrical Engineering,4,ATMS421
+2373,Electrical Engineering,3,ATMS447
+2374,Electrical Engineering,4,ATMS449
+2375,Electrical Engineering,3,BIOC406
+2376,Electrical Engineering,3,BIOC446
+2377,Electrical Engineering,4,BIOC455
+2378,Electrical Engineering,3,BIOE201
+2379,Electrical Engineering,2,BIOE202
+2380,Electrical Engineering,3,BIOE302
+2381,Electrical Engineering,3,BIOE414
+2382,Electrical Engineering,2,BIOE415
+2383,Electrical Engineering,4,BIOE461
+2384,Electrical Engineering,3,BIOE467
+2385,Electrical Engineering,3,BIOE476
+2386,Electrical Engineering,3,BIOE480
+2387,Electrical Engineering,4,BIOE485
+2388,Electrical Engineering,3,CHBE221
+2389,Electrical Engineering,4,CHBE321
+2390,Electrical Engineering,4,CHBE421
+2391,Electrical Engineering,4,CHBE422
+2392,Electrical Engineering,3,CHBE424
+2393,Electrical Engineering,4,CHBE430
+2394,Electrical Engineering,4,CHBE431
+2395,Electrical Engineering,3,CHBE440
+2396,Electrical Engineering,3,CHBE451
+2397,Electrical Engineering,3,CHBE452
+2398,Electrical Engineering,2,CHBE453
+2399,Electrical Engineering,3,CHBE456
+2400,Electrical Engineering,3,CHBE471
+2401,Electrical Engineering,3,CHBE472
+2402,Electrical Engineering,3,CHBE473
+2403,Electrical Engineering,3,CHBE474
+2404,Electrical Engineering,3,CHEM104
+2405,Electrical Engineering,1,CHEM105
+2406,Electrical Engineering,3,CEE310
+2407,Electrical Engineering,3,CEE330
+2408,Electrical Engineering,3,CEE408
+2409,Electrical Engineering,3,CEE410
+2410,Electrical Engineering,3,CEE416
+2411,Electrical Engineering,4,CEE447
+2412,Electrical Engineering,3,CEE491
+2413,Electrical Engineering,3,CPSC265
+2414,Electrical Engineering,3,CS101
+2415,Electrical Engineering,3,CS173
+2416,Electrical Engineering,4,CS225
+2417,Electrical Engineering,3,CS242
+2418,Electrical Engineering,3,CS357
+2419,Electrical Engineering,3,CS410
+2420,Electrical Engineering,3,CS411
+2421,Electrical Engineering,3,CS412
+2422,Electrical Engineering,3,CS413
+2423,Electrical Engineering,3,CS414
+2424,Electrical Engineering,3,CS416
+2425,Electrical Engineering,3,CS418
+2426,Electrical Engineering,3,CS419
+2427,Electrical Engineering,3,CS420
+2428,Electrical Engineering,3,CS421
+2429,Electrical Engineering,3,CS422
+2430,Electrical Engineering,3,CS423
+2431,Electrical Engineering,3,CS424
+2432,Electrical Engineering,3,CS425
+2433,Electrical Engineering,3,CS426
+2434,Electrical Engineering,3,CS427
+2435,Electrical Engineering,3,CS428
+2436,Electrical Engineering,3,CS429
+2437,Electrical Engineering,3,CS431
+2438,Electrical Engineering,3,CS433
+2439,Electrical Engineering,3,CS434
+2440,Electrical Engineering,3,CS435
+2441,Electrical Engineering,3,CS436
+2442,Electrical Engineering,3,CS437
+2443,Electrical Engineering,3,CS438
+2444,Electrical Engineering,3,CS439
+2445,Electrical Engineering,3,CS440
+2446,Electrical Engineering,3,CS441
+2447,Electrical Engineering,3,CS444
+2448,Electrical Engineering,3,CS445
+2449,Electrical Engineering,3,CS446
+2450,Electrical Engineering,3,CS447
+2451,Electrical Engineering,3,CS450
+2452,Electrical Engineering,3,CS460
+2453,Electrical Engineering,4,CS461
+2454,Electrical Engineering,3,CS463
+2455,Electrical Engineering,4,CS465
+2456,Electrical Engineering,3,CS466
+2457,Electrical Engineering,3,CS467
+2458,Electrical Engineering,4,CS473
+2459,Electrical Engineering,3,CS475
+2460,Electrical Engineering,3,CS476
+2461,Electrical Engineering,3,CS477
+2462,Electrical Engineering,3,CS481
+2463,Electrical Engineering,3,CS484
+2464,Electrical Engineering,1,CS398
+2465,Electrical Engineering,1,CS498
+2466,Electrical Engineering,1,ECE297
+2467,Electrical Engineering,3,ECE304
+2468,Electrical Engineering,3,ECE307
+2469,Electrical Engineering,3,ECE310
+2470,Electrical Engineering,1,ECE311
+2471,Electrical Engineering,1,ECE314
+2472,Electrical Engineering,3,ECE330
+2473,Electrical Engineering,3,ECE333
+2474,Electrical Engineering,3,ECE342
+2475,Electrical Engineering,1,ECE343
+2476,Electrical Engineering,3,ECE350
+2477,Electrical Engineering,3,ECE365
+2478,Electrical Engineering,4,ECE374
+2479,Electrical Engineering,3,ECE380
+2480,Electrical Engineering,4,ECE391
+2481,Electrical Engineering,2,ECE395
+2482,Electrical Engineering,1,ECE396
+2483,Electrical Engineering,4,ECE397
+2484,Electrical Engineering,3,ECE402
+2485,Electrical Engineering,3,ECE403
+2486,Electrical Engineering,3,ECE407
+2487,Electrical Engineering,4,ECE408
+2488,Electrical Engineering,4,ECE411
+2489,Electrical Engineering,3,ECE414
+2490,Electrical Engineering,2,ECE415
+2491,Electrical Engineering,3,ECE416
+2492,Electrical Engineering,4,ECE417
+2493,Electrical Engineering,4,ECE418
+2494,Electrical Engineering,3,ECE419
+2495,Electrical Engineering,2,ECE420
+2496,Electrical Engineering,4,ECE422
+2497,Electrical Engineering,3,ECE424
+2498,Electrical Engineering,3,ECE425
+2499,Electrical Engineering,3,ECE428
+2500,Electrical Engineering,4,ECE431
+2501,Electrical Engineering,3,ECE435
+2502,Electrical Engineering,3,ECE437
+2503,Electrical Engineering,3,ECE438
+2504,Electrical Engineering,3,ECE439
+2505,Electrical Engineering,3,ECE441
+2506,Electrical Engineering,3,ECE442
+2507,Electrical Engineering,4,ECE443
+2508,Electrical Engineering,4,ECE444
+2509,Electrical Engineering,4,ECE446
+2510,Electrical Engineering,3,ECE447
+2511,Electrical Engineering,3,ECE448
+2512,Electrical Engineering,3,ECE451
+2513,Electrical Engineering,3,ECE452
+2514,Electrical Engineering,4,ECE453
+2515,Electrical Engineering,3,ECE454
+2516,Electrical Engineering,3,ECE455
+2517,Electrical Engineering,4,ECE456
+2518,Electrical Engineering,3,ECE457
+2519,Electrical Engineering,3,ECE458
+2520,Electrical Engineering,3,ECE459
+2521,Electrical Engineering,4,ECE460
+2522,Electrical Engineering,3,ECE461
+2523,Electrical Engineering,3,ECE462
+2524,Electrical Engineering,2,ECE463
+2525,Electrical Engineering,3,ECE464
+2526,Electrical Engineering,3,ECE465
+2527,Electrical Engineering,1,ECE466
+2528,Electrical Engineering,3,ECE467
+2529,Electrical Engineering,3,ECE468
+2530,Electrical Engineering,2,ECE469
+2531,Electrical Engineering,4,ECE470
+2532,Electrical Engineering,3,ECE472
+2533,Electrical Engineering,3,ECE473
+2534,Electrical Engineering,3,ECE476
+2535,Electrical Engineering,3,ECE478
+2536,Electrical Engineering,4,ECE479
+2537,Electrical Engineering,3,ECE480
+2538,Electrical Engineering,4,ECE481
+2539,Electrical Engineering,3,ECE482
+2540,Electrical Engineering,3,ECE483
+2541,Electrical Engineering,4,ECE484
+2542,Electrical Engineering,4,ECE486
+2543,Electrical Engineering,3,ECE487
+2544,Electrical Engineering,3,ECE488
+2545,Electrical Engineering,4,ECE489
+2546,Electrical Engineering,3,ECE490
+2547,Electrical Engineering,3,ECE491
+2548,Electrical Engineering,3,ECE492
+2549,Electrical Engineering,3,ECE493
+2550,Electrical Engineering,3,ECE495
+2551,Electrical Engineering,1,ECE298
+2552,Electrical Engineering,4,ECE398
+2553,Electrical Engineering,4,ECE498
+2554,Electrical Engineering,1,ENG491
+2555,Electrical Engineering,4,GEOL107
+2556,Electrical Engineering,4,GEOL208
+2557,Electrical Engineering,4,GEOL333
+2558,Electrical Engineering,4,GEOL380
+2559,Electrical Engineering,4,GEOL411
+2560,Electrical Engineering,6,GEOL417
+2561,Electrical Engineering,4,GEOL432
+2562,Electrical Engineering,4,GEOL436
+2563,Electrical Engineering,4,GEOL440
+2564,Electrical Engineering,3,GEOL450
+2565,Electrical Engineering,4,GEOL452
+2566,Electrical Engineering,3,GEOL460
+2567,Electrical Engineering,3,IE310
+2568,Electrical Engineering,3,IE330
+2569,Electrical Engineering,3,IE360
+2570,Electrical Engineering,3,IE361
+2571,Electrical Engineering,3,IE400
+2572,Electrical Engineering,3,IE410
+2573,Electrical Engineering,3,IE411
+2574,Electrical Engineering,3,IE412
+2575,Electrical Engineering,3,IE413
+2576,Electrical Engineering,3,IE420
+2577,Electrical Engineering,3,IE430
+2578,Electrical Engineering,3,IE431
+2579,Electrical Engineering,4,IB150
+2580,Electrical Engineering,3,IB202
+2581,Electrical Engineering,4,IB203
+2582,Electrical Engineering,3,IB204
+2583,Electrical Engineering,4,IB302
+2584,Electrical Engineering,3,IB348
+2585,Electrical Engineering,4,IB368
+2586,Electrical Engineering,3,IB401
+2587,Electrical Engineering,3,IB405
+2588,Electrical Engineering,3,IB420
+2589,Electrical Engineering,3,IB421
+2590,Electrical Engineering,3,IB426
+2591,Electrical Engineering,3,IB431
+2592,Electrical Engineering,3,IB432
+2593,Electrical Engineering,3,IB440
+2594,Electrical Engineering,3,IB444
+2595,Electrical Engineering,4,IB451
+2596,Electrical Engineering,3,IB452
+2597,Electrical Engineering,3,IB453
+2598,Electrical Engineering,4,IB461
+2599,Electrical Engineering,4,IB462
+2600,Electrical Engineering,4,IB463
+2601,Electrical Engineering,4,IB464
+2602,Electrical Engineering,4,IB467
+2603,Electrical Engineering,4,IB468
+2604,Electrical Engineering,4,IB471
+2605,Electrical Engineering,4,IB481
+2606,Electrical Engineering,3,IB482
+2607,Electrical Engineering,4,LING300
+2608,Electrical Engineering,3,LING406
+2609,Electrical Engineering,3,LING407
+2610,Electrical Engineering,3,LING427
+2611,Electrical Engineering,3,MSE280
+2612,Electrical Engineering,3,MATH213
+2613,Electrical Engineering,3,MATH347
+2614,Electrical Engineering,3,MATH357
+2615,Electrical Engineering,3,MATH402
+2616,Electrical Engineering,3,MATH403
+2617,Electrical Engineering,3,MATH412
+2618,Electrical Engineering,3,MATH413
+2619,Electrical Engineering,3,MATH414
+2620,Electrical Engineering,3,MATH417
+2621,Electrical Engineering,3,MATH418
+2622,Electrical Engineering,3,MATH423
+2623,Electrical Engineering,3,MATH424
+2624,Electrical Engineering,3,MATH425
+2625,Electrical Engineering,3,MATH427
+2626,Electrical Engineering,3,MATH428
+2627,Electrical Engineering,3,MATH432
+2628,Electrical Engineering,3,MATH442
+2629,Electrical Engineering,3,MATH444
+2630,Electrical Engineering,3,MATH446
+2631,Electrical Engineering,3,MATH447
+2632,Electrical Engineering,3,MATH448
+2633,Electrical Engineering,3,MATH450
+2634,Electrical Engineering,3,MATH453
+2635,Electrical Engineering,4,MATH473
+2636,Electrical Engineering,3,MATH475
+2637,Electrical Engineering,3,MATH481
+2638,Electrical Engineering,3,MATH482
+2639,Electrical Engineering,3,MATH484
+2640,Electrical Engineering,3,MATH487
+2641,Electrical Engineering,3,MATH489
+2642,Electrical Engineering,4,MCB150
+2643,Electrical Engineering,3,MCB250
+2644,Electrical Engineering,2,MCB251
+2645,Electrical Engineering,3,MCB252
+2646,Electrical Engineering,2,MCB253
+2647,Electrical Engineering,3,MCB300
+2648,Electrical Engineering,3,MCB301
+2649,Electrical Engineering,3,MCB314
+2650,Electrical Engineering,4,MCB316
+2651,Electrical Engineering,3,MCB354
+2652,Electrical Engineering,3,MCB400
+2653,Electrical Engineering,3,MCB401
+2654,Electrical Engineering,3,MCB402
+2655,Electrical Engineering,3,MCB406
+2656,Electrical Engineering,3,MCB408
+2657,Electrical Engineering,3,MCB410
+2658,Electrical Engineering,3,MCB413
+2659,Electrical Engineering,3,MCB419
+2660,Electrical Engineering,3,MCB421
+2661,Electrical Engineering,3,MCB424
+2662,Electrical Engineering,3,MCB426
+2663,Electrical Engineering,3,MCB430
+2664,Electrical Engineering,3,MCB431
+2665,Electrical Engineering,3,MCB433
+2666,Electrical Engineering,3,MCB435
+2667,Electrical Engineering,3,MCB446
+2668,Electrical Engineering,3,MCB480
+2669,Electrical Engineering,3,ME200
+2670,Electrical Engineering,4,ME310
+2671,Electrical Engineering,4,ME320
+2672,Electrical Engineering,4,ME330
+2673,Electrical Engineering,3,ME340
+2674,Electrical Engineering,3,ME370
+2675,Electrical Engineering,3,ME371
+2676,Electrical Engineering,3,ME400
+2677,Electrical Engineering,3,ME401
+2678,Electrical Engineering,3,ME402
+2679,Electrical Engineering,3,ME403
+2680,Electrical Engineering,4,ME404
+2681,Electrical Engineering,3,ME410
+2682,Electrical Engineering,4,ME411
+2683,Electrical Engineering,2,ME412
+2684,Electrical Engineering,4,ME420
+2685,Electrical Engineering,3,ME430
+2686,Electrical Engineering,3,ME431
+2687,Electrical Engineering,3,ME440
+2688,Electrical Engineering,4,ME445
+2689,Electrical Engineering,3,ME451
+2690,Electrical Engineering,3,ME452
+2691,Electrical Engineering,4,ME460
+2692,Electrical Engineering,3,ME461
+2693,Electrical Engineering,3,ME471
+2694,Electrical Engineering,3,ME472
+2695,Electrical Engineering,4,ME487
+2696,Electrical Engineering,3,MUS407
+2697,Electrical Engineering,2,MUS409
+2698,Electrical Engineering,3,NEUR453
+2699,Electrical Engineering,2,NPRE201
+2700,Electrical Engineering,3,NPRE247
+2701,Electrical Engineering,3,NPRE330
+2702,Electrical Engineering,3,NPRE402
+2703,Electrical Engineering,3,NPRE412
+2704,Electrical Engineering,3,NPRE421
+2705,Electrical Engineering,2,NPRE423
+2706,Electrical Engineering,3,NPRE429
+2707,Electrical Engineering,3,NPRE435
+2708,Electrical Engineering,2,NPRE432
+2709,Electrical Engineering,4,NPRE441
+2710,Electrical Engineering,3,NPRE442
+2711,Electrical Engineering,4,NPRE448
+2712,Electrical Engineering,3,NPRE451
+2713,Electrical Engineering,4,NPRE455
+2714,Electrical Engineering,3,NPRE457
+2715,Electrical Engineering,4,NPRE458
+2716,Electrical Engineering,3,NPRE470
+2717,Electrical Engineering,3,NPRE475
+2718,Electrical Engineering,2,PHYS225
+2719,Electrical Engineering,3,PHYS325
+2720,Electrical Engineering,3,PHYS326
+2721,Electrical Engineering,3,PHYS401
+2722,Electrical Engineering,3,PHYS402
+2723,Electrical Engineering,4,PHYS403
+2724,Electrical Engineering,4,PHYS406
+2725,Electrical Engineering,3,PHYS419
+2726,Electrical Engineering,2,PHYS420
+2727,Electrical Engineering,4,PHYS427
+2728,Electrical Engineering,4,PHYS460
+2729,Electrical Engineering,3,PHYS466
+2730,Electrical Engineering,4,PHYS470
+2731,Electrical Engineering,3,PHYS485
+2732,Electrical Engineering,4,PHYS486
+2733,Electrical Engineering,4,PHYS487
+2734,Electrical Engineering,3,PSYC204
+2735,Electrical Engineering,3,SHS200
+2736,Electrical Engineering,3,SHS240
+2737,Electrical Engineering,4,SHS300
+2738,Electrical Engineering,4,SHS301
+2739,Electrical Engineering,3,SHS320
+2740,Electrical Engineering,4,SHS450
+2741,Electrical Engineering,3,SHS470
+2742,Electrical Engineering,3,STAT420
+2743,Electrical Engineering,3,STAT424
+2744,Electrical Engineering,3,STAT425
+2745,Electrical Engineering,3,STAT428
+2746,Electrical Engineering,3,STAT429
+2747,Electrical Engineering,3,STAT440
+2748,Electrical Engineering,3,SE411
+2749,Electrical Engineering,4,SE420
+2750,Electrical Engineering,3,SE423
+2751,Electrical Engineering,3,SE424
+2752,Electrical Engineering,3,TAM211
+2753,Electrical Engineering,3,TAM212
+2754,Electrical Engineering,3,TAM251
+2755,Electrical Engineering,4,TAM324
+2756,Electrical Engineering,4,TAM335
+2757,Electrical Engineering,4,TAM412
+2758,Electrical Engineering,4,TAM435
+2759,Electrical Engineering,4,TAM445
+2760,Electrical Engineering,4,TAM451
+2761,Electrical Engineering,4,ECE391
+2762,Electrical Engineering,3,ECE310
+2763,Electrical Engineering,3,ECE330
+2764,Electrical Engineering,3,ECE342
+2765,Electrical Engineering,3,ECE350
+2766,Electrical Engineering,1,ECE343
+2767,Electrical Engineering,4,ECE391
+2768,Electrical Engineering,2,ECE395
+2769,Electrical Engineering,3,ECE402
+2770,Electrical Engineering,2,ECE415
+2771,Electrical Engineering,2,ECE420
+2772,Electrical Engineering,4,ECE431
+2773,Electrical Engineering,3,CS436
+2774,Electrical Engineering,3,ECE437
+2775,Electrical Engineering,3,ECE438
+2776,Electrical Engineering,3,ECE439
+2777,Electrical Engineering,4,ECE443
+2778,Electrical Engineering,4,ECE444
+2779,Electrical Engineering,4,ECE446
+2780,Electrical Engineering,3,ECE447
+2781,Electrical Engineering,3,ECE451
+2782,Electrical Engineering,4,ECE453
+2783,Electrical Engineering,4,ECE456
+2784,Electrical Engineering,4,ECE460
+2785,Electrical Engineering,2,ECE463
+2786,Electrical Engineering,1,ECE466
+2787,Electrical Engineering,3,ECE468
+2788,Electrical Engineering,2,ECE469
+2789,Electrical Engineering,4,ECE470
+2790,Electrical Engineering,4,ECE481
+2791,Electrical Engineering,4,ECE486
+2792,Electrical Engineering,4,ECE489
+2793,Electrical Engineering,3,ECE495
+2794,Electrical Engineering,1,ECE311
+2795,Electrical Engineering,1,ECE314
+2796,Electrical Engineering,3,ECE365
+2797,Electrical Engineering,4,ECE411
+2798,Electrical Engineering,4,ECE484
+2799,Elementary Education,1,EDUC101
+2800,Elementary Education,4,MATH103
+2801,Elementary Education,3,MATH117
+2802,Elementary Education,3,EDUC201
+2803,Elementary Education,3,EDUC202
+2804,Elementary Education,3,EPSY201
+2805,Elementary Education,4,EDPR250
+2806,Elementary Education,1,EDPR432
+2807,Elementary Education,3,SPED405
+2808,Elementary Education,3,CI415
+2809,Elementary Education,3,CI405
+2810,Elementary Education,3,CI407
+2811,Elementary Education,3,CI406
+2812,Elementary Education,3,CI430
+2813,Elementary Education,3,CI432
+2814,Elementary Education,3,CI448
+2815,Elementary Education,3,CI450
+2816,Elementary Education,3,CI451
+2817,Elementary Education,3,CI467
+2818,Elementary Education,3,CI475
+2819,Elementary Education,3,CI476
+2820,Elementary Education,3,FAA202
+2821,Elementary Education,3,CI452
+2822,Engineering Mechanics,1,ENG100
+2823,Engineering Mechanics,1,TAM195
+2824,Engineering Mechanics,3,ME290
+2825,Engineering Mechanics,3,CHEM102
+2826,Engineering Mechanics,1,CHEM103
+2827,Engineering Mechanics,3,CHEM104
+2828,Engineering Mechanics,1,CHEM105
+2829,Engineering Mechanics,4,MATH221
+2830,Engineering Mechanics,3,MATH231
+2831,Engineering Mechanics,4,MATH241
+2832,Engineering Mechanics,3,MATH257
+2833,Engineering Mechanics,3,MATH441
+2834,Engineering Mechanics,3,MATH442
+2835,Engineering Mechanics,4,PHYS211
+2836,Engineering Mechanics,4,PHYS212
+2837,Engineering Mechanics,2,PHYS213
+2838,Engineering Mechanics,2,PHYS214
+2839,Engineering Mechanics,3,CS101
+2840,Engineering Mechanics,3,ECE205
+2841,Engineering Mechanics,3,ME170
+2842,Engineering Mechanics,3,ME200
+2843,Engineering Mechanics,3,ME470
+2844,Engineering Mechanics,3,TAM211
+2845,Engineering Mechanics,3,TAM212
+2846,Engineering Mechanics,3,TAM251
+2847,Engineering Mechanics,1,TAM252
+2848,Engineering Mechanics,3,TAM270
+2849,Engineering Mechanics,4,TAM324
+2850,Engineering Mechanics,4,TAM335
+2851,Engineering Mechanics,4,TAM412
+2852,Engineering Mechanics,4,TAM445
+2853,Engineering Mechanics,3,TAM470
+2854,Engineering Mechanics,4,MCB150
+2855,Engineering Mechanics,1,MCB151
+2856,Engineering Mechanics,4,TAM461
+2857,Engineering Mechanics,3,ECE473
+2858,Engineering Mechanics,3,ECE380
+2859,Engineering Mechanics,3,ME481
+2860,Engineering Mechanics,3,ME482
+2861,Engineering Mechanics,4,ME483
+2862,Engineering Mechanics,3,BIOP401
+2863,Engineering Mechanics,1,TAM497
+2864,Engineering Mechanics,3,CS357
+2865,Engineering Mechanics,3,ME471
+2866,Engineering Mechanics,3,CS450
+2867,Engineering Mechanics,2,ME412
+2868,Engineering Mechanics,1,TAM497
+2869,Engineering Mechanics,3,MATH446
+2870,Engineering Mechanics,3,AE353
+2871,Engineering Mechanics,3,AE402
+2872,Engineering Mechanics,3,CEE491
+2873,Engineering Mechanics,3,ECE329
+2874,Engineering Mechanics,3,ECE330
+2875,Engineering Mechanics,3,ECE473
+2876,Engineering Mechanics,3,PHYS402
+2877,Engineering Mechanics,1,TAM497
+2878,Engineering Mechanics,3,TAM456
+2879,Engineering Mechanics,1,ECE206
+2880,Engineering Mechanics,3,CS357
+2881,Engineering Mechanics,3,ECE473
+2882,Engineering Mechanics,3,ME360
+2883,Engineering Mechanics,3,PHYS402
+2884,Engineering Mechanics,1,TAM497
+2885,Engineering Mechanics,4,TAM435
+2886,Engineering Mechanics,3,ME410
+2887,Engineering Mechanics,4,AE412
+2888,Engineering Mechanics,3,CEE451
+2889,Engineering Mechanics,4,CEE453
+2890,Engineering Mechanics,3,ECE473
+2891,Engineering Mechanics,2,ME412
+2892,Engineering Mechanics,1,TAM497
+2893,Engineering Mechanics,3,TAM424
+2894,Engineering Mechanics,3,TAM428
+2895,Engineering Mechanics,3,CEE310
+2896,Engineering Mechanics,3,MSE401
+2897,Engineering Mechanics,3,MSE455
+2898,Engineering Mechanics,3,MSE489
+2899,Engineering Mechanics,3,NPRE330
+2900,Engineering Mechanics,1,TAM497
+2901,Engineering Mechanics,3,TAM424
+2902,Engineering Mechanics,4,TAM451
+2903,Engineering Mechanics,3,CEE360
+2904,Engineering Mechanics,3,CEE460
+2905,Engineering Mechanics,3,CEE461
+2906,Engineering Mechanics,3,CS357
+2907,Engineering Mechanics,3,ECE473
+2908,Engineering Mechanics,1,TAM497
+2909,Engineering Technology & Management for Agricultural Systems,2,RHET105
+2910,Engineering Technology & Management for Agricultural Systems,2,CMN101
+2911,Engineering Technology & Management for Agricultural Systems,2,CMN111
+2912,Engineering Technology & Management for Agricultural Systems,2,CMN112
+2913,Engineering Technology & Management for Agricultural Systems,3,AGCM220
+2914,Engineering Technology & Management for Agricultural Systems,3,BADM340
+2915,Engineering Technology & Management for Agricultural Systems,3,BTW250
+2916,Engineering Technology & Management for Agricultural Systems,3,BTW261
+2917,Engineering Technology & Management for Agricultural Systems,3,ECE316
+2918,Engineering Technology & Management for Agricultural Systems,3,ESE360
+2920,Engineering Technology & Management for Agricultural Systems,3,LEAD230
+2921,Engineering Technology & Management for Agricultural Systems,3,NRES419
+2922,Engineering Technology & Management for Agricultural Systems,3,PLPA200
+2923,Engineering Technology & Management for Agricultural Systems,4,MATH234
+2924,Engineering Technology & Management for Agricultural Systems,3,ACE262
+2925,Engineering Technology & Management for Agricultural Systems,3,CPSC241
+2926,Engineering Technology & Management for Agricultural Systems,3,ECON202
+2927,Engineering Technology & Management for Agricultural Systems,3,STAT107
+2928,Engineering Technology & Management for Agricultural Systems,2,CHEM102
+2929,Engineering Technology & Management for Agricultural Systems,2,CHEM103
+2930,Engineering Technology & Management for Agricultural Systems,5,PHYS101
+2931,Engineering Technology & Management for Agricultural Systems,2,CHEM104
+2932,Engineering Technology & Management for Agricultural Systems,2,CHEM105
+2933,Engineering Technology & Management for Agricultural Systems,3,PHYS102
+2934,Engineering Technology & Management for Agricultural Systems,3,ACE100
+2935,Engineering Technology & Management for Agricultural Systems,2,ACES101
+2936,Engineering Technology & Management for Agricultural Systems,3,CS105
+2942,Engineering Technology & Management for Agricultural Systems,3,ACCY200
+2943,Engineering Technology & Management for Agricultural Systems,3,ACCY201
+2944,Engineering Technology & Management for Agricultural Systems,3,ACCY202
+2945,Engineering Technology & Management for Agricultural Systems,3,ACE210
+2946,Engineering Technology & Management for Agricultural Systems,3,ACE240
+2947,Engineering Technology & Management for Agricultural Systems,3,ACE310
+2948,Engineering Technology & Management for Agricultural Systems,3,ACE345
+2949,Engineering Technology & Management for Agricultural Systems,3,ACE346
+2950,Engineering Technology & Management for Agricultural Systems,3,ACE432
+2951,Engineering Technology & Management for Agricultural Systems,3,ACE435
+2952,Engineering Technology & Management for Agricultural Systems,3,AGCM270
+2953,Engineering Technology & Management for Agricultural Systems,3,BADM300
+2954,Engineering Technology & Management for Agricultural Systems,3,BADM310
+2955,Engineering Technology & Management for Agricultural Systems,3,BADM311
+2956,Engineering Technology & Management for Agricultural Systems,3,BADM312
+2957,Engineering Technology & Management for Agricultural Systems,3,BADM313
+2958,Engineering Technology & Management for Agricultural Systems,3,BADM314
+2959,Engineering Technology & Management for Agricultural Systems,3,BADM320
+2960,Engineering Technology & Management for Agricultural Systems,3,BADM322
+2961,Engineering Technology & Management for Agricultural Systems,3,BADM323
+2962,Engineering Technology & Management for Agricultural Systems,3,BADM326
+2963,Engineering Technology & Management for Agricultural Systems,3,FIN221
+2964,Engineering Technology & Management for Agricultural Systems,3,FIN230
+2965,Engineering Technology & Management for Agricultural Systems,3,LER290
+2966,Engineering Technology & Management for Agricultural Systems,2,LEAD140
+2967,Engineering Technology & Management for Agricultural Systems,3,LEAD260
+2968,Engineering Technology & Management for Agricultural Systems,3,LEAD340
+2969,Engineering Technology & Management for Agricultural Systems,2,LEAD440
+2970,Engineering Technology & Management for Agricultural Systems,3,SE361
+2971,Engineering Technology & Management for Agricultural Systems,3,SE400
+2972,Engineering Technology & Management for Agricultural Systems,3,TE230
+2973,Engineering Technology & Management for Agricultural Systems,2,TE250
+2974,Engineering Technology & Management for Agricultural Systems,4,TE333
+2975,Engineering Technology & Management for Agricultural Systems,1,TE360
+2976,Engineering Technology & Management for Agricultural Systems,3,TE450
+2977,Environmental Engineering,4,CEE190
+2978,Environmental Engineering,3,CEE495
+2979,Environmental Engineering,3,ECE316
+2980,Environmental Engineering,1,ENG100
+2981,Environmental Engineering,3,ATMS202
+2982,Environmental Engineering,3,CHEM102
+2983,Environmental Engineering,1,CHEM103
+2984,Environmental Engineering,3,CHEM104
+2985,Environmental Engineering,1,CHEM105
+2986,Environmental Engineering,4,MATH221
+2987,Environmental Engineering,3,MATH231
+2988,Environmental Engineering,4,MATH241
+2989,Environmental Engineering,3,MATH257
+2990,Environmental Engineering,3,MATH285
+2991,Environmental Engineering,4,PHYS211
+2992,Environmental Engineering,3,CEE201
+2993,Environmental Engineering,3,CEE202
+2994,Environmental Engineering,3,CEE330
+2995,Environmental Engineering,4,CEE331
+2996,Environmental Engineering,3,CEE350
+2997,Environmental Engineering,3,CEE449
+2998,Environmental Engineering,4,CEE453
+2999,Environmental Engineering,3,CS101
+3000,Environmental Engineering,3,SE101
+3001,Environmental Engineering,3,TAM211
+3002,Environmental Engineering,3,TAM212
+3003,Environmental Engineering,4,ABE436
+3004,Environmental Engineering,3,CEE340
+3005,Environmental Engineering,3,CEE433
+3006,Environmental Engineering,4,CEE493
+3007,Environmental Engineering,3,CHEM232
+3008,Environmental Engineering,3,CHEM360
+3009,Environmental Engineering,3,ENSU301
+3010,Environmental Engineering,3,ME200
+3011,Environmental Engineering,4,PHYS212
+3012,Environmental Engineering,3,ACE310
+3013,Environmental Engineering,3,ATMS201
+3014,Environmental Engineering,3,CEE340
+3015,Environmental Engineering,3,CEE434
+3016,Environmental Engineering,4,CEE458
+3017,Environmental Engineering,3,CEE491
+3018,Environmental Engineering,3,CEE492
+3019,Environmental Engineering,3,ECON102
+3020,Environmental Engineering,4,GGIS379
+3021,Environmental Engineering,2,PHYS213
+3022,Environmental Engineering,3,ACE310
+3023,Environmental Engineering,3,ATMS201
+3024,Environmental Engineering,3,CEE433
+3025,Environmental Engineering,3,CEE434
+3026,Environmental Engineering,3,CEE450
+3027,Environmental Engineering,3,CEE451
+3028,Environmental Engineering,3,CHEM232
+3029,Environmental Engineering,3,CHEM360
+3030,Environmental Engineering,3,ECON102
+3031,Environmental Engineering,3,ENSU301
+3032,Environmental Engineering,2,PHYS213
+3033,Environmental Engineering,3,ATMS305
+3034,Environmental Engineering,3,CEE435
+3035,Environmental Engineering,3,CEE437
+3036,Environmental Engineering,3,CEE438
+3037,Environmental Engineering,4,CEE441
+3038,Environmental Engineering,3,MCB300
+3039,Environmental Engineering,2,PHYS213
+3040,Environmental Engineering,3,CEE437
+3041,Environmental Engineering,3,CEE440
+3042,Environmental Engineering,4,CEE442
+3043,Environmental Engineering,4,CEE444
+3044,Environmental Engineering,3,CHBE221
+3045,Environmental Engineering,4,CHBE321
+3046,Environmental Engineering,3,CHEM232
+3047,Environmental Engineering,3,CHEM360
+3048,Environmental Engineering,2,PHYS213
+3049,Finance,3,ACCY201
+3050,Finance,3,ACCY202
+3051,Finance,3,BUS101
+3052,Finance,3,BUS201
+3053,Finance,3,BUS301
+3054,Finance,3,BUS401
+3055,Finance,3,BADM210
+3056,Finance,3,BADM211
+3057,Finance,3,BADM275
+3058,Finance,3,BADM300
+3059,Finance,3,BADM310
+3060,Finance,3,BADM320
+3061,Finance,3,BADM449
+3062,Finance,3,CMN101
+3063,Finance,3,CS105
+3064,Finance,3,ECON102
+3065,Finance,3,ECON103
+3066,Finance,3,FIN221
+3067,Finance,3,MATH115
+3068,Finance,3,MATH220
+3069,Finance,3,MATH221
+3070,Finance,3,MATH231
+3071,Finance,3,MATH234
+3072,Finance,3,STAT100
+3073,Finance,3,FIN300
+3074,Finance,3,FIN321
+3075,Finance,3,FIN411
+3076,Finance + Data Science,3,ACCY201
+3077,Finance + Data Science,3,ACCY202
+3078,Finance + Data Science,3,BADM275
+3079,Finance + Data Science,3,BADM300
+3080,Finance + Data Science,3,BADM310
+3081,Finance + Data Science,3,BADM320
+3082,Finance + Data Science,3,BADM449
+3083,Finance + Data Science,3,BUS101
+3084,Finance + Data Science,3,BUS201
+3085,Finance + Data Science,3,BUS401
+3086,Finance + Data Science,3,CMN101
+3087,Finance + Data Science,3,ECON102
+3088,Finance + Data Science,3,ECON103
+3089,Finance + Data Science,3,FIN221
+3090,Finance + Data Science,3,FIN300
+3091,Finance + Data Science,3,FIN321
+3092,Finance + Data Science,3,FIN411
+3093,Finance + Data Science,3,MATH220
+3094,Finance + Data Science,3,MATH221
+3095,Finance + Data Science,3,MATH234
+3096,Finance + Data Science,3,MATH227
+3097,Finance + Data Science,3,MATH257
+3098,Finance + Data Science,4,STAT107
+3099,Finance + Data Science,4,STAT207
+3100,Finance + Data Science,4,CS307
+3101,Finance + Data Science,4,CS277
+3102,Finance + Data Science,3,IS467
+3103,Finance + Data Science,3,IS477
+3104,Food Science,2,RHET105
+3105,Food Science,2,CMN101
+3106,Food Science,2,CMN111
+3107,Food Science,2,CMN112
+3108,Food Science,3,CPSC116
+3109,Food Science,3,MATH220
+3110,Food Science,3,ACE262
+3111,Food Science,3,CPSC241
+3112,Food Science,3,ECON202
+3113,Food Science,3,PSYC235
+3114,Food Science,3,STAT100
+3115,Food Science,2,CHEM102
+3116,Food Science,2,CHEM103
+3117,Food Science,2,CHEM104
+3118,Food Science,2,CHEM105
+3119,Food Science,3,MCB100
+3120,Food Science,3,LEAD230
+3121,Food Science,3,ACES101
+3122,Food Science,3,CHEM232
+3123,Food Science,3,PHYS101
+3124,Food Science,3,IB100
+3125,Food Science,3,FSHN101
+3126,Food Science,3,FSHN120
+3127,Food Science,3,FSHN201
+3128,Food Science,3,FSHN230
+3129,Food Science,3,FSHN232
+3130,Food Science,3,FSHN260
+3131,Food Science,3,FSHN302
+3132,Food Science,3,FSHN414
+3133,Food Science,3,FSHN416
+3134,Food Science,3,FSHN418
+3135,Food Science,3,FSHN419
+3136,Food Science,3,FSHN460
+3137,Food Science,3,FSHN466
+3138,Food Science,3,FSHN471
+3139,Food Science,3,FSHN472
+3140,Food Science,3,FSHN481
+3141,Food Science,3,FSHN482
+3142,Food Science,3,FSHN483
+3143,Food Science,3,FSHN484
+3144,Food Science,3,ANSC350
+3145,Food Science,3,FSHN175
+3146,Food Science,2,FSHN231
+3147,Food Science,1,FSHN249
+3148,Food Science,4,FSHN293
+3149,Food Science,1,FSHN295
+3150,Food Science,3,FSHN345
+3151,Food Science,3,FSHN417
+3152,Food Science,3,FSHN425
+3153,Food Science,2,FSHN464
+3154,Food Science,3,FSHN469
+3155,Food Science,3,FSHN480
+3156,Food Science,3,ACE161
+3157,Food Science,3,ACE306
+3158,Food Science,2,CHEM233
+3159,Geology,3,CHEM102
+3160,Geology,3,CHEM103
+3161,Geology,3,CHEM104
+3162,Geology,3,CHEM105
+3163,Geology,3,CHEM202
+3164,Geology,3,CHEM203
+3165,Geology,3,CHEM204
+3166,Geology,3,CHEM205
+3167,Geology,4,GEOL107
+3168,Geology,4,GEOL208
+3169,Geology,3,GEOL143
+3170,Geology,4,GEOL411
+3171,Geology,6,GEOL417
+3172,Geology,4,GEOL432
+3173,Geology,4,GEOL436
+3174,Geology,4,GEOL440
+3175,Geology,3,GEOL450
+3176,Geology,3,GEOL460
+3177,Geology,3,MATH220
+3178,Geology,3,MATH231
+3179,Geology,3,MATH225
+3180,Geology,3,MATH241
+3181,Geology,2,PHYS211
+3182,Geology,2,PHYS212
+3183,Geology,2,PHYS101
+3184,Geology,2,PHYS102
+3185,Geology,3,IB103
+3186,Geology,3,IB104
+3187,Geology,3,CS101
+3188,Geology,3,CS125
+3189,Geology,3,CPSC440
+3190,Geology,3,STAT400
+3191,Geology,3,MATH285
+3192,Geology,3,MATH441
+3193,Geology,3,PHYS213
+3194,Geology,3,PHYS214
+3195,Hospitality Management,3,CMN101
+3196,Hospitality Management,3,STAT100
+3197,Hospitality Management,3,CHEM101
+3198,Hospitality Management,3,MCB100
+3199,Hospitality Management,3,MCB101
+3200,Hospitality Management,3,PSYC100
+3201,Hospitality Management,3,FSHN101
+3202,Hospitality Management,3,FSHN120
+3203,Hospitality Management,3,FSHN123
+3204,Hospitality Management,3,FSHN140
+3205,Hospitality Management,3,FSHN145
+3206,Hospitality Management,3,FSHN232
+3207,Hospitality Management,3,FSHN249
+3208,Hospitality Management,3,FSHN292
+3209,Hospitality Management,3,FSHN293
+3210,Hospitality Management,3,FSHN340
+3211,Hospitality Management,3,FSHN345
+3212,Hospitality Management,3,FSHN346
+3213,Hospitality Management,3,FSHN439
+3214,Hospitality Management,3,FSHN441
+3215,Hospitality Management,3,FSHN442
+3216,Hospitality Management,3,FSHN443
+3217,Hospitality Management,3,ANSC309
+3218,Hospitality Management,3,ECON102
+3219,Hospitality Management,3,ACE161
+3220,Hospitality Management,3,ACCY200
+3221,Hospitality Management,3,BADM300
+3222,Hospitality Management,3,BADM310
+3223,Hospitality Management,3,BADM320
+3224,Hospitality Management,3,LEAD321
+3225,Hospitality Management,3,PSYC245
+3226,Human Development & Family Studies,1,HDFS101
+3227,Human Development & Family Studies,3,HDFS105
+3228,Human Development & Family Studies,3,HDFS120
+3229,Human Development & Family Studies,4,HDFS290
+3230,Human Development & Family Studies,3,ACE240
+3231,Human Development & Family Studies,3,CMN101
+3232,Human Development & Family Studies,4,PSYC100
+3233,Human Development & Family Studies,4,SOC100
+3234,Human Development & Family Studies,3,STAT100
+3235,Human Development & Family Studies,3,FSHN120
+3236,Human Development & Family Studies,3,HK110
+3237,Human Development & Family Studies,3,HDFS445
+3238,Human Development & Family Studies,3,HDFS301
+3239,Human Development & Family Studies,3,HDFS305
+3240,Human Development & Family Studies,3,HDFS405
+3241,Human Development & Family Studies,3,HDFS207
+3242,Human Development & Family Studies,3,HDFS225
+3243,Human Development & Family Studies,3,HDFS425
+3244,Human Development & Family Studies,3,HDFS208
+3245,Human Development & Family Studies,3,HDFS220
+3246,Human Development & Family Studies,3,HDFS221
+3247,Human Development & Family Studies,3,HDFS322
+3248,Human Development & Family Studies,3,HDFS340
+3249,Human Development & Family Studies,3,HDFS379
+3250,Human Development & Family Studies,3,HDFS420
+3251,Human Development & Family Studies,3,HDFS424
+3252,Human Development & Family Studies,3,HDFS444
+3253,Human Development & Family Studies,3,HDFS294
+3254,Human Development & Family Studies,3,HDFS295
+3255,Human Development & Family Studies,3,HDFS350
+3256,Human Development & Family Studies,3,HDFS396
+3257,Human Development & Family Studies,3,HDFS450
+3258,Human Development & Family Studies,3,HDFS494
+3259,Human Development & Family Studies,3,LEAD260
+3260,Human Development & Family Studies,3,HDFS108
+3261,Human Development & Family Studies,3,HDFS207
+3262,Human Development & Family Studies,3,HDFS208
+3263,Human Development & Family Studies,3,HDFS220
+3264,Human Development & Family Studies,3,HDFS225
+3265,Human Development & Family Studies,3,HDFS301
+3266,Human Development & Family Studies,3,HDFS305
+3267,Human Development & Family Studies,3,HDFS310
+3268,Human Development & Family Studies,3,HDFS320
+3269,Human Development & Family Studies,3,HDFS322
+3270,Human Development & Family Studies,3,HDFS330
+3271,Human Development & Family Studies,3,HDFS335
+3272,Human Development & Family Studies,3,HDFS340
+3273,Human Development & Family Studies,3,HDFS350
+3274,Human Development & Family Studies,3,HDFS401
+3275,Human Development & Family Studies,3,HDFS405
+3276,Human Development & Family Studies,3,HDFS406
+3277,Human Development & Family Studies,3,HDFS408
+3278,Human Development & Family Studies,3,HDFS420
+3279,Human Development & Family Studies,3,HDFS425
+3280,Human Development & Family Studies,3,HDFS426
+3281,Human Development & Family Studies,3,HDFS444
+3282,Human Development & Family Studies,3,HDFS445
+3283,Industrial Engineering,1,ENG100
+3284,Industrial Engineering,1,SE100
+3285,Industrial Engineering,3,SE290
+3286,Industrial Engineering,3,ECON102
+3287,Industrial Engineering,3,CHEM102
+3288,Industrial Engineering,1,CHEM103
+3289,Industrial Engineering,4,MATH221
+3290,Industrial Engineering,3,MATH231
+3291,Industrial Engineering,4,MATH241
+3292,Industrial Engineering,3,MATH257
+3293,Industrial Engineering,3,MATH285
+3294,Industrial Engineering,4,PHYS211
+3295,Industrial Engineering,4,PHYS212
+3296,Industrial Engineering,2,PHYS213
+3297,Industrial Engineering,3,CS101
+3298,Industrial Engineering,3,ECE110
+3299,Industrial Engineering,3,IE300
+3300,Industrial Engineering,3,IE310
+3301,Industrial Engineering,3,IE360
+3302,Industrial Engineering,3,IE361
+3303,Industrial Engineering,3,IE370
+3304,Industrial Engineering,3,IE371
+3305,Industrial Engineering,3,IE400
+3306,Industrial Engineering,4,ME330
+3307,Industrial Engineering,3,SE101
+3308,Industrial Engineering,2,SE261
+3309,Industrial Engineering,3,SE494
+3310,Industrial Engineering,2,SE495
+3311,Industrial Engineering,3,TAM211
+3312,Industrial Engineering,3,TAM212
+3313,Industrial Engineering,3,TAM251
+3314,Industrial Engineering,3,CS173
+3315,Industrial Engineering,4,CS225
+3316,Industrial Engineering,3,SE400
+3317,Industrial Engineering,3,ACE427
+3318,Industrial Engineering,3,IE420
+3319,Industrial Engineering,3,SE450
+3320,Industrial Engineering,3,ACE410
+3321,Industrial Engineering,3,ACE427
+3322,Industrial Engineering,3,ACE428
+3323,Industrial Engineering,3,ACCY200
+3324,Industrial Engineering,3,ECON302
+3325,Industrial Engineering,3,ECON303
+3326,Industrial Engineering,2,ECON420
+3327,Industrial Engineering,2,ECON471
+3328,Industrial Engineering,3,FIN221
+3329,Industrial Engineering,3,FIN300
+3330,Industrial Engineering,3,FIN411
+3331,Industrial Engineering,3,FIN412
+3332,Industrial Engineering,3,FIN415
+3333,Industrial Engineering,3,FIN461
+3334,Industrial Engineering,3,SE400
+3335,Industrial Engineering,4,IE340
+3336,Industrial Engineering,4,BIOE461
+3340,Industrial Engineering,3,HK353
+3341,Industrial Engineering,3,HK466
+3342,Industrial Engineering,3,ME481
+3343,Industrial Engineering,3,ME482
+3344,Industrial Engineering,3,SE400
+3345,Industrial Engineering,3,SE450
+3346,Industrial Engineering,3,IE445
+3347,Industrial Engineering,3,ANTH411
+3348,Industrial Engineering,3,BADM310
+3349,Industrial Engineering,3,BADM312
+3350,Industrial Engineering,3,BADM357
+3351,Industrial Engineering,3,HK403
+3352,Industrial Engineering,3,PSYC245
+3353,Industrial Engineering,3,IE330
+3354,Industrial Engineering,3,IE411
+3355,Industrial Engineering,3,IE412
+3356,Industrial Engineering,4,IE340
+3357,Industrial Engineering,3,SE400
+3358,Industrial Engineering,3,IE410
+3359,Industrial Engineering,3,IE411
+3360,Industrial Engineering,3,ECE490
+3361,Industrial Engineering,3,IE420
+3362,Industrial Engineering,3,MATH444
+3363,Industrial Engineering,3,MATH484
+3364,Industrial Engineering,3,SE400
+3365,Industrial Engineering,3,SE411
+3366,Industrial Engineering,3,STAT410
+3367,Industrial Engineering,3,STAT420
+3368,Industrial Engineering,3,STAT424
+3369,Industrial Engineering,3,STAT425
+3370,Industrial Engineering,3,IE330
+3371,Industrial Engineering,3,IE431
+3372,Industrial Engineering,3,SE400
+3373,Industrial Engineering,3,SE411
+3374,Industrial Engineering,3,STAT410
+3375,Industrial Engineering,3,STAT420
+3376,Industrial Engineering,3,STAT424
+3377,Industrial Engineering,3,STAT426
+3378,Industrial Engineering,3,IE412
+3379,Industrial Engineering,4,ECE470
+3380,Industrial Engineering,3,IE330
+3381,Industrial Engineering,3,ME270
+3382,Industrial Engineering,3,ME451
+3383,Industrial Engineering,3,ME452
+3384,Industrial Engineering,3,SE400
+3385,Industrial Engineering,4,CS225
+3386,Industrial Engineering,3,CS357
+3387,Industrial Engineering,3,CS411
+3388,Industrial Engineering,3,CS450
+3389,Industrial Engineering,3,IE405
+3390,Industrial Engineering,3,IE330
+3391,Industrial Engineering,4,IE340
+3392,Industrial Engineering,3,IE411
+3393,Industrial Engineering,3,IE412
+3394,Industrial Engineering,3,IE420
+3395,Industrial Engineering,3,IE431
+3396,Industrial Engineering,3,IE445
+3397,Industrial Engineering,3,SE310
+3398,Industrial Engineering,4,SE320
+3399,Industrial Engineering,3,SE424
+3400,Information Sciences,3,IS101
+3401,Information Sciences,3,IS202
+3402,Information Sciences,3,IS203
+3403,Information Sciences,3,IS204
+3404,Information Sciences,3,IS205
+3405,Information Sciences,3,IS206
+3406,Information Sciences + Data Science,4,MATH220
+3407,Information Sciences + Data Science,3,MATH227
+3408,Information Sciences + Data Science,4,STAT107
+3409,Information Sciences + Data Science,4,STAT207
+3410,Information Sciences + Data Science,4,CS307
+3411,Information Sciences + Data Science,4,CS277
+3412,Information Sciences + Data Science,3,IS467
+3413,Information Sciences + Data Science,3,IS477
+3414,Information Sciences + Data Science,3,IS101
+3415,Information Sciences + Data Science,3,IS202
+3416,Information Sciences + Data Science,3,IS204
+3417,Information Sciences + Data Science,3,IS205
+3418,Information Sciences + Data Science,3,IS206
+3419,Information Sciences + Data Science,3,IS308
+3420,Information Sciences + Data Science,3,IS189
+3421,Information Systems,3,ACCY201
+3422,Information Systems,3,ACCY202
+3423,Information Systems,3,BUS101
+3424,Information Systems,3,BUS201
+3425,Information Systems,3,BUS301
+3426,Information Systems,3,BUS401
+3427,Information Systems,3,BADM210
+3428,Information Systems,3,BADM211
+3429,Information Systems,3,BADM275
+3430,Information Systems,3,BADM300
+3431,Information Systems,3,BADM310
+3432,Information Systems,3,BADM320
+3433,Information Systems,3,BADM449
+3434,Information Systems,3,CMN101
+3435,Information Systems,3,CS105
+3436,Information Systems,3,ECON102
+3437,Information Systems,3,ECON103
+3438,Information Systems,3,FIN221
+3439,Information Systems,3,MATH115
+3440,Information Systems,5,MATH220
+3441,Information Systems,4,MATH221
+3442,Information Systems,3,MATH231
+3443,Information Systems,4,MATH234
+3444,Information Systems,3,STAT100
+3445,Information Systems,3,BADM350
+3446,Information Systems,3,BADM352
+3447,Information Systems,3,BADM353
+3448,Information Systems,3,BADM351
+3449,Information Systems,3,BADM356
+3450,Information Systems,3,BADM357
+3451,Information Systems,3,BADM453
+3452,Information Systems,3,BADM458
+3453,Information Systems,3,BADM358
+3454,Information Systems,3,BADM370
+3455,Information Systems,3,BADM372
+3456,Information Systems,3,BADM323
+3457,Information Systems,3,BADM324
+3458,Information Systems,3,BADM326
+3459,Information Systems,3,BADM329
+3460,Information Systems,3,BADM374
+3461,Information Systems,3,BADM375
+3462,Information Systems,3,BADM377
+3463,Information Systems,3,BADM379
+3464,Information Systems,3,BADM382
+3465,Information Systems,3,BADM358
+3466,Information Systems,3,BADM370
+3467,Information Systems,3,BADM372
+3468,Innovation,1,TE100
+3469,Innovation,3,TE230
+3470,Innovation,2,TE250
+3471,Innovation,4,TE333
+3472,Innovation,1,TE360
+3473,Innovation,3,SE361
+3474,Innovation,2,TE390
+3475,Innovation,4,TE401
+3476,Innovation,3,TE450
+3477,Innovation,3,TE461
+3478,Innovation,3,TE462
+3479,Innovation,2,TE466
+3480,Journalism,3,JOUR200
+3481,Journalism,3,JOUR205
+3482,Journalism,4,JOUR210
+3483,Journalism,4,JOUR215
+3484,Journalism,3,JOUR250
+3485,Journalism,3,JOUR310
+3486,Journalism,3,JOUR315
+3487,Journalism,3,JOUR340
+3488,Journalism,3,JOUR425
+3489,Journalism,3,JOUR335
+3490,Journalism,3,JOUR400
+3491,Journalism,3,JOUR410
+3492,Journalism,3,JOUR430
+3493,Journalism,3,JOUR440
+3494,Journalism,3,JOUR445
+3495,Journalism,3,JOUR471
+3496,Journalism,3,JOUR472
+3497,Journalism,3,JOUR480
+3498,Journalism,3,JOUR482
+3499,Journalism,3,JOUR483
+3500,Journalism,3,JOUR450
+3501,Journalism,3,JOUR451
+3502,Journalism,3,JOUR454
+3503,Journalism,3,JOUR460
+3504,Journalism,3,STAT107
+3505,Journalism,3,STAT100
+3506,Journalism,3,SOC280
+3507,Journalism,3,PSYC235
+3508,Journalism,3,ECON202
+3509,Journalism,3,EPSY280
+3510,Journalism,3,UP116
+3511,Kinesiology,3,HK140
+3513,Kinesiology,3,HK150
+3514,Kinesiology,3,MCB244
+3515,Kinesiology,3,MCB245
+3516,Kinesiology,3,MCB246
+3517,Kinesiology,3,MCB247
+3518,Kinesiology,3,HK140
+3519,Kinesiology,3,HK150
+3520,Kinesiology,3,HK201
+3522,Kinesiology,3,HK340
+3523,Dance,3,DANC100
+3524,Dance,3,DANC340
+3525,Dance,3,HK140
+3526,Dance,3,HK150
+3527,Dance,1,DANC150
+3528,Dance,6,DANC160
+3529,Dance,4,DANC260
+3530,Dance,1,DANC245
+3531,Dance,2,DANC259
+3532,Dance,2,DANC262
+3533,Dance,2,DANC362
+3534,Dance,2,DANC232
+3535,Dance,3,DANC131
+3536,Dance,3,DANC231
+3537,Dance,3,DANC330
+3538,Dance,3,DANC331
+3539,Dance,3,DANC431
+3540,Dance,3,DANC100
+3541,Dance,1,DANC162
+3542,Dance,3,DANC475
+3543,Dance,1,DANC375
+3544,Dance,2,DANC496
+3545,Dance,2,DANC497
+3546,Dance,3,MCB244
+3547,Dance,3,MCB245
+3548,Dance,3,MCB246
+3549,Dance,3,MCB247
+3550,Learning & Education Studies,1,EDUC101
+3551,Learning & Education Studies,3,EDUC201
+3552,Learning & Education Studies,3,EPSY220
+3553,Learning & Education Studies,3,SPED117
+3554,Learning & Education Studies,3,CI210
+3555,Learning & Education Studies,3,CI415
+3556,Learning & Education Studies,3,EPSY201
+3557,Learning & Education Studies,3,EPSY400
+3558,Learning & Education Studies,3,EPSY401
+3559,Learning & Education Studies,3,EDUC202
+3560,Learning & Education Studies,3,EPOL310
+3561,Learning & Education Studies,3,EPOL402
+3562,Learning & Education Studies,3,EPOL403
+3563,Learning & Education Studies,3,EPOL473
+3564,Learning & Education Studies,3,EPOL474
+3565,Management,3,ACCY201
+3566,Management,3,ACCY202
+3567,Management,3,BUS101
+3568,Management,3,BUS201
+3569,Management,3,BUS301
+3570,Management,3,BUS401
+3571,Management,3,BADM210
+3572,Management,3,BADM211
+3573,Management,3,BADM275
+3574,Management,3,BADM300
+3575,Management,3,BADM310
+3576,Management,3,BADM320
+3577,Management,3,BADM449
+3578,Management,3,CMN101
+3579,Management,3,CS105
+3580,Management,3,ECON102
+3581,Management,3,ECON103
+3582,Management,3,FIN221
+3583,Management,3,MATH115
+3584,Management,3,MATH220
+3585,Management,3,MATH221
+3586,Management,3,MATH231
+3587,Management,3,MATH234
+3588,Management,3,STAT100
+3589,Management,3,BADM311
+3590,Management,3,BADM312
+3591,Management,3,BADM313
+3592,Management,3,BADM314
+3593,Management,3,BADM329
+3594,Management,3,BADM340
+3595,Management,3,BADM350
+3596,Management,3,BADM353
+3597,Management,3,BADM375
+3598,Management,3,BADM377
+3599,Management,3,BADM378
+3600,Management,3,BADM380
+3601,Management,3,BADM381
+3602,Management,4,BADM403
+3603,Management,4,BADM445
+3604,Management,4,BADM446
+3605,Marketing,3,ACCY201
+3606,Marketing,3,ACCY202
+3607,Marketing,3,BUS101
+3608,Marketing,3,BUS201
+3609,Marketing,3,BUS301
+3610,Marketing,3,BUS401
+3611,Marketing,3,BADM210
+3612,Marketing,3,BADM211
+3613,Marketing,3,BADM275
+3614,Marketing,3,BADM300
+3615,Marketing,3,BADM310
+3616,Marketing,3,BADM320
+3617,Marketing,3,BADM449
+3618,Marketing,3,CMN101
+3619,Marketing,3,CS105
+3620,Marketing,3,ECON102
+3621,Marketing,3,ECON103
+3622,Marketing,3,FIN221
+3623,Marketing,3,MATH115
+3624,Marketing,3,MATH220
+3625,Marketing,3,MATH221
+3626,Marketing,3,MATH231
+3627,Marketing,3,MATH234
+3628,Marketing,3,STAT100
+3629,Marketing,3,BADM322
+3630,Marketing,3,BADM325
+3631,Marketing,3,BADM420
+3632,Marketing,3,BADM311
+3633,Marketing,3,BADM312
+3634,Marketing,3,BADM321
+3635,Marketing,3,BADM323
+3636,Marketing,3,BADM324
+3637,Marketing,3,BADM326
+3638,Marketing,3,BADM327
+3639,Marketing,3,BADM328
+3640,Marketing,3,BADM329
+3641,Marketing,3,BADM330
+3642,Marketing,3,BADM331
+3643,Marketing,3,BADM351
+3644,Marketing,3,BADM360
+3645,Marketing,3,BADM361
+3646,Marketing,3,BADM374
+3647,Marketing,3,BADM378
+3648,Marketing,3,BADM382
+3649,Marketing,3,BADM395
+3650,Marketing,3,BADM395
+3651,Marketing,3,GGIS440
+3652,Materials Science & Engineering,1,ENG100
+3653,Materials Science & Engineering,3,CHEM102
+3654,Materials Science & Engineering,1,CHEM103
+3655,Materials Science & Engineering,3,CHEM104
+3656,Materials Science & Engineering,1,CHEM105
+3657,Materials Science & Engineering,4,MATH221
+3658,Materials Science & Engineering,3,MATH231
+3659,Materials Science & Engineering,4,MATH241
+3660,Materials Science & Engineering,3,MATH257
+3661,Materials Science & Engineering,3,MATH285
+3662,Materials Science & Engineering,4,PHYS211
+3663,Materials Science & Engineering,4,PHYS212
+3664,Materials Science & Engineering,2,PHYS214
+3665,Materials Science & Engineering,3,CS101
+3666,Materials Science & Engineering,3,ECE205
+3667,Materials Science & Engineering,2,MSE182
+3668,Materials Science & Engineering,3,MSE201
+3669,Materials Science & Engineering,4,MSE206
+3670,Materials Science & Engineering,3,MSE307
+3671,Materials Science & Engineering,3,MSE308
+3672,Materials Science & Engineering,1,MSE494
+3673,Materials Science & Engineering,2,MSE495
+3674,Materials Science & Engineering,3,MSE401
+3675,Materials Science & Engineering,3,MSE402
+3676,Materials Science & Engineering,3,MSE406
+3677,Materials Science & Engineering,3,CHEM232
+3678,Materials Science & Engineering,3,IE300
+3679,Materials Science & Engineering,4,MCB150
+3680,Materials Science & Engineering,3,MCB450
+3681,Materials Science & Engineering,3,MCB252
+3682,Materials Science & Engineering,3,MSE470
+3683,Materials Science & Engineering,3,IE300
+3684,Materials Science & Engineering,3,MSE304
+3685,Materials Science & Engineering,3,MSE405
+3686,Materials Science & Engineering,3,MSE404
+3687,Materials Science & Engineering,6,MSE404
+3688,Materials Science & Engineering,3,MSE420
+3689,Materials Science & Engineering,3,MSE441
+3690,Materials Science & Engineering,3,MSE450
+3691,Materials Science & Engineering,3,MSE470
+3692,Materials Science & Engineering,3,ECE340
+3693,Materials Science & Engineering,3,MSE473
+3694,Materials Science & Engineering,3,MSE474
+3695,Materials Science & Engineering,3,ABE446
+3696,Materials Science & Engineering,3,BIOE416
+3697,Materials Science & Engineering,4,BIOE461
+3698,Materials Science & Engineering,3,BIOE476
+3699,Materials Science & Engineering,3,BIOE479
+3700,Materials Science & Engineering,3,BIOE487
+3701,Materials Science & Engineering,3,CHBE472
+3702,Materials Science & Engineering,3,CHBE473
+3703,Materials Science & Engineering,3,CHBE475
+3704,Materials Science & Engineering,3,ECE380
+3705,Materials Science & Engineering,3,ECE414
+3706,Materials Science & Engineering,2,ECE415
+3707,Materials Science & Engineering,3,ECE472
+3708,Materials Science & Engineering,3,ME482
+3709,Materials Science & Engineering,4,ME483
+3710,Materials Science & Engineering,3,BIOC446
+3711,Materials Science & Engineering,4,BIOC455
+3712,Materials Science & Engineering,3,BIOP401
+3713,Materials Science & Engineering,3,MSE403
+3714,Materials Science & Engineering,3,MSE421
+3715,Materials Science & Engineering,3,MSE422
+3716,Materials Science & Engineering,3,MSE440
+3717,Materials Science & Engineering,3,MSE443
+3718,Materials Science & Engineering,3,MSE453
+3719,Materials Science & Engineering,3,MSE455
+3720,Materials Science & Engineering,3,MSE456
+3721,Materials Science & Engineering,3,MSE457
+3722,Materials Science & Engineering,3,MSE458
+3723,Materials Science & Engineering,3,MSE460
+3724,Materials Science & Engineering,3,MSE461
+3725,Materials Science & Engineering,3,MSE464
+3726,Materials Science & Engineering,3,MSE466
+3727,Materials Science & Engineering,3,MSE480
+3728,Materials Science & Engineering,3,MSE481
+3729,Materials Science & Engineering,3,MSE485
+3730,Materials Science & Engineering,3,MSE487
+3731,Materials Science & Engineering,3,MSE488
+3732,Materials Science & Engineering,3,MSE489
+3733,Materials Science & Engineering,3,MSE498
+3734,Materials Science & Engineering,3,ABE482
+3735,Materials Science & Engineering,3,ABE483
+3736,Materials Science & Engineering,4,CEE401
+3737,Materials Science & Engineering,3,CEE460
+3738,Materials Science & Engineering,3,CHBE458
+3739,Materials Science & Engineering,3,ECE441
+3740,Materials Science & Engineering,4,ECE443
+3741,Materials Science & Engineering,4,ECE444
+3742,Materials Science & Engineering,4,ECE481
+3743,Materials Science & Engineering,3,ECE487
+3744,Materials Science & Engineering,3,ECE488
+3745,Materials Science & Engineering,3,ECE495
+3746,Materials Science & Engineering,3,IE431
+3747,Materials Science & Engineering,3,ME431
+3748,Materials Science & Engineering,3,ME472
+3749,Materials Science & Engineering,4,ME487
+3750,Materials Science & Engineering,3,NPRE470
+3751,Materials Science & Engineering,3,SE412
+3752,Materials Science & Engineering,4,TAM451
+3753,Materials Science & Engineering,3,TAM456
+3754,Materials Science & Engineering,3,CHEM436
+3755,Materials Science & Engineering,4,CHEM483
+3756,Materials Science & Engineering,3,PHYS485
+3757,Materials Science & Engineering,4,PHYS486
+3758,Materials Science & Engineering,4,PHYS487
+3759,Mechanical Engineering,1,ENG100
+3760,Mechanical Engineering,3,ME290
+3761,Mechanical Engineering,3,CHEM102
+3762,Mechanical Engineering,1,CHEM103
+3763,Mechanical Engineering,4,MATH221
+3764,Mechanical Engineering,3,MATH231
+3765,Mechanical Engineering,4,MATH241
+3766,Mechanical Engineering,3,MATH257
+3767,Mechanical Engineering,3,MATH285
+3768,Mechanical Engineering,4,PHYS211
+3769,Mechanical Engineering,4,PHYS212
+3770,Mechanical Engineering,3,CS101
+3771,Mechanical Engineering,3,ECE205
+3772,Mechanical Engineering,1,ECE206
+3773,Mechanical Engineering,3,ME170
+3774,Mechanical Engineering,3,ME270
+3775,Mechanical Engineering,3,ME200
+3776,Mechanical Engineering,4,ME310
+3777,Mechanical Engineering,4,ME320
+3778,Mechanical Engineering,4,ME330
+3779,Mechanical Engineering,3,ME340
+3780,Mechanical Engineering,3,ME360
+3781,Mechanical Engineering,3,ME370
+3782,Mechanical Engineering,3,ME371
+3783,Mechanical Engineering,3,ME470
+3784,Mechanical Engineering,2,TAM210
+3785,Mechanical Engineering,3,TAM212
+3786,Mechanical Engineering,3,TAM251
+3787,Mechanical Engineering,2,CHEM104
+3788,Mechanical Engineering,2,CHEM105
+3789,Mechanical Engineering,3,MCB150
+3790,Mechanical Engineering,2,PHYS213
+3791,Mechanical Engineering,2,PHYS214
+3792,Mechanical Engineering,3,IE300
+3793,Mechanical Engineering,3,STAT400
+3794,Mechanical Engineering,2,ABE430
+3795,Mechanical Engineering,3,ABE436
+3796,Mechanical Engineering,4,ABE445
+3797,Mechanical Engineering,2,ABE455
+3798,Mechanical Engineering,3,ABE456
+3799,Mechanical Engineering,3,ABE459
+3800,Mechanical Engineering,3,ABE466
+3801,Mechanical Engineering,4,ABE469
+3802,Mechanical Engineering,4,ABE476
+3803,Mechanical Engineering,3,ABE483
+3804,Mechanical Engineering,4,ABE488
+3805,Mechanical Engineering,1,ABE497
+3806,Mechanical Engineering,1,ABE498
+3807,Mechanical Engineering,3,AE352
+3808,Mechanical Engineering,3,AE402
+3809,Mechanical Engineering,3,AE403
+3810,Mechanical Engineering,3,AE410
+3811,Mechanical Engineering,4,AE412
+3812,Mechanical Engineering,3,AE416
+3813,Mechanical Engineering,3,AE419
+3814,Mechanical Engineering,3,AE420
+3815,Mechanical Engineering,3,AE428
+3816,Mechanical Engineering,3,AE433
+3817,Mechanical Engineering,3,AE434
+3818,Mechanical Engineering,3,AE442
+3819,Mechanical Engineering,3,AE443
+3820,Mechanical Engineering,3,AE451
+3821,Mechanical Engineering,3,AE454
+3822,Mechanical Engineering,4,AE456
+3823,Mechanical Engineering,2,AE460
+3824,Mechanical Engineering,2,AE461
+3825,Mechanical Engineering,4,AE482
+3826,Mechanical Engineering,2,AE483
+3827,Mechanical Engineering,1,AE497
+3828,Mechanical Engineering,1,AE498
+3829,Mechanical Engineering,3,ASRM410
+3830,Mechanical Engineering,4,ASRM461
+3831,Mechanical Engineering,3,ASRM469
+3832,Mechanical Engineering,4,ASRM471
+3833,Mechanical Engineering,3,ASRM472
+3834,Mechanical Engineering,3,BIOC406
+3835,Mechanical Engineering,3,BIOC446
+3836,Mechanical Engineering,4,BIOC455
+3837,Mechanical Engineering,3,BIOE380
+3838,Mechanical Engineering,3,BIOE414
+3839,Mechanical Engineering,2,BIOE415
+3840,Mechanical Engineering,3,BIOE416
+3841,Mechanical Engineering,4,BIOE461
+3842,Mechanical Engineering,3,BIOE476
+3843,Mechanical Engineering,3,BIOE479
+3844,Mechanical Engineering,3,BIOE481
+3845,Mechanical Engineering,3,BIOE482
+3846,Mechanical Engineering,1,BIOE497
+3847,Mechanical Engineering,1,BIOE498
+3848,Mechanical Engineering,3,BIOP401
+3849,Mechanical Engineering,3,BIOP419
+3850,Mechanical Engineering,3,BIOP432
+3851,Mechanical Engineering,3,CEE310
+3852,Mechanical Engineering,3,CEE330
+3853,Mechanical Engineering,3,CEE340
+3854,Mechanical Engineering,3,CEE350
+3855,Mechanical Engineering,3,CEE360
+3856,Mechanical Engineering,3,CEE380
+3857,Mechanical Engineering,4,CEE398
+3858,Mechanical Engineering,4,CEE401
+3859,Mechanical Engineering,3,CEE405
+3860,Mechanical Engineering,3,CEE406
+3861,Mechanical Engineering,3,CEE407
+3862,Mechanical Engineering,3,CEE408
+3863,Mechanical Engineering,3,CEE409
+3864,Mechanical Engineering,3,CEE410
+3865,Mechanical Engineering,3,CEE411
+3866,Mechanical Engineering,3,CEE412
+3867,Mechanical Engineering,4,CEE415
+3868,Mechanical Engineering,3,CEE416
+3869,Mechanical Engineering,4,CEE417
+3870,Mechanical Engineering,3,CEE418
+3871,Mechanical Engineering,3,CEE420
+3872,Mechanical Engineering,3,CEE421
+3873,Mechanical Engineering,3,CEE422
+3874,Mechanical Engineering,3,CEE434
+3875,Mechanical Engineering,3,CEE437
+3876,Mechanical Engineering,3,CEE438
+3877,Mechanical Engineering,4,CEE440
+3878,Mechanical Engineering,4,CEE442
+3879,Mechanical Engineering,4,CEE443
+3880,Mechanical Engineering,4,CEE444
+3881,Mechanical Engineering,4,CEE447
+3882,Mechanical Engineering,3,CEE449
+3883,Mechanical Engineering,3,CEE450
+3884,Mechanical Engineering,3,CEE451
+3885,Mechanical Engineering,3,CEE452
+3886,Mechanical Engineering,4,CEE453
+3887,Mechanical Engineering,3,CEE457
+3888,Mechanical Engineering,4,CEE458
+3889,Mechanical Engineering,3,CEE460
+3890,Mechanical Engineering,3,CEE461
+3891,Mechanical Engineering,3,CEE462
+3892,Mechanical Engineering,3,CEE463
+3893,Mechanical Engineering,3,CEE465
+3894,Mechanical Engineering,3,CEE467
+3895,Mechanical Engineering,3,CEE468
+3896,Mechanical Engineering,3,CEE469
+3897,Mechanical Engineering,4,CEE470
+3898,Mechanical Engineering,3,CEE471
+3899,Mechanical Engineering,3,CEE472
+3900,Mechanical Engineering,4,CEE483
+3901,Mechanical Engineering,3,CEE484
+3902,Mechanical Engineering,3,CEE491
+3903,Mechanical Engineering,1,CEE497
+3904,Mechanical Engineering,1,CEE498
+3905,Mechanical Engineering,4,CHBE422
+3906,Mechanical Engineering,3,CHBE424
+3907,Mechanical Engineering,3,CHBE451
+3908,Mechanical Engineering,3,CHBE452
+3909,Mechanical Engineering,2,CHBE453
+3910,Mechanical Engineering,3,CHBE456
+3911,Mechanical Engineering,3,CHBE471
+3912,Mechanical Engineering,3,CHBE472
+3913,Mechanical Engineering,3,CHBE473
+3914,Mechanical Engineering,3,CHBE474
+3915,Mechanical Engineering,3,CHBE475
+3916,Mechanical Engineering,3,CHBE476
+3917,Mechanical Engineering,3,CHEM232
+3918,Mechanical Engineering,2,CHEM233
+3919,Mechanical Engineering,4,CHEM236
+3920,Mechanical Engineering,2,CHEM237
+3921,Mechanical Engineering,3,CHEM312
+3922,Mechanical Engineering,2,CHEM315
+3923,Mechanical Engineering,3,CHEM317
+3924,Mechanical Engineering,4,CHEM332
+3925,Mechanical Engineering,2,CHEM420
+3926,Mechanical Engineering,3,CHEM436
+3927,Mechanical Engineering,3,CHEM437
+3928,Mechanical Engineering,4,CHEM440
+3929,Mechanical Engineering,4,CHEM442
+3930,Mechanical Engineering,4,CHEM444
+3931,Mechanical Engineering,2,CHEM445
+3932,Mechanical Engineering,2,CHEM447
+3933,Mechanical Engineering,3,CHEM460
+3934,Mechanical Engineering,3,CHEM472
+3935,Mechanical Engineering,3,CHEM480
+3936,Mechanical Engineering,3,CHEM482
+3937,Mechanical Engineering,4,CHEM483
+3938,Mechanical Engineering,3,CHEM488
+3939,Mechanical Engineering,1,CHEM497
+3940,Mechanical Engineering,4,CS225
+3941,Mechanical Engineering,4,CS233
+3942,Mechanical Engineering,3,CS242
+3943,Mechanical Engineering,4,CS341
+3944,Mechanical Engineering,3,CS357
+3945,Mechanical Engineering,4,CS374
+3946,Mechanical Engineering,3,CS410
+3947,Mechanical Engineering,3,CS411
+3948,Mechanical Engineering,3,CS412
+3949,Mechanical Engineering,3,CS413
+3950,Mechanical Engineering,3,CS414
+3951,Mechanical Engineering,3,CS418
+3952,Mechanical Engineering,3,CS419
+3953,Mechanical Engineering,3,CS420
+3954,Mechanical Engineering,3,CS421
+3955,Mechanical Engineering,3,CS422
+3956,Mechanical Engineering,3,CS423
+3957,Mechanical Engineering,3,CS424
+3958,Mechanical Engineering,3,CS425
+3959,Mechanical Engineering,3,CS426
+3960,Mechanical Engineering,3,CS427
+3961,Mechanical Engineering,3,CS428
+3962,Mechanical Engineering,3,CS429
+3963,Mechanical Engineering,3,CS431
+3964,Mechanical Engineering,3,CS433
+3965,Mechanical Engineering,3,CS436
+3966,Mechanical Engineering,3,CS438
+3967,Mechanical Engineering,3,CS439
+3968,Mechanical Engineering,3,CS440
+3969,Mechanical Engineering,3,CS445
+3970,Mechanical Engineering,3,CS446
+3971,Mechanical Engineering,3,CS447
+3972,Mechanical Engineering,3,CS450
+3973,Mechanical Engineering,3,CS460
+3974,Mechanical Engineering,4,CS461
+3975,Mechanical Engineering,3,CS463
+3976,Mechanical Engineering,4,CS465
+3977,Mechanical Engineering,3,CS466
+3978,Mechanical Engineering,3,CS467
+3979,Mechanical Engineering,3,CS468
+3980,Mechanical Engineering,4,CS473
+3981,Mechanical Engineering,3,CS475
+3982,Mechanical Engineering,3,CS476
+3983,Mechanical Engineering,3,CS477
+3984,Mechanical Engineering,3,CS481
+3985,Mechanical Engineering,4,CS483
+3986,Mechanical Engineering,3,CS484
+3987,Mechanical Engineering,1,CS498
+3988,Mechanical Engineering,3,CSE401
+3989,Mechanical Engineering,3,CSE402
+3990,Mechanical Engineering,2,CSE412
+3991,Mechanical Engineering,3,CSE441
+3992,Mechanical Engineering,3,CSE450
+3993,Mechanical Engineering,3,CSE451
+3994,Mechanical Engineering,3,CSE461
+3995,Mechanical Engineering,3,ECE329
+3996,Mechanical Engineering,3,ECE330
+3997,Mechanical Engineering,3,ECE333
+3998,Mechanical Engineering,3,ECE340
+3999,Mechanical Engineering,3,ECE342
+4000,Mechanical Engineering,1,ECE343
+4001,Mechanical Engineering,3,ECE380
+4002,Mechanical Engineering,3,ECE385
+4003,Mechanical Engineering,2,ECE395
+4004,Mechanical Engineering,4,ECE401
+4005,Mechanical Engineering,3,ECE402
+4006,Mechanical Engineering,3,ECE403
+4007,Mechanical Engineering,4,ECE408
+4008,Mechanical Engineering,4,ECE411
+4009,Mechanical Engineering,3,ECE414
+4010,Mechanical Engineering,2,ECE415
+4011,Mechanical Engineering,3,ECE416
+4012,Mechanical Engineering,4,ECE417
+4013,Mechanical Engineering,4,ECE418
+4014,Mechanical Engineering,3,ECE419
+4015,Mechanical Engineering,2,ECE420
+4016,Mechanical Engineering,4,ECE422
+4017,Mechanical Engineering,3,ECE424
+4018,Mechanical Engineering,3,ECE425
+4019,Mechanical Engineering,3,ECE428
+4020,Mechanical Engineering,4,ECE431
+4021,Mechanical Engineering,3,ECE435
+4022,Mechanical Engineering,3,ECE437
+4023,Mechanical Engineering,3,ECE438
+4024,Mechanical Engineering,3,ECE439
+4025,Mechanical Engineering,3,ECE441
+4026,Mechanical Engineering,4,ECE444
+4027,Mechanical Engineering,3,ECE447
+4028,Mechanical Engineering,3,ECE448
+4029,Mechanical Engineering,3,ECE451
+4030,Mechanical Engineering,3,ECE452
+4031,Mechanical Engineering,4,ECE453
+4032,Mechanical Engineering,3,ECE454
+4033,Mechanical Engineering,3,ECE455
+4034,Mechanical Engineering,4,ECE456
+4035,Mechanical Engineering,3,ECE457
+4036,Mechanical Engineering,3,ECE458
+4037,Mechanical Engineering,3,ECE459
+4038,Mechanical Engineering,4,ECE460
+4039,Mechanical Engineering,3,ECE462
+4040,Mechanical Engineering,2,ECE463
+4041,Mechanical Engineering,3,ECE464
+4042,Mechanical Engineering,3,ECE465
+4043,Mechanical Engineering,1,ECE466
+4044,Mechanical Engineering,3,ECE467
+4045,Mechanical Engineering,3,ECE468
+4046,Mechanical Engineering,2,ECE469
+4047,Mechanical Engineering,4,ECE470
+4048,Mechanical Engineering,3,ECE472
+4049,Mechanical Engineering,3,ECE473
+4050,Mechanical Engineering,3,ECE476
+4051,Mechanical Engineering,3,ECE478
+4052,Mechanical Engineering,3,ECE480
+4053,Mechanical Engineering,4,ECE481
+4054,Mechanical Engineering,3,ECE482
+4055,Mechanical Engineering,3,ECE483
+4056,Mechanical Engineering,4,ECE486
+4057,Mechanical Engineering,3,ECE487
+4058,Mechanical Engineering,3,ECE488
+4059,Mechanical Engineering,4,ECE489
+4060,Mechanical Engineering,3,ECE490
+4061,Mechanical Engineering,3,ECE491
+4062,Mechanical Engineering,3,ECE492
+4063,Mechanical Engineering,3,ECE493
+4064,Mechanical Engineering,3,ECE495
+4065,Mechanical Engineering,4,ECE498
+4066,Mechanical Engineering,3,ECON302
+4067,Mechanical Engineering,3,IE310
+4068,Mechanical Engineering,1,IE311
+4069,Mechanical Engineering,3,IE330
+4070,Mechanical Engineering,4,IE340
+4071,Mechanical Engineering,3,IE360
+4072,Mechanical Engineering,3,IE410
+4073,Mechanical Engineering,3,IE411
+4074,Mechanical Engineering,3,IE412
+4075,Mechanical Engineering,3,IE413
+4076,Mechanical Engineering,3,IE420
+4077,Mechanical Engineering,3,IE430
+4078,Mechanical Engineering,3,IE431
+4079,Mechanical Engineering,3,IE445
+4080,Mechanical Engineering,1,IE497
+4081,Mechanical Engineering,1,IE498
+4082,Mechanical Engineering,3,MATH347
+4083,Mechanical Engineering,3,MATH357
+4084,Mechanical Engineering,3,MATH403
+4085,Mechanical Engineering,3,MATH412
+4086,Mechanical Engineering,3,MATH413
+4087,Mechanical Engineering,3,MATH414
+4088,Mechanical Engineering,3,MATH417
+4089,Mechanical Engineering,3,MATH418
+4090,Mechanical Engineering,3,MATH423
+4091,Mechanical Engineering,3,MATH424
+4092,Mechanical Engineering,3,MATH425
+4093,Mechanical Engineering,3,MATH427
+4094,Mechanical Engineering,3,MATH428
+4095,Mechanical Engineering,3,MATH432
+4096,Mechanical Engineering,3,MATH442
+4097,Mechanical Engineering,3,MATH444
+4098,Mechanical Engineering,3,MATH446
+4099,Mechanical Engineering,3,MATH447
+4100,Mechanical Engineering,3,MATH448
+4101,Mechanical Engineering,3,MATH450
+4102,Mechanical Engineering,3,MATH453
+4103,Mechanical Engineering,3,MATH464
+4104,Mechanical Engineering,4,MATH473
+4105,Mechanical Engineering,3,MATH475
+4106,Mechanical Engineering,3,MATH481
+4107,Mechanical Engineering,3,MATH482
+4108,Mechanical Engineering,3,MATH484
+4109,Mechanical Engineering,3,MATH487
+4110,Mechanical Engineering,3,MATH489
+4111,Mechanical Engineering,1,MATH490
+4112,Mechanical Engineering,1,MATH492
+4113,Mechanical Engineering,3,MCB401
+4114,Mechanical Engineering,3,MCB402
+4115,Mechanical Engineering,3,MCB450
+4116,Mechanical Engineering,1,MCB493
+4117,Mechanical Engineering,3,MSE304
+4118,Mechanical Engineering,3,MSE307
+4119,Mechanical Engineering,3,MSE308
+4120,Mechanical Engineering,3,MSE401
+4121,Mechanical Engineering,3,MSE402
+4122,Mechanical Engineering,3,MSE403
+4123,Mechanical Engineering,3,MSE405
+4124,Mechanical Engineering,3,MSE406
+4125,Mechanical Engineering,3,MSE420
+4126,Mechanical Engineering,3,MSE421
+4127,Mechanical Engineering,3,MSE422
+4128,Mechanical Engineering,3,MSE440
+4129,Mechanical Engineering,3,MSE441
+4130,Mechanical Engineering,3,MSE443
+4131,Mechanical Engineering,3,MSE450
+4132,Mechanical Engineering,3,MSE453
+4133,Mechanical Engineering,3,MSE455
+4134,Mechanical Engineering,3,MSE456
+4135,Mechanical Engineering,3,MSE457
+4136,Mechanical Engineering,3,MSE458
+4137,Mechanical Engineering,3,MSE460
+4138,Mechanical Engineering,3,MSE461
+4139,Mechanical Engineering,3,MSE466
+4140,Mechanical Engineering,3,MSE470
+4141,Mechanical Engineering,3,MSE473
+4142,Mechanical Engineering,3,MSE474
+4143,Mechanical Engineering,3,MSE480
+4144,Mechanical Engineering,3,MSE481
+4145,Mechanical Engineering,3,MSE485
+4146,Mechanical Engineering,3,MSE487
+4147,Mechanical Engineering,3,MSE488
+4148,Mechanical Engineering,3,MSE489
+4149,Mechanical Engineering,1,MSE497
+4150,Mechanical Engineering,1,MSE498
+4151,Mechanical Engineering,3,NPRE330
+4152,Mechanical Engineering,3,NPRE402
+4153,Mechanical Engineering,3,NPRE412
+4154,Mechanical Engineering,3,NPRE421
+4155,Mechanical Engineering,2,NPRE423
+4156,Mechanical Engineering,3,NPRE429
+4157,Mechanical Engineering,3,NPRE435
+4158,Mechanical Engineering,4,NPRE441
+4159,Mechanical Engineering,3,NPRE442
+4160,Mechanical Engineering,4,NPRE448
+4161,Mechanical Engineering,3,NPRE451
+4162,Mechanical Engineering,4,NPRE455
+4163,Mechanical Engineering,3,NPRE457
+4164,Mechanical Engineering,3,NPRE461
+4165,Mechanical Engineering,3,NPRE470
+4166,Mechanical Engineering,3,NPRE475
+4167,Mechanical Engineering,1,NPRE498
+4168,Mechanical Engineering,3,PHYS330
+4169,Mechanical Engineering,3,PHYS401
+4170,Mechanical Engineering,3,PHYS402
+4171,Mechanical Engineering,4,PHYS403
+4172,Mechanical Engineering,4,PHYS404
+4173,Mechanical Engineering,4,PHYS406
+4174,Mechanical Engineering,4,PHYS427
+4175,Mechanical Engineering,3,PHYS435
+4176,Mechanical Engineering,3,PHYS436
+4177,Mechanical Engineering,4,PHYS460
+4178,Mechanical Engineering,3,PHYS466
+4179,Mechanical Engineering,4,PHYS470
+4180,Mechanical Engineering,3,PHYS475
+4181,Mechanical Engineering,3,PHYS485
+4182,Mechanical Engineering,4,PHYS486
+4183,Mechanical Engineering,4,PHYS487
+4184,Mechanical Engineering,3,PHYS496
+4185,Mechanical Engineering,1,PHYS497
+4186,Mechanical Engineering,1,PHYS498
+4187,Mechanical Engineering,3,SE400
+4188,Mechanical Engineering,3,SE402
+4189,Mechanical Engineering,3,SE411
+4190,Mechanical Engineering,3,SE412
+4191,Mechanical Engineering,3,SE413
+4192,Mechanical Engineering,4,SE420
+4193,Mechanical Engineering,4,SE422
+4194,Mechanical Engineering,3,SE423
+4195,Mechanical Engineering,3,SE424
+4196,Mechanical Engineering,3,SE450
+4197,Mechanical Engineering,4,SE497
+4198,Mechanical Engineering,1,SE498
+4199,Mechanical Engineering,4,STAT409
+4200,Mechanical Engineering,3,STAT410
+4201,Mechanical Engineering,3,STAT420
+4202,Mechanical Engineering,3,STAT424
+4203,Mechanical Engineering,3,STAT425
+4204,Mechanical Engineering,3,STAT426
+4205,Mechanical Engineering,3,STAT428
+4206,Mechanical Engineering,3,STAT429
+4207,Mechanical Engineering,3,STAT430
+4208,Mechanical Engineering,3,STAT440
+4209,Mechanical Engineering,3,STAT443
+4210,Mechanical Engineering,4,STAT448
+4211,Mechanical Engineering,3,STAT480
+4212,Mechanical Engineering,3,TE461
+4213,Mechanical Engineering,3,TMGT460
+4214,Mechanical Engineering,4,TMGT461
+4215,Media & Cinema Studies,3,MACS101
+4216,Media & Cinema Studies,3,MACS361
+4217,Media & Cinema Studies,3,MACS261
+4218,Media & Cinema Studies,3,MACS262
+4219,Media & Cinema Studies,3,MACS350
+4220,Media & Cinema Studies,3,MACS150
+4221,Media & Cinema Studies,3,MACS205
+4222,Media & Cinema Studies,3,MACS260
+4223,Media & Cinema Studies,3,MACS320
+4224,Media & Cinema Studies,3,MACS326
+4225,Media & Cinema Studies,3,MACS356
+4226,Media & Cinema Studies,3,MACS361
+4227,Media & Cinema Studies,3,MACS261
+4228,Media & Cinema Studies,3,MACS262
+4229,Media & Cinema Studies,3,MACS350
+4230,Media & Cinema Studies,3,MACS351
+4231,Media & Cinema Studies,3,MACS260
+4232,Media & Cinema Studies,3,MACS320
+4233,Media & Cinema Studies,3,MACS326
+4234,Media & Cinema Studies,3,MACS356
+4235,Media & Cinema Studies,3,MACS317
+4236,Media & Cinema Studies,3,MACS351
+4237,Media & Cinema Studies,3,MACS140
+4238,Media & Cinema Studies,3,MACS150
+4239,Media & Cinema Studies,3,MACS205
+4240,Media & Cinema Studies,3,MACS260
+4241,Media & Cinema Studies,3,MACS264
+4242,Media & Cinema Studies,3,MACS320
+4243,Media & Cinema Studies,3,MACS326
+4244,Media & Cinema Studies,3,MACS356
+4245,Media & Cinema Studies,3,MACS361
+4246,Media & Cinema Studies,3,MACS205
+4247,Media & Cinema Studies,3,MACS261
+4248,Media & Cinema Studies,3,MACS262
+4249,Media & Cinema Studies,3,MACS284
+4250,Media & Cinema Studies,3,MACS350
+4251,Media & Cinema Studies,3,MACS351
+4252,Media & Cinema Studies,3,MACS140
+4253,Media & Cinema Studies,3,MACS150
+4254,Media & Cinema Studies,3,MACS205
+4255,Media & Cinema Studies,3,MACS260
+4256,Media & Cinema Studies,3,MACS264
+4257,Media & Cinema Studies,3,MACS408
+4258,Media & Cinema Studies,3,MACS410
+4259,Media & Cinema Studies,3,MACS466
+4260,Media & Cinema Studies,3,MACS480
+4261,Media & Cinema Studies,3,MACS481
+4262,Media & Cinema Studies,3,MACS484
+4263,Media & Cinema Studies,3,MACS485
+4264,Media & Cinema Studies,3,MACS496
+4265,Middle Grades Education,1,EDUC101
+4266,Middle Grades Education,3,CI404
+4267,Middle Grades Education,3,CI410
+4268,Middle Grades Education,3,CI415
+4269,Middle Grades Education,3,CI467
+4270,Middle Grades Education,3,CI471
+4271,Middle Grades Education,3,CI476
+4272,Middle Grades Education,4,EDPR250
+4273,Middle Grades Education,1,EDPR442
+4274,Middle Grades Education,3,EDUC201
+4275,Middle Grades Education,3,EDUC202
+4276,Middle Grades Education,3,EPSY201
+4277,Middle Grades Education,3,EPSY430
+4278,Middle Grades Education,3,SPED405
+4279,Neural Engineering,1,ENG100
+4280,Neural Engineering,3,CHEM102
+4281,Neural Engineering,1,CHEM103
+4282,Neural Engineering,3,CHEM104
+4283,Neural Engineering,1,CHEM105
+4284,Neural Engineering,4,CHEM232
+4285,Neural Engineering,4,MATH221
+4286,Neural Engineering,3,MATH231
+4287,Neural Engineering,4,MATH241
+4288,Neural Engineering,3,MATH285
+4289,Neural Engineering,4,PHYS211
+4290,Neural Engineering,4,PHYS212
+4291,Neural Engineering,3,BIOE205
+4292,Neural Engineering,3,BIOE210
+4293,Neural Engineering,3,BIOE310
+4294,Neural Engineering,2,NE100
+4295,Neural Engineering,3,NE330
+4296,Neural Engineering,4,NE402
+4297,Neural Engineering,3,NE412
+4298,Neural Engineering,3,NE422
+4299,Neural Engineering,3,NE430
+4300,Neural Engineering,4,NE431
+4301,Neural Engineering,3,NE410
+4302,Neural Engineering,3,NE420
+4303,Neural Engineering,3,CS101
+4304,Neural Engineering,4,MCB150
+4305,Neural Engineering,3,MCB250
+4306,Neural Engineering,3,MCB252
+4307,Neural Engineering,4,PSYC100
+4308,Neural Engineering,3,BIOE420
+4309,Neural Engineering,3,BIOE430
+4310,Neural Engineering,3,BIOE434
+4311,Neural Engineering,3,BIOE450
+4312,Neural Engineering,3,BIOE460
+4313,Neural Engineering,3,BIOE476
+4314,Neural Engineering,3,BIOE483
+4315,Neural Engineering,3,BIOE484
+4316,Neural Engineering,3,BIOE485
+4317,Neural Engineering,3,BIOE486
+4318,Neural Engineering,3,BIOE487
+4319,Neural Engineering,3,BIOE488
+4320,Neural Engineering,3,BIOE489
+4321,Neural Engineering,3,BIOE498
+4322,Neural Engineering,3,ECE416
+4323,Neural Engineering,3,ECE442
+4324,Neural Engineering,3,ECE459
+4325,Neural Engineering,3,ECE460
+4326,Neural Engineering,3,ECE461
+4327,Neural Engineering,3,ECE467
+4328,Neural Engineering,3,ECE470
+4329,Neural Engineering,3,ECE480
+4330,Neural Engineering,3,ME483
+4331,Neural Engineering,3,PSYC210
+4332,Neural Engineering,3,PSYC404
+4333,Neural Engineering,3,PHYS475
+4334,Nuclear,1,ENG100
+4335,Nuclear,1,NPRE100
+4336,Nuclear,3,ECON102
+4337,Nuclear,3,CHEM102
+4338,Nuclear,1,CHEM103
+4339,Nuclear,4,MATH221
+4340,Nuclear,3,MATH231
+4341,Nuclear,4,MATH241
+4342,Nuclear,3,MATH257
+4343,Nuclear,3,MATH285
+4344,Nuclear,4,PHYS211
+4345,Nuclear,4,PHYS212
+4346,Nuclear,3,CS101
+4347,Nuclear,3,ECE205
+4348,Nuclear,3,ME200
+4349,Nuclear,4,ME310
+4350,Nuclear,2,NPRE200
+4351,Nuclear,3,NPRE247
+4352,Nuclear,3,NPRE321
+4353,Nuclear,3,NPRE330
+4354,Nuclear,2,NPRE349
+4355,Nuclear,4,NPRE441
+4356,Nuclear,4,NPRE445
+4357,Nuclear,3,NPRE449
+4358,Nuclear,3,NPRE451
+4359,Nuclear,4,NPRE455
+4360,Nuclear,4,NPRE458
+4361,Nuclear,2,TAM210
+4362,Nuclear,3,TAM212
+4363,Nutrition and Health,2,RHET105
+4364,Nutrition and Health,2,CMN101
+4365,Nutrition and Health,2,CMN111
+4366,Nutrition and Health,2,CMN112
+4367,Nutrition and Health,3,MATH220
+4368,Nutrition and Health,3,MATH221
+4369,Nutrition and Health,3,MATH234
+4370,Nutrition and Health,3,ACE262
+4371,Nutrition and Health,3,CPSC241
+4372,Nutrition and Health,3,ECON202
+4373,Nutrition and Health,3,PSYC235
+4374,Nutrition and Health,3,STAT100
+4375,Nutrition and Health,2,CHEM102
+4376,Nutrition and Health,2,CHEM103
+4377,Nutrition and Health,2,CHEM104
+4378,Nutrition and Health,2,CHEM105
+4379,Nutrition and Health,3,MCB100
+4380,Nutrition and Health,2,MCB101
+4381,Nutrition and Health,2,ACES101
+4382,Nutrition and Health,3,CHEM232
+4383,Nutrition and Health,2,CHEM233
+4384,Nutrition and Health,3,MCB244
+4385,Nutrition and Health,3,MCB246
+4386,Nutrition and Health,3,MCB450
+4387,Nutrition and Health,3,FSHN101
+4388,Nutrition and Health,3,FSHN120
+4389,Nutrition and Health,3,FSHN329
+4390,Nutrition and Health,3,FSHN417
+4391,Nutrition and Health,3,FSHN420
+4392,Nutrition and Health,3,FSHN422
+4393,Nutrition and Health,3,FSHN424
+4394,Nutrition and Health,3,FSHN426
+4395,Nutrition and Health,3,FSHN427
+4403,Operations Management,3,ACCY201
+4404,Operations Management,3,ACCY202
+4405,Operations Management,3,BUS101
+4406,Operations Management,3,BUS201
+4407,Operations Management,3,BUS301
+4408,Operations Management,3,BUS401
+4409,Operations Management,3,BADM210
+4410,Operations Management,3,BADM211
+4411,Operations Management,3,BADM275
+4412,Operations Management,3,BADM300
+4413,Operations Management,3,BADM310
+4414,Operations Management,3,BADM320
+4415,Operations Management,3,BADM449
+4416,Operations Management,3,CMN101
+4417,Operations Management,3,CS105
+4418,Operations Management,3,ECON102
+4419,Operations Management,3,ECON103
+4420,Operations Management,3,FIN221
+4421,Operations Management,3,MATH115
+4422,Operations Management,3,MATH220
+4423,Operations Management,3,MATH221
+4424,Operations Management,3,MATH231
+4425,Operations Management,3,MATH234
+4426,Operations Management,3,STAT100
+4427,Operations Management,3,BADM335
+4428,Operations Management,3,BADM350
+4429,Operations Management,3,BADM374
+4430,Operations Management,3,BADM375
+4431,Operations Management,3,BADM377
+4432,Operations Management,3,BADM379
+4433,Operations Management,3,BADM311
+4434,Operations Management,3,BADM312
+4435,Operations Management,3,BADM329
+4436,Operations Management,3,BADM336
+4437,Operations Management,3,BADM352
+4438,Operations Management,3,BADM395
+4439,Operations Management,3,BADM353
+4440,Operations Management,4,BADM445
+4441,Operations Management,3,BADM453
+4442,Physics,1,ENG100
+4443,Physics,3,PHYS110
+4444,Physics,4,MATH221
+4445,Physics,3,MATH231
+4446,Physics,4,MATH241
+4447,Physics,3,MATH257
+4448,Physics,3,MATH285
+4449,Physics,4,PHYS211
+4450,Physics,4,PHYS212
+4451,Physics,2,PHYS213
+4452,Physics,2,PHYS214
+4453,Physics,3,CHEM102
+4454,Physics,1,CHEM103
+4455,Physics,3,CS101
+4456,Physics,2,PHYS225
+4457,Physics,3,PHYS325
+4458,Physics,3,PHYS435
+4459,Physics,4,PHYS486
+4460,Physics,3,ASTR210
+4461,Physics,3,ASTR350
+4462,Physics,3,ASTR404
+4463,Physics,3,ASTR405
+4464,Physics,4,ASTR414
+4465,Physics,2,PHYS246
+4466,Physics,3,PHYS326
+4467,Physics,3,PHYS370
+4468,Physics,4,PHYS427
+4469,Physics,3,PHYS436
+4470,Physics,3,PHYS446
+4471,Physics,4,PHYS460
+4472,Physics,4,PHYS470
+4473,Physics,4,PHYS487
+4474,Physics,3,PHYS371
+4475,Physics,3,PHYS401
+4476,Physics,4,PHYS402
+4477,Physics,5,PHYS403
+4478,Physics,5,PHYS404
+4479,Physics,1,TE100
+4480,Physics,1,ENG471
+4481,Physics,3,IE420
+4482,Physics,3,SE400
+4483,Physics,1,TE360
+4484,Physics,4,TE333
+4485,Physics,3,TE461
+4486,Physics,3,TE450
+4487,Physics,2,TE466
+4488,Physics,2,PHYS246
+4489,Physics,3,PHYS326
+4490,Physics,3,PHYS370
+4491,Physics,4,PHYS427
+4492,Physics,3,PHYS436
+4493,Physics,3,PHYS446
+4494,Physics,4,PHYS460
+4495,Physics,4,PHYS470
+4496,Physics,4,PHYS487
+4497,Physics,3,PHYS371
+4498,Physics,3,PHYS401
+4499,Physics,4,PHYS402
+4500,Physics,5,PHYS403
+4501,Physics,5,PHYS404
+4502,Physics,3,CS173
+4503,Physics,4,CS225
+4504,Physics,3,CS357
+4505,Physics,3,CS420
+4506,Physics,3,CS418
+4507,Physics,3,CS450
+4508,Physics,2,PHYS246
+4509,Physics,3,PHYS446
+4510,Physics,3,PHYS326
+4511,Physics,3,PHYS370
+4512,Physics,4,PHYS427
+4513,Physics,3,PHYS436
+4514,Physics,4,PHYS460
+4515,Physics,4,PHYS470
+4516,Physics,4,PHYS487
+4517,Physics,3,PHYS371
+4518,Physics,3,PHYS401
+4519,Physics,4,PHYS402
+4520,Physics,5,PHYS403
+4521,Physics,5,PHYS404
+4522,Physics,3,NPRE402
+4523,Physics,4,PHYS470
+4524,Physics,3,NPRE321
+4525,Physics,3,NPRE421
+4526,Physics,3,NPRE429
+4527,Physics,3,NPRE435
+4528,Physics,4,NPRE441
+4529,Physics,4,NPRE445
+4530,Physics,3,NPRE451
+4531,Physics,4,NPRE455
+4532,Physics,2,PHYS246
+4533,Physics,3,PHYS326
+4534,Physics,3,PHYS370
+4535,Physics,4,PHYS427
+4536,Physics,3,PHYS436
+4537,Physics,3,PHYS446
+4538,Physics,4,PHYS460
+4539,Physics,4,PHYS487
+4540,Physics,3,PHYS371
+4541,Physics,3,PHYS401
+4542,Physics,4,PHYS402
+4543,Physics,5,PHYS403
+4544,Physics,5,PHYS404
+4545,Physics,3,PHYS326
+4546,Physics,4,PHYS427
+4547,Physics,3,PHYS436
+4548,Physics,4,PHYS487
+4549,Physics,3,PHYS371
+4550,Physics,3,PHYS401
+4551,Physics,4,PHYS402
+4552,Physics,5,PHYS403
+4553,Physics,5,PHYS404
+4554,Plant Biotechnology,2,RHET105
+4555,Plant Biotechnology,2,CMN101
+4556,Plant Biotechnology,2,CMN111
+4557,Plant Biotechnology,2,CMN112
+4558,Plant Biotechnology,3,MATH220
+4559,Plant Biotechnology,3,CPSC241
+4560,Plant Biotechnology,2,CHEM102
+4561,Plant Biotechnology,2,CHEM103
+4562,Plant Biotechnology,2,CHEM104
+4563,Plant Biotechnology,2,CHEM105
+4564,Plant Biotechnology,3,ACE100
+4565,Plant Biotechnology,3,ACES101
+4566,Plant Biotechnology,4,IB103
+4567,Plant Biotechnology,4,IB150
+4568,Plant Biotechnology,3,MCB450
+4569,Plant Biotechnology,2,CPSC102
+4570,Plant Biotechnology,4,CPSC112
+4571,Plant Biotechnology,4,CPSC382
+4572,Plant Biotechnology,3,CPSC393
+4573,Plant Biotechnology,3,CPSC395
+4574,Plant Biotechnology,1,CPSC498
+4575,Plant Biotechnology,3,CPSC261
+4576,Plant Biotechnology,3,CPSC265
+4577,Plant Biotechnology,4,CPSC352
+4578,Plant Biotechnology,3,CPSC452
+4579,Plant Biotechnology,4,CPSC266
+4580,Plant Biotechnology,3,CPSC270
+4581,Secondary Education,1,EDUC101
+4582,Secondary Education,2,RHET101
+4583,Secondary Education,2,RHET102
+4584,Secondary Education,2,CMN111
+4585,Secondary Education,2,CMN112
+4586,Secondary Education,2,ESL111
+4587,Secondary Education,2,ESL112
+4588,Secondary Education,3,ESL115
+4589,Secondary Education,3,CI401
+4590,Secondary Education,3,CI403
+4591,Secondary Education,3,CI404
+4592,Secondary Education,2,CI473
+4593,Secondary Education,2,EDPR442
+4594,Secondary Education,3,EDUC201
+4595,Secondary Education,3,EDUC202
+4596,Secondary Education,3,EPSY201
+4597,Secondary Education,3,EPSY485
+4598,Secondary Education,3,SPED405
+4599,Special Education,1,EDUC101
+4600,Special Education,3,SPED117
+4601,Special Education,3,PSYC100
+4602,Special Education,3,PSYC103
+4603,Special Education,3,EDUC201
+4604,Special Education,3,EDUC202
+4605,Special Education,3,PSYC216
+4606,Special Education,3,EPSY201
+4607,Special Education,3,HDFS105
+4608,Special Education,3,SHS320
+4609,Special Education,4,EDPR250
+4610,Special Education,6,EDPR420
+4611,Special Education,6,EDPR420
+4612,Special Education,6,EDPR420
+4613,Special Education,4,CI431
+4614,Special Education,4,CI475
+4615,Special Education,3,SPED317
+4616,Special Education,3,SPED424
+4617,Special Education,3,SPED426
+4618,Special Education,2,SPED431
+4619,Special Education,3,SPED438
+4620,Special Education,4,SPED440
+4621,Special Education,4,SPED441
+4622,Special Education,3,SPED444
+4623,Special Education,4,SPED446
+4624,Special Education,4,SPED447
+4625,Special Education,4,SPED448
+4626,Special Education,3,SPED461
+4627,Special Education,3,SPED470
+4628,Special Education,3,SPED471
+4629,Strategy,3,ACCY201
+4630,Strategy,3,ACCY202
+4631,Strategy,3,BUS101
+4632,Strategy,3,BUS201
+4633,Strategy,3,BUS301
+4634,Strategy,3,BUS401
+4635,Strategy,3,BADM210
+4636,Strategy,3,BADM211
+4637,Strategy,3,BADM275
+4638,Strategy,3,BADM300
+4639,Strategy,3,BADM310
+4640,Strategy,3,BADM320
+4641,Strategy,3,BADM449
+4642,Strategy,3,CMN101
+4643,Strategy,3,CS105
+4644,Strategy,3,ECON102
+4645,Strategy,3,ECON103
+4646,Strategy,3,FIN221
+4647,Strategy,3,MATH115
+4648,Strategy,3,MATH220
+4649,Strategy,3,MATH221
+4650,Strategy,3,MATH231
+4651,Strategy,3,MATH234
+4652,Strategy,3,STAT100
+4653,Strategy,3,BADM341
+4654,Strategy,3,BADM346
+4655,Strategy,3,BADM367
+4656,Strategy,4,BADM446
+4657,Strategy,3,BADM311
+4658,Strategy,3,BADM312
+4659,Strategy,3,BADM313
+4660,Strategy,3,BADM314
+4661,Strategy,3,BADM322
+4662,Strategy,3,BADM323
+4663,Strategy,3,BADM329
+4664,Strategy,3,BADM335
+4665,Strategy,3,BADM350
+4666,Strategy,3,BADM351
+4667,Strategy,3,BADM359
+4668,Strategy,3,BADM360
+4669,Strategy,3,BADM366
+4670,Strategy,3,BADM375
+4671,Strategy,3,BADM377
+4672,Strategy,3,BADM383
+4673,Strategy,3,BADM420
+4674,Strategy,4,BADM447
+4675,Strategy,3,FIN423
+4676,Strategy,3,FIN424
+4677,Strategy,3,FIN425
+4678,Strategy,3,FIN433
+4679,Strategy,3,FIN464
+4680,Strategy,3,DTX451
+4681,Strategy,3,DTX455
+4682,Strategy,3,BADM331
+4683,Strategy,3,BADM357
+4684,Strategy,3,BADM420
+4685,Strategy,4,BADM445
+4686,Strategy,3,BADM463
+4687,Strategy,3,BADM464
+4688,Strategy,3,SOCW321
+4689,Strategy,3,SOCW445
+4690,Strategy,3,FIN422
+4691,Strategy,2,FIN490
+4692,Supply Chain Management,3,ACCY201
+4693,Supply Chain Management,3,ACCY202
+4694,Supply Chain Management,3,BUS101
+4695,Supply Chain Management,3,BUS201
+4696,Supply Chain Management,3,BUS301
+4697,Supply Chain Management,3,BUS401
+4698,Supply Chain Management,3,BADM210
+4699,Supply Chain Management,3,BADM211
+4700,Supply Chain Management,3,BADM275
+4701,Supply Chain Management,3,BADM300
+4702,Supply Chain Management,3,BADM310
+4703,Supply Chain Management,3,BADM320
+4704,Supply Chain Management,3,BADM449
+4705,Supply Chain Management,3,CMN101
+4706,Supply Chain Management,3,CS105
+4707,Supply Chain Management,3,ECON102
+4708,Supply Chain Management,3,ECON103
+4709,Supply Chain Management,3,FIN221
+4710,Supply Chain Management,3,MATH115
+4711,Supply Chain Management,3,MATH220
+4712,Supply Chain Management,3,MATH221
+4713,Supply Chain Management,3,MATH231
+4714,Supply Chain Management,3,MATH234
+4715,Supply Chain Management,3,STAT100
+4716,Supply Chain Management,3,BADM324
+4717,Supply Chain Management,3,BADM335
+4718,Supply Chain Management,3,BADM336
+4719,Supply Chain Management,3,BADM337
+4720,Supply Chain Management,3,BADM338
+4721,Supply Chain Management,3,BADM350
+4722,Supply Chain Management,3,BADM375
+4723,Supply Chain Management,3,BADM378
+4724,Supply Chain Management,3,BADM312
+4725,Supply Chain Management,3,BADM322
+4726,Supply Chain Management,3,BADM325
+4727,Supply Chain Management,3,BADM327
+4728,Supply Chain Management,3,BADM329
+4729,Supply Chain Management,3,BADM331
+4730,Supply Chain Management,3,BADM357
+4731,Supply Chain Management,3,BADM366
+4732,Supply Chain Management,3,BADM367
+4733,Supply Chain Management,3,BADM374
+4734,Supply Chain Management,3,BADM377
+4735,Supply Chain Management,3,BADM379
+4736,Supply Chain Management,3,BADM453
+4737,Sustainability in Food & Environmental Systems,3,RHET105
+4738,Sustainability in Food & Environmental Systems,3,CMN101
+4739,Sustainability in Food & Environmental Systems,3,ACES101
+4740,Sustainability in Food & Environmental Systems,3,ACES102
+4741,Sustainability in Food & Environmental Systems,4,ACE100
+4742,Sustainability in Food & Environmental Systems,3,FSHN101
+4743,Sustainability in Food & Environmental Systems,3,HORT100
+4744,Sustainability in Food & Environmental Systems,3,NRES100
+4745,Sustainability in Food & Environmental Systems,3,ACE255
+4746,Sustainability in Food & Environmental Systems,3,ACES199
+4747,Sustainability in Food & Environmental Systems,3,ACE203
+4748,Sustainability in Food & Environmental Systems,3,ACE306
+4749,Sustainability in Food & Environmental Systems,3,ACE403
+4750,Sustainability in Food & Environmental Systems,3,ACE406
+4751,Sustainability in Food & Environmental Systems,3,NRES325
+4752,Sustainability in Food & Environmental Systems,3,ABE232
+4753,Sustainability in Food & Environmental Systems,3,ACE210
+4754,Sustainability in Food & Environmental Systems,3,CPSC431
+4755,Sustainability in Food & Environmental Systems,3,HDFS220
+4756,Sustainability in Food & Environmental Systems,3,LEAD340
+4757,Sustainability in Food & Environmental Systems,3,NRES105
+4758,Sustainability in Food & Environmental Systems,3,NRES224
+4759,Sustainability in Food & Environmental Systems,3,NRES287
+4760,Sustainability in Food & Environmental Systems,3,ABE152
+4761,Sustainability in Food & Environmental Systems,4,ANSC100
+4762,Sustainability in Food & Environmental Systems,3,ANSC101
+4763,Sustainability in Food & Environmental Systems,3,ANSC110
+4764,Sustainability in Food & Environmental Systems,3,ANSC205
+4765,Sustainability in Food & Environmental Systems,3,ANSC251
+4766,Sustainability in Food & Environmental Systems,3,ANSC255
+4767,Sustainability in Food & Environmental Systems,3,ANSC305
+4768,Sustainability in Food & Environmental Systems,3,CPSC116
+4769,Sustainability in Food & Environmental Systems,3,CPSC416
+4771,Sustainability in Food & Environmental Systems,3,FSHN175
+4772,Sustainability in Food & Environmental Systems,2,FSHN231
+4773,Sustainability in Food & Environmental Systems,3,FSHN232
+4774,Sustainability in Food & Environmental Systems,3,FSHN465
+4775,Sustainability in Food & Environmental Systems,3,HORT205
+4776,Sustainability in Food & Environmental Systems,3,HORT435
+4777,Sustainability in Food & Environmental Systems,3,PLPA200
+4778,Sustainability in Food & Environmental Systems,3,ACE251
+4779,Sustainability in Food & Environmental Systems,3,ACE310
+4780,Sustainability in Food & Environmental Systems,3,ACE335
+4781,Sustainability in Food & Environmental Systems,3,ACE476
+4782,Sustainability in Food & Environmental Systems,3,AGCM330
+4784,Sustainability in Food & Environmental Systems,3,FSHN193
+4785,Sustainability in Food & Environmental Systems,3,FSHN320
+4786,Sustainability in Food & Environmental Systems,3,FSHN425
+4787,Sustainability in Food & Environmental Systems,3,HDFS330
+4788,Sustainability in Food & Environmental Systems,4,NRES472
+4789,Sustainable Design,1,FAA101
+4790,Sustainable Design,3,FAA230
+4791,Sustainable Design,2,LA101
+4792,Sustainable Design,3,ARCH171
+4793,Sustainable Design,3,ARCH172
+4794,Sustainable Design,3,FAA201
+4795,Sustainable Design,3,ARTH211
+4796,Sustainable Design,3,UP136
+4797,Sustainable Design,3,UP205
+4798,Sustainable Design,3,ARCH237
+4799,Sustainable Design,3,ARTD225
+4800,Sustainable Design,3,ARTF102
+4801,Sustainable Design,3,ARTF103
+4802,Sustainable Design,3,LA280
+4803,Sustainable Design,5,FAA330
+4804,Sustainable Design,3,ARTD326
+4805,Sustainable Design,3,ARCH321
+4806,Sustainable Design,4,ARTD451
+4807,Sustainable Design,3,FAA430
+4808,Sustainable Design,5,FAA431
+4809,Sustainable Design,3,ARTD230
+4810,Sustainable Design,2,ARTD270
+4811,Sustainable Design,3,ART205
+4812,Sustainable Design,3,ART208
+4813,Sustainable Design,3,ART310
+4814,Sustainable Design,3,ARTJ398
+4815,Sustainable Design,3,ARTD426
+4816,Sustainable Design,3,ARTS321
+4817,Sustainable Design,3,UP203
+4818,Sustainable Design,3,UP204
+4819,Sustainable Design,3,UP205
+4820,Sustainable Design,3,UP246
+4821,Sustainable Design,3,UP340
+4822,Sustainable Design,4,UP405
+4823,Sustainable Design,4,UP406
+4824,Sustainable Design,4,UP418
+4825,Sustainable Design,4,UP420
+4826,Sustainable Design,4,UP430
+4827,Sustainable Design,3,UP434
+4828,Sustainable Design,3,UP437
+4829,Sustainable Design,4,UP456
+4830,Sustainable Design,3,UP479
+4831,Sustainable Design,4,UP486
+4832,Sustainable Design,1,UP494
+4833,Sustainable Design,3,ARCH210
+4834,Sustainable Design,4,ARCH231
+4835,Sustainable Design,3,ARCH237
+4836,Sustainable Design,3,ARCH273
+4837,Sustainable Design,3,ARCH416
+4838,Sustainable Design,3,ARCH417
+4839,Sustainable Design,3,LA222
+4840,Sustainable Design,4,LA314
+4841,Sustainable Design,3,LA370
+4842,Sustainable Design,4,LA446
+4843,Sustainable Design,4,LA466
+4844,Sustainable Design,2,LA480
+4845,Sustainable Design,1,FAA491
+4846,Systems Engineering & Design,1,ENG100
+4847,Systems Engineering & Design,1,SE100
+4848,Systems Engineering & Design,3,SE290
+4849,Systems Engineering & Design,3,ECON102
+4850,Systems Engineering & Design,3,CHEM102
+4851,Systems Engineering & Design,1,CHEM103
+4852,Systems Engineering & Design,4,MATH221
+4853,Systems Engineering & Design,3,MATH231
+4854,Systems Engineering & Design,4,MATH241
+4855,Systems Engineering & Design,3,MATH257
+4856,Systems Engineering & Design,3,MATH285
+4857,Systems Engineering & Design,4,PHYS211
+4858,Systems Engineering & Design,4,PHYS212
+4859,Systems Engineering & Design,2,PHYS213
+4860,Systems Engineering & Design,3,CS101
+4861,Systems Engineering & Design,3,ECE110
+4862,Systems Engineering & Design,2,ECE211
+4863,Systems Engineering & Design,3,IE300
+4864,Systems Engineering & Design,3,IE310
+4865,Systems Engineering & Design,3,SE101
+4866,Systems Engineering & Design,2,SE261
+4867,Systems Engineering & Design,3,SE310
+4868,Systems Engineering & Design,3,SE311
+4869,Systems Engineering & Design,1,SE312
+4870,Systems Engineering & Design,4,SE320
+4871,Systems Engineering & Design,3,SE424
+4872,Systems Engineering & Design,3,SE494
+4873,Systems Engineering & Design,2,SE495
+4874,Systems Engineering & Design,3,TAM211
+4875,Systems Engineering & Design,3,TAM212
+4876,Systems Engineering & Design,3,TAM251
+4877,Systems Engineering & Design,4,TAM335
+4878,Systems Engineering & Design,4,ECE470
+4879,Systems Engineering & Design,4,ECE486
+4880,Systems Engineering & Design,4,ME460
+4881,Systems Engineering & Design,4,TAM412
+4882,Systems Engineering & Design,4,TAM416
+4883,Systems Engineering & Design,4,ECE431
+4884,Systems Engineering & Design,3,ECE464
+4885,Systems Engineering & Design,3,ME400
+4886,Systems Engineering & Design,3,ME403
+4887,Systems Engineering & Design,3,CS173
+4888,Systems Engineering & Design,3,CS440
+4889,Systems Engineering & Design,3,CS446
+4890,Systems Engineering & Design,4,ME320
+4891,Systems Engineering & Design,3,ME360
+4892,Systems Engineering & Design,3,ME461
+4893,Systems Engineering & Design,3,SE400
+4894,Systems Engineering & Design,4,SE422
+4895,Systems Engineering & Design,1,SE497
+4896,Systems Engineering & Design,3,CS173
+4897,Systems Engineering & Design,4,CS225
+4898,Systems Engineering & Design,3,CS440
+4899,Systems Engineering & Design,3,CS446
+4900,Systems Engineering & Design,4,ECE470
+4901,Systems Engineering & Design,4,ECE486
+4902,Systems Engineering & Design,3,ECE490
+4903,Systems Engineering & Design,3,ME270
+4904,Systems Engineering & Design,3,ME461
+4905,Systems Engineering & Design,3,SE400
+4906,Systems Engineering & Design,3,SE411
+4907,Systems Engineering & Design,4,SE420
+4908,Systems Engineering & Design,4,SE422
+4909,Systems Engineering & Design,3,SE423
+4910,Systems Engineering & Design,1,BIOE120
+4911,Systems Engineering & Design,3,BIOE414
+4912,Systems Engineering & Design,2,BIOE415
+4913,Systems Engineering & Design,3,BIOE498
+4914,Systems Engineering & Design,3,BIOP401
+4915,Systems Engineering & Design,3,CHEM232
+4916,Systems Engineering & Design,2,CHEM233
+4917,Systems Engineering & Design,3,HK353
+4918,Systems Engineering & Design,4,IE340
+4919,Systems Engineering & Design,4,MCB150
+4920,Systems Engineering & Design,3,MCB250
+4921,Systems Engineering & Design,2,MCB251
+4922,Systems Engineering & Design,3,MCB401
+4923,Systems Engineering & Design,3,MCB402
+4924,Systems Engineering & Design,3,MCB450
+4925,Systems Engineering & Design,3,SE400
+4926,Systems Engineering & Design,3,SE400
+4927,Systems Engineering & Design,3,BADM352
+4928,Systems Engineering & Design,3,BADM353
+4929,Systems Engineering & Design,3,IE405
+4930,Systems Engineering & Design,3,ACCY200
+4931,Systems Engineering & Design,3,ACCY201
+4932,Systems Engineering & Design,3,ACCY202
+4933,Systems Engineering & Design,3,ADV150
+4934,Systems Engineering & Design,3,BADM310
+4935,Systems Engineering & Design,3,BADM311
+4936,Systems Engineering & Design,3,BADM312
+4937,Systems Engineering & Design,3,BADM320
+4938,Systems Engineering & Design,4,BADM445
+4939,Systems Engineering & Design,4,BADM446
+4940,Systems Engineering & Design,3,BTW250
+4941,Systems Engineering & Design,3,BTW261
+4942,Systems Engineering & Design,3,FIN221
+4943,Systems Engineering & Design,3,FIN300
+4944,Systems Engineering & Design,3,IE420
+4945,Systems Engineering & Design,3,CEE380
+4946,Systems Engineering & Design,3,CEE460
+4947,Systems Engineering & Design,3,CEE461
+4948,Systems Engineering & Design,3,CEE462
+4949,Systems Engineering & Design,3,CEE463
+4950,Systems Engineering & Design,3,CEE465
+4951,Systems Engineering & Design,3,SE400
+4952,Systems Engineering & Design,3,CS173
+4953,Systems Engineering & Design,4,CS225
+4954,Systems Engineering & Design,3,CS410
+4955,Systems Engineering & Design,3,CS411
+4956,Systems Engineering & Design,3,CS425
+4957,Systems Engineering & Design,3,CS438
+4958,Systems Engineering & Design,3,SE400
+4959,Systems Engineering & Design,4,CEE300
+4960,Systems Engineering & Design,3,CEE310
+4961,Systems Engineering & Design,3,CEE320
+4962,Systems Engineering & Design,3,CEE380
+4963,Systems Engineering & Design,3,CEE420
+4964,Systems Engineering & Design,3,CEE421
+4965,Systems Engineering & Design,3,CEE422
+4966,Systems Engineering & Design,3,CEE460
+4967,Systems Engineering & Design,3,CEE461
+4968,Systems Engineering & Design,3,CEE465
+4969,Systems Engineering & Design,4,ME330
+4970,Systems Engineering & Design,3,SE400
+4971,Systems Engineering & Design,3,CS173
+4972,Systems Engineering & Design,4,ECE470
+4973,Systems Engineering & Design,4,ECE486
+4974,Systems Engineering & Design,3,ECE490
+4975,Systems Engineering & Design,3,IE410
+4976,Systems Engineering & Design,3,MATH444
+4977,Systems Engineering & Design,3,MATH461
+4978,Systems Engineering & Design,3,MATH464
+4979,Systems Engineering & Design,3,ME360
+4980,Systems Engineering & Design,4,ME460
+4981,Systems Engineering & Design,3,ME461
+4982,Systems Engineering & Design,3,SE400
+4983,Systems Engineering & Design,4,SE420
+4984,Systems Engineering & Design,4,SE422
+4985,Systems Engineering & Design,3,SE423
+4986,Systems Engineering & Design,3,ME270
+4987,Systems Engineering & Design,3,ME451
+4988,Systems Engineering & Design,3,ME452
+4989,Systems Engineering & Design,3,ME471
+4990,Systems Engineering & Design,3,SE400
+4991,Systems Engineering & Design,3,SE402
+4992,Systems Engineering & Design,3,SE410
+4993,Systems Engineering & Design,3,SE413
+4994,Systems Engineering & Design,3,SE423
+4995,Systems Engineering & Design,3,TAM470
+4996,Systems Engineering & Design,3,SE400
+4997,Systems Engineering & Design,3,ACCY200
+4998,Systems Engineering & Design,3,ACCY201
+4999,Systems Engineering & Design,3,ACCY202
+5000,Systems Engineering & Design,3,ADV150
+5001,Systems Engineering & Design,3,BADM310
+5002,Systems Engineering & Design,3,BADM311
+5003,Systems Engineering & Design,3,BADM312
+5004,Systems Engineering & Design,3,BADM313
+5005,Systems Engineering & Design,3,BADM375
+5006,Systems Engineering & Design,3,BADM380
+5007,Systems Engineering & Design,3,BADM381
+5008,Systems Engineering & Design,3,BTW250
+5009,Systems Engineering & Design,3,BTW261
+5010,Systems Engineering & Design,3,ECON302
+5011,Systems Engineering & Design,3,FIN221
+5012,Systems Engineering & Design,3,IE330
+5013,Systems Engineering & Design,4,IE340
+5014,Systems Engineering & Design,3,IE361
+5015,Systems Engineering & Design,3,IE420
+5016,Systems Engineering & Design,3,IE445
+5017,Systems Engineering & Design,3,PS321
+5018,Systems Engineering & Design,3,SE411
+5019,Systems Engineering & Design,3,SE400
+5020,Systems Engineering & Design,3,ACCY200
+5021,Systems Engineering & Design,3,ACCY201
+5022,Systems Engineering & Design,3,ACCY202
+5023,Systems Engineering & Design,3,ADV150
+5024,Systems Engineering & Design,3,BADM310
+5025,Systems Engineering & Design,3,BADM320
+5026,Systems Engineering & Design,3,BADM322
+5027,Systems Engineering & Design,3,BADM323
+5028,Systems Engineering & Design,3,BADM325
+5029,Systems Engineering & Design,3,BADM327
+5030,Systems Engineering & Design,3,BADM380
+5031,Systems Engineering & Design,3,BADM382
+5032,Systems Engineering & Design,3,BADM420
+5033,Systems Engineering & Design,3,BTW250
+5034,Systems Engineering & Design,3,BTW261
+5035,Systems Engineering & Design,3,PSYC245
+5036,Systems Engineering & Design,3,ACE310
+5037,Systems Engineering & Design,3,CEE330
+5038,Systems Engineering & Design,3,CEE437
+5039,Systems Engineering & Design,4,CEE440
+5040,Systems Engineering & Design,4,CEE442
+5041,Systems Engineering & Design,4,CEE443
+5042,Systems Engineering & Design,4,CEE444
+5043,Systems Engineering & Design,3,ENVS336
+5044,Systems Engineering & Design,3,IB105
+5045,Systems Engineering & Design,3,NRES419
+5046,Systems Engineering & Design,4,NRES472
+5047,Systems Engineering & Design,3,SE400
+5048,Systems Engineering & Design,3,IE370
+5049,Systems Engineering & Design,4,ME330
+5050,Systems Engineering & Design,3,SE400
+5051,Systems Engineering & Design,3,SE402
+5052,Systems Engineering & Design,4,SE420
+5053,Systems Engineering & Design,4,SE422
+5054,Systems Engineering & Design,3,SE423
+5055,Systems Engineering & Design,3,SE412
+5056,Systems Engineering & Design,4,CEE300
+5057,Systems Engineering & Design,3,CS173
+5058,Systems Engineering & Design,4,CS225
+5059,Systems Engineering & Design,3,CS440
+5060,Systems Engineering & Design,3,CS446
+5061,Systems Engineering & Design,4,ECE470
+5062,Systems Engineering & Design,3,ECE473
+5063,Systems Engineering & Design,3,ME270
+5064,Systems Engineering & Design,3,ME471
+5065,Systems Engineering & Design,3,SE400
+5066,Systems Engineering & Design,4,TAM412
+5067,Systems Engineering & Design,3,TAM456
+5068,Systems Engineering & Design,3,IE360
+5069,Systems Engineering & Design,3,IE361
+5070,Systems Engineering & Design,3,IE370
+5071,Systems Engineering & Design,3,IE400
+5072,Systems Engineering & Design,3,IE410
+5073,Systems Engineering & Design,3,IE411
+5074,Systems Engineering & Design,3,MATH461
+5075,Systems Engineering & Design,3,MATH464
+5076,Systems Engineering & Design,3,ME451
+5077,Systems Engineering & Design,3,SE400
+5078,Systems Engineering & Design,3,SE411
+5079,Systems Engineering & Design,3,CHEM232
+5080,Systems Engineering & Design,3,ECE414
+5081,Systems Engineering & Design,2,ECE415
+5082,Systems Engineering & Design,4,MCB150
+5083,Systems Engineering & Design,3,MCB250
+5084,Systems Engineering & Design,2,MCB251
+5085,Systems Engineering & Design,3,SE400
+5086,Systems Engineering & Design,4,CEE300
+5087,Systems Engineering & Design,3,ME471
+5088,Systems Engineering & Design,3,SE400
+5089,Systems Engineering & Design,4,TAM412
+5090,Systems Engineering & Design,3,TAM424
+5091,Systems Engineering & Design,3,TAM428
+5092,Systems Engineering & Design,4,TAM435
+5093,Systems Engineering & Design,4,TAM445
+5094,Systems Engineering & Design,4,TAM451
+5095,Systems Engineering & Design,3,TAM456
+5096,Systems Engineering & Design,3,SE410
+5097,Systems Engineering & Design,4,SE420
+5098,Systems Engineering & Design,3,SE423
+5099,Systems Engineering & Design,3,SE413
+5100,Systems Engineering & Design,3,ME200
+5101,Systems Engineering & Design,3,MSE280
+5102,Teaching - Middle Grades Education,1,EDUC101
+5103,Teaching - Middle Grades Education,3,CI404
+5104,Teaching - Middle Grades Education,3,CI410
+5105,Teaching - Middle Grades Education,3,CI415
+5106,Teaching - Middle Grades Education,3,CI467
+5107,Teaching - Middle Grades Education,3,CI471
+5108,Teaching - Middle Grades Education,3,CI476
+5109,Teaching - Middle Grades Education,4,EDPR250
+5110,Teaching - Middle Grades Education,1,EDPR442
+5111,Teaching - Middle Grades Education,3,EDUC201
+5112,Teaching - Middle Grades Education,3,EDUC202
+5113,Teaching - Middle Grades Education,3,EPSY201
+5114,Teaching - Middle Grades Education,3,EPSY430
+5115,Teaching - Middle Grades Education,3,SPED405

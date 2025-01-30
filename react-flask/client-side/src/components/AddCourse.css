@@ -1,0 +1,74 @@
+/* Styling specific to the AddCourse component */
+#add-course-container {
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Styling for the heading */
+  #add-course-container h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  /* Styling for the labels */
+  #add-course-container label {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #555;
+  }
+  
+  /* Styling for input fields and the dropdown */
+  #add-course-container input[type="text"],
+  #add-course-container select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: #fff;
+    box-sizing: border-box;
+  }
+  
+  /* Styling for the submit button */
+  #add-course-container input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  /* Hover effect for the submit button */
+  #add-course-container input[type="submit"]:hover {
+    background-color: darkblue;
+  }
+  
+  /* Responsive design for smaller screens */
+  @media (max-width: 600px) {
+    #add-course-container {
+      padding: 15px;
+    }
+  
+    #add-course-container input[type="text"],
+    #add-course-container select {
+      font-size: 14px;
+    }
+  
+    #add-course-container input[type="submit"] {
+      font-size: 14px;
+    }
+  }
+  
