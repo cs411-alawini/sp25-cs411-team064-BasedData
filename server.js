@@ -1,0 +1,115 @@
+const express = require('express');
+const mysql = require('mysql2');
+const path = require('path');
+
+const app = express();
+const port = 80;
+
+const connection = mysql.createConnection({
+  host: '34.170.179.247',
+  user: 'joey',
+  password: 'password',
+  database: 'MedMatch'
+});
+
+connection.connect((err) => {
+  if (err) {
+    console.error('Database connection failed:', err.stack);
+    return;
+  }
+  console.log('Connected to MySQL (MedMatch)');
+});
+
+// Middleware
+app.use(express.urlencoded({ extended: true }));
+app.use(express.static(path.join(__dirname, 'public')));
+
+// Set up EJS view engine
+app.set('views', path.join(__dirname, 'views'));
+app.set('view engine', 'ejs');
+
+// Routes
+
+// Home page with form
+app.get('/', (req, res) => {
+  res.render('index', { title: 'Add User' });
+});
+
+// Handle form submission
+app.post('/submit', (req, res) => {
+  // Include symptoms in the destructuring so it can be used
+  const { name, age, gender, symptoms } = req.body;
+
+  const symptomList = symptoms
+    .split(',')
+    .map(item => item.trim().toLowerCase())
+    .filter(item => item.length > 0);
+
+  const sql = 'INSERT INTO USERS (Username, Age, Gender) VALUES (?, ?, ?)';
+  connection.query(sql, [name, age, gender], (err, result) => {
+    if (err) {
+      console.error('Error inserting into USERS:', err);
+      return res.status(500).send('Database error');
+    }
+    const userId = result.insertId;
+
+    // If symptoms were provided, proceed to match them with diseases.
+    if (symptomList.length > 0) {
+      // Create placeholders for parameterized query matching on each symptom.
+      const placeholders = symptomList.map(() => '?').join(', ');
+
+      // SQL query that joins DISEASES, DISEASE_SYMPTOM, and SYMPTOMS,
+      // then counts the number of matches per disease.
+      const sqlDiseaseMatch = `
+        SELECT d.Disease_ID, d.Disease_Name, COUNT(*) AS match_count
+        FROM DISEASES d
+        JOIN DISEASE_SYMPTOM ds ON d.Disease_ID = ds.Disease_ID
+        JOIN SYMPTOMS s ON s.Symptom_ID = ds.Symptom_ID
+        WHERE LOWER(s.Symptom_Name) IN (${placeholders})
+        GROUP BY d.Disease_ID, d.Disease_Name
+        ORDER BY match_count DESC;
+      `;
+
+      connection.query(sqlDiseaseMatch, symptomList, (err2, diseaseResults) => {
+        if (err2) {
+          console.error('Error matching diseases:', err2);
+          return res.status(500).send('Database error');
+        }
+        // Render the diagnosis view with the matching results.
+        res.render('diagnosis', {
+          user: { userId, name },
+          diseases: diseaseResults,
+          inputSymptoms: symptomList
+        });
+      });
+    } else {
+      res.redirect('/thanks');
+    }
+  });
+});
+
+// Thank you page
+app.get('/thanks', (req, res) => {
+  res.send('<h1>Thanks for submitting!</h1><a href="/">Go back</a>');
+});
+
+// Route to delete a user by ID
+app.get('/delete/:id', (req, res) => {
+  const userId = req.params.id;
+
+  // Delete the user from USERS table
+  const sqlDelete = 'DELETE FROM USERS WHERE User_ID = ?';
+  connection.query(sqlDelete, [userId], (err, result) => {
+    if (err) {
+      console.error('Error deleting user:', err);
+      return res.status(500).send('Database error');
+    }
+    res.send(`<h1>Your account has been deleted.</h1><a href="/">Go back</a>`);
+  });
+});
+
+// Start server
+app.listen(port, () => {
+  console.log(`Server running at http://localhost:${port}`);
+});
+

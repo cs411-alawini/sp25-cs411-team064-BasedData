@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title><%= title %></title>
+</head>
+<body>
+  <h1><%= title %></h1>
+
+  <form action="/submit" method="POST">
+    <label for="name">Name:</label>
+    <input type="text" name="name" id="name" required><br><br>
+
+    <label for="age">Age:</label>
+    <input type="number" name="age" id="age" required><br><br>
+
+    <label for="gender">Gender:</label>
+    <select name="gender" id="gender" required>
+      <option value="">Select</option>
+      <option value="Male">Male</option>
+      <option value="Female">Female</option>
+      <option value="Other">Other</option>
+    </select><br><br>
+
+
+    <label for="symptoms">Symptoms (comma-separated):</label>
+    <input type="text" name="symptoms" id="symptoms" placeholder="e.g., headache, fever, nausea" required><br><br>
+
+    <button type="submit">Submit</button>
+  </form>
+</body>
+</html>
