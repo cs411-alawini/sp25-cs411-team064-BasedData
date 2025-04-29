@@ -1,23 +1,30 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Diagnosis</title>
+  <title>Possible Diseases</title>
 </head>
 <body>
-  <h1>Diagnosis for <%= user.name %></h1>
-  <p>You reported the following symptoms: <%= inputSymptoms.join(', ') %></p>
+  <h1>Possible Diseases Based on Your Symptoms</h1>
+
   <% if (diseases.length > 0) { %>
-    <h2>Possible Diseases:</h2>
     <ul>
-      <% diseases.forEach(disease => { %>
+      <% diseases.forEach(function(disease) { %>
         <li>
-          <strong><%= disease.Disease_Name %></strong> - Matches: <%= disease.match_count %>
+          <strong><%= disease.Disease_Name %></strong> 
+          (Matched Symptoms: <%= disease.match_count %>)
+          <form action="/select-disease/<%= disease.Disease_ID %>/<%= userId %>" method="GET" style="display:inline;">
+            <button type="submit">View Treatments</button>
+          </form>
         </li>
-      <% }); %>
+      <% }) %>
     </ul>
   <% } else { %>
-    <p>No matching diseases found. Please consult a healthcare professional.</p>
+    <p>No diseases matched your symptoms. Try again.</p>
   <% } %>
-  <a href="/delete/<%= user.userId %>" onclick="return confirm('Are you sure you want to delete your data?');">Delete My Data</a>
+
+  <br>
+  <a href="/home/<%= userId %>">Back to Home</a> |
+  <a href="/delete/<%= userId %>">Delete My Account</a>
 </body>
 </html>
+
