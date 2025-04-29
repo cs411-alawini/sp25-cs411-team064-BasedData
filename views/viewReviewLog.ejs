@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Review Log</title>
+</head>
+<body>
+  <h1>Review Activity Log</h1>
+
+  <% if (logs.length > 0) { %>
+    <ul>
+      <% logs.forEach(function(log) { %>
+        <li>
+          Review ID: <%= log.Review_ID %> |
+          User ID: <%= log.User_ID %> |
+          Drug ID: <%= log.Drug_ID %> |
+          Created At: <%= log.Created_At %>
+        </li><br>
+      <% }) %>
+    </ul>
+  <% } else { %>
+    <p>No review logs found yet.</p>
+  <% } %>
+
+  <br>
+  <a href="/home/<%= userId %>">Back to Home</a> |
+  <a href="/delete/<%= userId %>">Delete My Account</a>
+</body>
+</html>

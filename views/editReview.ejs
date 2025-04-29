@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Edit Your Review</title>
+</head>
+<body>
+  <h1>Edit Your Review for <%= review.Drug_Name %></h1>
+
+  <form action="/edit-review/<%= review.Review_ID %>/<%= userId %>" method="POST">
+    <label for="rating">Rating (1-5):</label><br>
+    <input type="number" id="rating" name="rating" min="1" max="5" value="<%= review.Rating %>" required><br><br>
+
+    <label for="comment">Comment:</label><br>
+    <textarea id="comment" name="comment" rows="4" cols="50" required><%= review.Comment %></textarea><br><br>
+
+    <button type="submit">Update Review</button>
+  </form>
+
+  <br>
+  <a href="/home/<%= userId %>">Return to Home</a> |
+  <a href="/delete/<%= userId %>">Delete My Account</a>
+</body>
+</html>

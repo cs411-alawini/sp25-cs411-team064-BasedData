@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Drug Details</title>
+</head>
+<body>
+  <h1><%= drug.Name %> (Type: <%= drug.Type %>)</h1>
+
+  <h2>Treats These Diseases:</h2>
+  <% if (diseases.length > 0) { %>
+    <ul>
+      <% diseases.forEach(function(disease) { %>
+        <li><%= disease.Disease_Name %></li>
+      <% }) %>
+    </ul>
+  <% } else { %>
+    <p>No diseases found for this drug.</p>
+  <% } %>
+
+  <br>
+
+  <h2>Reviews:</h2>
+  <% if (reviews.length > 0) { %>
+    <ul>
+      <% reviews.forEach(function(review) { %>
+        <li>
+          <strong>User:</strong> <%= review.Username %><br>
+          <strong>Rating:</strong> <%= review.Rating %>/5<br>
+          <strong>Comment:</strong> <%= review.Comment %><br><br>
+
+          <% if (review.User_ID == userId) { %> <!-- Only show Edit if user owns it -->
+            <a href="/edit-review/<%= review.Review_ID %>/<%= userId %>">Edit My Review</a>
+          <% } %>
+        </li><br>
+      <% }) %>
+    </ul>
+  <% } else { %>
+    <p>No reviews yet for this drug.</p>
+  <% } %>
+
+  <br>
+
+  <a href="/review/<%= drug.Drug_ID %>/<%= userId %>">Leave a New Review</a> |
+  <a href="/home/<%= userId %>">Back to Home</a> |
+  <a href="/delete/<%= userId %>">Delete My Account</a>
+</body>
+</html>
+

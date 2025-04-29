@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Drugs and Reviews</title>
+</head>
+<body>
+  <h1>Drugs That Treat This Disease</h1>
+
+  <% if (drugs.length > 0) { %>
+    <ul>
+      <% drugs.forEach(function(drug) { %>
+        <li>
+          <strong><%= drug.Drug_Name %></strong> (Type: <%= drug.Type %>)
+          <form action="/review/<%= drug.Drug_ID %>/<%= userId %>" method="GET" style="display:inline;">
+            <button type="submit">Leave a Review</button>
+          </form>
+        </li>
+      <% }) %>
+    </ul>
+  <% } else { %>
+    <p>No drugs found for this disease.</p>
+  <% } %>
+
+  <h2>Reviews:</h2>
+
+  <% if (reviews.length > 0) { %>
+    <ul>
+      <% reviews.forEach(function(review) { %>
+        <li>
+          <strong>Drug:</strong> <%= review.Drug_Name %><br>
+          <strong>Rating:</strong> <%= review.Rating %>/5<br>
+          <strong>Comment:</strong> <%= review.Comment %><br><br>
+        </li>
+      <% }) %>
+    </ul>
+  <% } else { %>
+    <p>No reviews found for these drugs.</p>
+  <% } %>
+
+  <br>
+  <a href="/home/<%= userId %>">Back to Home</a> |
+  <a href="/delete/<%= userId %>">Delete My Account</a>
+</body>
+</html>
+

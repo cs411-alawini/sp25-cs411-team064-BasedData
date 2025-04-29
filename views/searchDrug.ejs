@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>View Drug</title>
+</head>
+<body>
+  <h1><%= drug.Name %> (Type: <%= drug.Type %>)</h1>
+
+  <h2>Reviews:</h2>
+  <% if (reviews.length > 0) { %>
+    <ul>
+      <% reviews.forEach(function(review) { %>
+        <li>
+          <strong>User:</strong> <%= review.Username %><br>
+          <strong>Rating:</strong> <%= review.Rating %>/5<br>
+          <strong>Comment:</strong> <%= review.Comment %><br><br>
+        </li>
+      <% }) %>
+    </ul>
+  <% } else { %>
+    <p>No reviews yet for this drug.</p>
+  <% } %>
+
+  <br>
+  <a href="/search-drug/<%= userId %>">Back to Search Drug</a> |
+  <a href="/home/<%= userId %>">Back to Home</a> |
+  <a href="/delete/<%= userId %>">Delete My Account</a>
+</body>
+</html>
+

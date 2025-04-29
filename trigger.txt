@@ -1,0 +1,53 @@
+This is the trigger code in server.js:
+
+// Route to view the Review Log
+app.get('/view-log/:userId', (req, res) => {
+  const userId = req.params.userId;
+
+  const sql = 'SELECT * FROM Review_Log ORDER BY Created_At DESC';
+  connection.query(sql, (err, logs) => {
+    if (err) {
+      console.error('Error fetching review logs:', err);
+      return res.status(500).send('Database error');
+    }
+    res.render('viewReviewLog', { logs, userId });
+  });
+});
+
+This is the trigger code in viewReviewLog.ejs:
+
+// Route to view the Review Log
+app.get('/view-log/:userId', (req, res) => {
+  const userId = req.params.userId;
+
+  const sql = 'SELECT * FROM Review_Log ORDER BY Created_At DESC';
+  connection.query(sql, (err, logs) => {
+    if (err) {
+      console.error('Error fetching review logs:', err);
+      return res.status(500).send('Database error');
+    }
+    res.render('viewReviewLog', { logs, userId });
+  });
+});
+
+
+
+This is the table for the trigger:
+CREATE TABLE Review_Log (
+  Log_ID INT AUTO_INCREMENT PRIMARY KEY,
+  Review_ID INT,
+  User_ID INT,
+  Drug_ID INT,
+  Created_At TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+
+This is the trigger itself:
+CREATE TRIGGER after_insert_review
+AFTER INSERT ON DRUG_REVIEW
+FOR EACH ROW
+BEGIN
+  INSERT INTO Review_Log (Review_ID, User_ID, Drug_ID)
+  VALUES (NEW.Review_ID, NEW.User_ID, NEW.Drug_ID);
+END;
+

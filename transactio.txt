@@ -1,0 +1,71 @@
+SQL Query transaction:
+
+SELECT dr.Review_ID, u.User_ID, u.Age, dr.Rating, dr.Comment,
+  (SELECT AVG(dr2.Rating) FROM DRUG_REVIEW dr2 WHERE dr2.Drug_ID = dr.Drug_ID) AS Avg_Drug_Rating
+FROM DRUG_REVIEW dr
+JOIN USERS u ON dr.User_ID = u.User_ID
+JOIN DRUGS d ON dr.Drug_ID = d.Drug_ID
+WHERE dr.Drug_ID = ?
+ORDER BY u.Age ASC;
+
+
+Server.js code that has transaction:
+app.post('/submit-review/:drugId/:userId', (req, res) => {
+  const drugId = req.params.drugId;
+  const userId = req.params.userId;
+  const { rating, comment } = req.body;
+
+  connection.beginTransaction((err) => {
+    if (err) {
+      console.error('Error starting transaction:', err);
+      return res.status(500).send('Database transaction error');
+    }
+
+    const callProc = 'CALL insert_review_and_count(?, ?, ?, ?, @review_count)';
+    connection.query(callProc, [userId, drugId, comment, rating], (err) => {
+      if (err) {
+        console.error('Error calling stored procedure:', err);
+        return connection.rollback(() => {
+          res.status(500).send('Database error inserting review');
+        });
+      }
+
+      // Now run your advanced SELECT
+      const advancedSelect = `
+        SELECT dr.Review_ID, u.User_ID, u.Age, dr.Rating, dr.Comment,
+          (SELECT AVG(dr2.Rating) FROM DRUG_REVIEW dr2 WHERE dr2.Drug_ID = dr.Drug_ID) AS Avg_Drug_Rating
+        FROM DRUG_REVIEW dr
+        JOIN USERS u ON dr.User_ID = u.User_ID
+        JOIN DRUGS d ON dr.Drug_ID = d.Drug_ID
+        WHERE dr.Drug_ID = ?
+        ORDER BY u.Age ASC;
+      `;
+
+      connection.query(advancedSelect, [drugId], (err2, reviewList) => {
+        if (err2) {
+          console.error('Error running advanced select:', err2);
+          return connection.rollback(() => {
+            res.status(500).send('Database error during review retrieval');
+          });
+        }
+
+        connection.commit((err) => {
+          if (err) {
+            return connection.rollback(() => {
+              console.error('Error committing transaction:', err);
+              res.status(500).send('Commit error');
+            });
+          }
+
+          // After commit, render a new page showing all reviews for the drug
+          res.render('reviewListAfterSubmit', {
+            userId,
+            drugId,
+            reviewList
+          });
+        });
+      });
+    });
+  });
+});
+

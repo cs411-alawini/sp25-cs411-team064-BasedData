@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Input Symptoms</title>
+</head>
+<body>
+  <h1>Input Symptoms</h1>
+
+  <form action="/input-symptoms/<%= userId %>" method="POST">
+    <label for="symptoms">Enter your symptoms (comma separated):</label><br><br>
+    <input type="text" id="symptoms" name="symptoms" placeholder="e.g., headache, fever" required><br><br>
+
+    <button type="submit">Submit Symptoms</button>
+  </form>
+
+  <br>
+  <a href="/home/<%= userId %>">Back to Home</a> |
+  <a href="/delete/<%= userId %>">Delete My Account</a>
+</body>
+</html>

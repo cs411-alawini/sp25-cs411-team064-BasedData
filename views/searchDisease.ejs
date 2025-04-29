@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Search Disease</title>
+</head>
+<body>
+  <h1>Search for a Disease</h1>
+
+  <form action="/search-disease/<%= userId %>" method="POST">
+    <input type="text" name="diseaseName" placeholder="Enter disease name..." required>
+    <button type="submit">Search</button>
+  </form>
+
+  <br>
+
+  <% if (diseases.length > 0) { %>
+    <h2>Matching Diseases:</h2>
+    <ul>
+      <% diseases.forEach(function(disease) { %>
+        <li>
+          <a href="/select-disease/<%= disease.Disease_ID %>/<%= userId %>"><%= disease.Disease_Name %></a>
+        </li>
+      <% }) %>
+    </ul>
+  <% } else { %>
+    <p>No diseases found. Try another search!</p>
+  <% } %>
+
+  <br>
+  <a href="/home/<%= userId %>">Return to Home</a> |
+  <a href="/delete/<%= userId %>">Delete My Account</a>
+</body>
+</html>

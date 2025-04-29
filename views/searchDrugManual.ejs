@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Search Drug (Manual)</title>
+</head>
+<body>
+  <h1>Search for a Drug</h1>
+
+  <form action="/search-drug/<%= userId %>" method="POST">
+    <input type="text" name="drugName" placeholder="Enter drug name..." required>
+    <button type="submit">Search</button>
+  </form>
+
+  <br>
+
+  <% if (drugs.length > 0) { %>
+    <h2>Results:</h2>
+    <ul>
+      <% drugs.forEach(function(drug) { %>
+        <li>
+          <a href="/view-drug/<%= drug.Drug_ID %>/<%= userId %>"><%= drug.Name %></a> (Type: <%= drug.Type %>)
+        </li>
+      <% }) %>
+    </ul>
+  <% } else if (drugs.length === 0) { %>
+    <p>No drugs found. Try another search!</p>
+  <% } %>
+
+  <br>
+  <a href="/home/<%= userId %>">Back to Home</a> |
+  <a href="/delete/<%= userId %>">Delete My Account</a>
+</body>
+</html>

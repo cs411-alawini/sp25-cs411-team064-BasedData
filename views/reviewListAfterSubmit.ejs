@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Drug Reviews</title>
+</head>
+<body>
+  <h1>Reviews for This Drug</h1>
+
+  <% if (reviewList.length > 0) { %>
+    <ul>
+      <% reviewList.forEach(function(r) { %>
+        <li>
+          <strong>User ID:</strong> <%= r.User_ID %><br>
+          <strong>Age:</strong> <%= r.Age %><br>
+          <strong>Rating:</strong> <%= r.Rating %> / 5<br>
+          <strong>Comment:</strong> <%= r.Comment %><br>
+          <strong>Average Rating for Drug:</strong>
+<%= (r.Avg_Drug_Rating !== null ? r.Avg_Drug_Rating.toFixed(2) : 'No ratings yet') %>
+
+      <% }) %>
+    </ul>
+  <% } else { %>
+    <p>No reviews found for this drug yet.</p>
+  <% } %>
+
+  <br>
+  <a href="/home/<%= userId %>">Back to Home</a> |
+  <a href="/delete/<%= userId %>">Delete My Account</a>
+</body>
+</html>
