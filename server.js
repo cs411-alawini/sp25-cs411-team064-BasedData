@@ -322,7 +322,6 @@ app.post('/submit-review/:drugId/:userId', (req, res) => {
           }
 
           const reviewCount = rows[0].reviewCount;
-          // You can now show the review count if you want, or just success message
           res.send(`<h1>Review Submitted Successfully!</h1><p>You have now submitted ${reviewCount} reviews!</p><a href="/home/${userId}">Return to Home</a>`);
         });
       });
